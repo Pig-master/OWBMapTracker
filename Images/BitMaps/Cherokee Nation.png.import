@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bg5hdj432rsq3"
+path="res://.godot/imported/Cherokee Nation.png-7b65fb28594d467c1e703755de27e628.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Cherokee Nation.png"
+dest_files=["res://.godot/imported/Cherokee Nation.png-7b65fb28594d467c1e703755de27e628.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

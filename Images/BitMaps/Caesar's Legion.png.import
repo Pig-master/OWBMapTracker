@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://b86x8adnrikyb"
+path="res://.godot/imported/Caesar's Legion.png-34cf3dda5849a24b12b3aef52180307c.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Caesar's Legion.png"
+dest_files=["res://.godot/imported/Caesar's Legion.png-34cf3dda5849a24b12b3aef52180307c.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

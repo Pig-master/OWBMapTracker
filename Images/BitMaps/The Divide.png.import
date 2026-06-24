@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://kix8vxcovotl"
+path="res://.godot/imported/The Divide.png-e5b86fad95bf3d939f188e02a65ca743.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Divide.png"
+dest_files=["res://.godot/imported/The Divide.png-e5b86fad95bf3d939f188e02a65ca743.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://rg6uqvjxe7ma"
+path="res://.godot/imported/Claim Jumpers.png-a366f8a73ea2ed347601e0685debc8c4.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Claim Jumpers.png"
+dest_files=["res://.godot/imported/Claim Jumpers.png-a366f8a73ea2ed347601e0685debc8c4.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

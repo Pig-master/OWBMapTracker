@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dts5w574t1ksc"
+path="res://.godot/imported/Pine Ridge.png-12111028a649c94081e14aff60fa04cf.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Pine Ridge.png"
+dest_files=["res://.godot/imported/Pine Ridge.png-12111028a649c94081e14aff60fa04cf.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://de57cdh3kyw0b"
+path="res://.godot/imported/Las Granjas.png-9f89dda55f05aac8e923ced35b8691b3.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Las Granjas.png"
+dest_files=["res://.godot/imported/Las Granjas.png-9f89dda55f05aac8e923ced35b8691b3.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

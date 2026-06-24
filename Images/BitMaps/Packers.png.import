@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://b2qs5qfptbj5a"
+path="res://.godot/imported/Packers.png-f473afe2084f38d1b183a164e22e7acf.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Packers.png"
+dest_files=["res://.godot/imported/Packers.png-f473afe2084f38d1b183a164e22e7acf.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

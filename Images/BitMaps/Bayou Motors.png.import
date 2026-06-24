@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://b1kgt007rdxcp"
+path="res://.godot/imported/Bayou Motors.png-5b00833cb04df1419839365da9086c29.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Bayou Motors.png"
+dest_files=["res://.godot/imported/Bayou Motors.png-5b00833cb04df1419839365da9086c29.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

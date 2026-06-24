@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://p383uuo7y6ke"
+path="res://.godot/imported/Vault City.png-42a08b2943456ee50a82a7194d03a757.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Vault City.png"
+dest_files=["res://.godot/imported/Vault City.png-42a08b2943456ee50a82a7194d03a757.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

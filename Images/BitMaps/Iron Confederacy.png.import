@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cuniitny1o5n1"
+path="res://.godot/imported/Iron Confederacy.png-c4fa82ca53db5a0087f3b589a70cb108.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Iron Confederacy.png"
+dest_files=["res://.godot/imported/Iron Confederacy.png-c4fa82ca53db5a0087f3b589a70cb108.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

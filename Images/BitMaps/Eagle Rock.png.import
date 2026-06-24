@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://df3prbpcj8yy0"
+path="res://.godot/imported/Eagle Rock.png-1efcce1f14f2462e1c37c9dd68a0a54d.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Eagle Rock.png"
+dest_files=["res://.godot/imported/Eagle Rock.png-1efcce1f14f2462e1c37c9dd68a0a54d.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

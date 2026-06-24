@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cj7us1o20ffoj"
+path="res://.godot/imported/New Vegas.png-83282d8b8ee9b70238412f514c258ba5.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/New Vegas.png"
+dest_files=["res://.godot/imported/New Vegas.png-83282d8b8ee9b70238412f514c258ba5.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

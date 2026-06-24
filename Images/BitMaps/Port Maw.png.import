@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://y0k42mghv42f"
+path="res://.godot/imported/Port Maw.png-17e2bd6018c9013e1af96465957943d3.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Port Maw.png"
+dest_files=["res://.godot/imported/Port Maw.png-17e2bd6018c9013e1af96465957943d3.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

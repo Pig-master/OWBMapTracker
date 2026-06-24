@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bvfte7usdijn6"
+path="res://.godot/imported/Stoon Dandies.png-43fec19063bc83db1fced5bc70839629.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Stoon Dandies.png"
+dest_files=["res://.godot/imported/Stoon Dandies.png-43fec19063bc83db1fced5bc70839629.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

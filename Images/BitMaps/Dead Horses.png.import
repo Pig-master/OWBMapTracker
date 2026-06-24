@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://c6wthkyyxvjas"
+path="res://.godot/imported/Dead Horses.png-acbb9984a7508fc9aba0d71a7d93fc67.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Dead Horses.png"
+dest_files=["res://.godot/imported/Dead Horses.png-acbb9984a7508fc9aba0d71a7d93fc67.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

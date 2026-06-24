@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bpdiljb8jhhvb"
+path="res://.godot/imported/Fourways.png-d1d13e0fca83b8fe27e83e5348ff66c3.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Fourways.png"
+dest_files=["res://.godot/imported/Fourways.png-d1d13e0fca83b8fe27e83e5348ff66c3.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

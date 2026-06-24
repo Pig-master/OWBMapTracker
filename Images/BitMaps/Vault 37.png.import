@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://d1p8iou3jm0tp"
+path="res://.godot/imported/Vault 37.png-ce6770b10db875bef9acc0cee2e70934.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Vault 37.png"
+dest_files=["res://.godot/imported/Vault 37.png-ce6770b10db875bef9acc0cee2e70934.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

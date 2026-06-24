@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://ci2nk3boes7vm"
+path="res://.godot/imported/Bismarck.png-562d739d47ca2b3ea095226ffa3ae707.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Bismarck.png"
+dest_files=["res://.godot/imported/Bismarck.png-562d739d47ca2b3ea095226ffa3ae707.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://djcianqlma47k"
+path="res://.godot/imported/Foragers.png-6fc00bccfd5f9ee338a12b7f0bb50fc8.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Foragers.png"
+dest_files=["res://.godot/imported/Foragers.png-6fc00bccfd5f9ee338a12b7f0bb50fc8.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

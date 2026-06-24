@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://og7pysmxxsya"
+path="res://.godot/imported/Hangdogs.png-69185cf569372c1d5947244f8ea8245a.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Hangdogs.png"
+dest_files=["res://.godot/imported/Hangdogs.png-69185cf569372c1d5947244f8ea8245a.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

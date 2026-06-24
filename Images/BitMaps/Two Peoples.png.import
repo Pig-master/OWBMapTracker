@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bb3rb323ab83x"
+path="res://.godot/imported/Two Peoples.png-747409cffc4a2f71f84ed64d588048cb.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Two Peoples.png"
+dest_files=["res://.godot/imported/Two Peoples.png-747409cffc4a2f71f84ed64d588048cb.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cod1n6rojkj3r"
+path="res://.godot/imported/Shale's Army.png-59e2e223febf6eceaff29b7b1c794c77.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Shale's Army.png"
+dest_files=["res://.godot/imported/Shale's Army.png-59e2e223febf6eceaff29b7b1c794c77.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cipufomeov2jo"
+path="res://.godot/imported/Cult of Liberty.png-dfe99e3facae2333a0ef667010a241b5.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Cult of Liberty.png"
+dest_files=["res://.godot/imported/Cult of Liberty.png-dfe99e3facae2333a0ef667010a241b5.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

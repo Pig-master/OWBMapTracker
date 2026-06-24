@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://crsf7njt805u0"
+path="res://.godot/imported/Grabber Territory.png-ff0a799916a1b43b528b727be0a88441.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Grabber Territory.png"
+dest_files=["res://.godot/imported/Grabber Territory.png-ff0a799916a1b43b528b727be0a88441.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

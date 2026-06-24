@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://df0i4h1y43uaq"
+path="res://.godot/imported/The Patrolmen.png-0e1b798255c874adc16095a7161afe6d.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Patrolmen.png"
+dest_files=["res://.godot/imported/The Patrolmen.png-0e1b798255c874adc16095a7161afe6d.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

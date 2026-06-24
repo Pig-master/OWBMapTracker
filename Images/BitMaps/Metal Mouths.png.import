@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cqwxo8syp22bd"
+path="res://.godot/imported/Metal Mouths.png-86931347c75a69060ed6ac41c2881281.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Metal Mouths.png"
+dest_files=["res://.godot/imported/Metal Mouths.png-86931347c75a69060ed6ac41c2881281.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

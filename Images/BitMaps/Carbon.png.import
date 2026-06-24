@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bxbqrkgq8hmpx"
+path="res://.godot/imported/Carbon.png-3d25fb089757cc1c2de815afda55400b.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Carbon.png"
+dest_files=["res://.godot/imported/Carbon.png-3d25fb089757cc1c2de815afda55400b.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

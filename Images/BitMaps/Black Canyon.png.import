@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bq7pybxe1t2t3"
+path="res://.godot/imported/Black Canyon.png-5aa30b6ea7a0c7eea745a9629f634527.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Black Canyon.png"
+dest_files=["res://.godot/imported/Black Canyon.png-5aa30b6ea7a0c7eea745a9629f634527.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

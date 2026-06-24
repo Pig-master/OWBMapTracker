@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://7be000xr640r"
+path="res://.godot/imported/Archdiocese of Santa Fe.png-31cb8fb31285aa857874d9b2aa52e7f5.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Archdiocese of Santa Fe.png"
+dest_files=["res://.godot/imported/Archdiocese of Santa Fe.png-31cb8fb31285aa857874d9b2aa52e7f5.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

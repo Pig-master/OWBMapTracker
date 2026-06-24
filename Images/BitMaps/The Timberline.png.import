@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://c1jc4da5uxp02"
+path="res://.godot/imported/The Timberline.png-7ec5dc6676b55c749c9b12b4c44ad6a4.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Timberline.png"
+dest_files=["res://.godot/imported/The Timberline.png-7ec5dc6676b55c749c9b12b4c44ad6a4.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

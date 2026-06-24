@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dw63yk8nkqgot"
+path="res://.godot/imported/The Pioneer Company.png-48e431277a19ba1f6fad1ad280383837.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Pioneer Company.png"
+dest_files=["res://.godot/imported/The Pioneer Company.png-48e431277a19ba1f6fad1ad280383837.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

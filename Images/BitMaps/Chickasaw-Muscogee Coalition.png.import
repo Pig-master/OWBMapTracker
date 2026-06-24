@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cj8td5bxmeo7m"
+path="res://.godot/imported/Chickasaw-Muscogee Coalition.png-8194b2757efd8b6e8d32252a2655562f.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Chickasaw-Muscogee Coalition.png"
+dest_files=["res://.godot/imported/Chickasaw-Muscogee Coalition.png-8194b2757efd8b6e8d32252a2655562f.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

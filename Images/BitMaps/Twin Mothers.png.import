@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://c41xmiaq77xha"
+path="res://.godot/imported/Twin Mothers.png-76f243693480d58455526ece18ea06df.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Twin Mothers.png"
+dest_files=["res://.godot/imported/Twin Mothers.png-76f243693480d58455526ece18ea06df.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

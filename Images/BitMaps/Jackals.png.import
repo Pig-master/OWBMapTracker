@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bonn5jpqi1rsj"
+path="res://.godot/imported/Jackals.png-92547158a6b777781dacf7c1921c0e27.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Jackals.png"
+dest_files=["res://.godot/imported/Jackals.png-92547158a6b777781dacf7c1921c0e27.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

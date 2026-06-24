@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://d0oylkmj6c6qe"
+path="res://.godot/imported/The Chained Choir.png-9b02428071f0cead04bd9c06e161f85f.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Chained Choir.png"
+dest_files=["res://.godot/imported/The Chained Choir.png-9b02428071f0cead04bd9c06e161f85f.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

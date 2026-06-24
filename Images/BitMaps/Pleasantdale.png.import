@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://leiu8hlih2c7"
+path="res://.godot/imported/Pleasantdale.png-3bfdd01dea3840235eed216f30330c9b.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Pleasantdale.png"
+dest_files=["res://.godot/imported/Pleasantdale.png-3bfdd01dea3840235eed216f30330c9b.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

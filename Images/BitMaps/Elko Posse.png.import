@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://ilkia11ko1n6"
+path="res://.godot/imported/Elko Posse.png-bd4637cf272e78ef211e7ec584742160.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Elko Posse.png"
+dest_files=["res://.godot/imported/Elko Posse.png-bd4637cf272e78ef211e7ec584742160.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

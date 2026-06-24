@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://ccqaew3kw6xxp"
+path="res://.godot/imported/Rad Hazards.png-6a2d1ec59c20e7d0468b428a9ac82aac.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Rad Hazards.png"
+dest_files=["res://.godot/imported/Rad Hazards.png-6a2d1ec59c20e7d0468b428a9ac82aac.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

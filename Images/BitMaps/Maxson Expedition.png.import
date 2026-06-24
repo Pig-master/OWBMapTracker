@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bnal0q6dmsync"
+path="res://.godot/imported/Maxson Expedition.png-83c1ea36d63992aed6804de6eee44027.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Maxson Expedition.png"
+dest_files=["res://.godot/imported/Maxson Expedition.png-83c1ea36d63992aed6804de6eee44027.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://ck1n62ihdd8gt"
+path="res://.godot/imported/Max Sec.png-cb6451f712f26fee383eec2f8bd1b74b.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Max Sec.png"
+dest_files=["res://.godot/imported/Max Sec.png-cb6451f712f26fee383eec2f8bd1b74b.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

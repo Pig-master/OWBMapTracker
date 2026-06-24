@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://c1avp727rlem6"
+path="res://.godot/imported/Middlemark.png-12487ae3277e9f5e85ae9e9291aefda2.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Middlemark.png"
+dest_files=["res://.godot/imported/Middlemark.png-12487ae3277e9f5e85ae9e9291aefda2.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

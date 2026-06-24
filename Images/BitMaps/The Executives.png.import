@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://deaiq1n7q75uv"
+path="res://.godot/imported/The Executives.png-2798fea0f771b9e8fabd4ee09b1a9e06.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Executives.png"
+dest_files=["res://.godot/imported/The Executives.png-2798fea0f771b9e8fabd4ee09b1a9e06.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://immonpj5dcv8"
+path="res://.godot/imported/The Order.png-bd54f2c9ba903a074aba3aebc4fefd1c.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Order.png"
+dest_files=["res://.godot/imported/The Order.png-bd54f2c9ba903a074aba3aebc4fefd1c.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

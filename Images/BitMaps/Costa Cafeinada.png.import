@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://j288p64jorcu"
+path="res://.godot/imported/Costa Cafeinada.png-e4d2b2ee30a27944ad817a889bd95910.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Costa Cafeinada.png"
+dest_files=["res://.godot/imported/Costa Cafeinada.png-e4d2b2ee30a27944ad817a889bd95910.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

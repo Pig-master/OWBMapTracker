@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://c3nlu0n2ukrrp"
+path="res://.godot/imported/Gente Del Sol.png-e3bf7c438253389b63080d9018813d8a.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Gente Del Sol.png"
+dest_files=["res://.godot/imported/Gente Del Sol.png-e3bf7c438253389b63080d9018813d8a.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

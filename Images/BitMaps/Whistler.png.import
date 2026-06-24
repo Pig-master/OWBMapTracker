@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bc4yqwwodi14q"
+path="res://.godot/imported/Whistler.png-addb64118024e6d97cb0135ca1503a1c.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Whistler.png"
+dest_files=["res://.godot/imported/Whistler.png-addb64118024e6d97cb0135ca1503a1c.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

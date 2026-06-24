@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bwvj0ce6fghl3"
+path="res://.godot/imported/Modoc.png-6550a2366409236fea2cb62d58c012f0.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Modoc.png"
+dest_files=["res://.godot/imported/Modoc.png-6550a2366409236fea2cb62d58c012f0.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

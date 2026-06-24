@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bykeewl4kjmue"
+path="res://.godot/imported/Ejército Mexicano.png-b5019249e06d807b881ed29bb893465c.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Ejército Mexicano.png"
+dest_files=["res://.godot/imported/Ejército Mexicano.png-b5019249e06d807b881ed29bb893465c.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://b3y8w1pkempns"
+path="res://.godot/imported/Guardians.png-323e77d5ac3bcb8ecb31aa8a228f17e1.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Guardians.png"
+dest_files=["res://.godot/imported/Guardians.png-323e77d5ac3bcb8ecb31aa8a228f17e1.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

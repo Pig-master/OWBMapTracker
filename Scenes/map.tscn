@@ -1,0 +1,3326 @@
+[gd_scene format=3 uid="uid://bvcjp60w5fm3f"]
+
+[ext_resource type="Script" uid="uid://prf7bgit1oqv" path="res://Scripts/map.gd" id="1_26yhd"]
+[ext_resource type="Texture2D" uid="uid://c7bhxlxun17dm" path="res://Images/blank map.png" id="2_myvm1"]
+[ext_resource type="Script" uid="uid://b4prl62kp0t8x" path="res://Scripts/nation.gd" id="3_np2xp"]
+[ext_resource type="Texture2D" uid="uid://dnkoi6u8uo0i5" path="res://Images/Borders.png" id="3_q0mm3"]
+[ext_resource type="Texture2D" uid="uid://ine20x4jywcn" path="res://Images/Nations/215th.png" id="3_w7jjh"]
+[ext_resource type="BitMap" uid="uid://by2n2i78gfq4e" path="res://Images/BitMaps/215th.png" id="4_kpaho"]
+[ext_resource type="Texture2D" uid="uid://id5124q3rv2b" path="res://Images/Nations/Arborg Junta.png" id="5_w7jjh"]
+[ext_resource type="Texture2D" uid="uid://c0e34rlcmqfd3" path="res://Images/Nations/Archdiocese of Santa Fe.png" id="6_6q3n4"]
+[ext_resource type="Texture2D" uid="uid://ckv0lres2p16q" path="res://Images/Nations/Arroyo.png" id="7_4c2oa"]
+[ext_resource type="BitMap" uid="uid://bopnivca1sq3g" path="res://Images/BitMaps/Arborg Junta.png" id="7_f4ii0"]
+[ext_resource type="Script" uid="uid://c4cenq2igppgq" path="res://Scripts/menu.gd" id="7_w7jjh"]
+[ext_resource type="Texture2D" uid="uid://co4qgd5ys5s7w" path="res://Images/Nations/Assassin City.png" id="8_dlo4w"]
+[ext_resource type="BitMap" uid="uid://7be000xr640r" path="res://Images/BitMaps/Archdiocese of Santa Fe.png" id="9_eopii"]
+[ext_resource type="Texture2D" uid="uid://c3025xhjfgrdn" path="res://Images/Nations/Badland Buckaroos.png" id="9_q6lx1"]
+[ext_resource type="Texture2D" uid="uid://ckmb8bbahb1i" path="res://Images/Nations/Baggers.png" id="10_q6lx1"]
+[ext_resource type="Texture2D" uid="uid://dw33nrj0kjfme" path="res://Images/Nations/Battleford.png" id="11_5qtum"]
+[ext_resource type="BitMap" uid="uid://dcwucafe01qc2" path="res://Images/BitMaps/Arroyo.png" id="11_x2rrw"]
+[ext_resource type="Texture2D" uid="uid://b2bm1ka50sc42" path="res://Images/Nations/Baron's Eyrie.png" id="12_ie368"]
+[ext_resource type="BitMap" uid="uid://d0iei8ytpmajo" path="res://Images/BitMaps/Assassin City.png" id="13_i2ps1"]
+[ext_resource type="Texture2D" uid="uid://yj48rpqthkoh" path="res://Images/Nations/Baudelio Ranchers.png" id="13_x5dfk"]
+[ext_resource type="Texture2D" uid="uid://cvkpg1i22fix6" path="res://Images/Nations/Bayou Motors.png" id="14_fls3e"]
+[ext_resource type="BitMap" uid="uid://csr32q2tghubw" path="res://Images/BitMaps/Badland Buckaroos.png" id="15_inipc"]
+[ext_resource type="Texture2D" uid="uid://csvbyjtmf30o2" path="res://Images/Nations/Beltran-Levya.png" id="15_k63oc"]
+[ext_resource type="Texture2D" uid="uid://sd4r08ef16y" path="res://Images/Nations/Big Grass.png" id="16_j4oe2"]
+[ext_resource type="BitMap" uid="uid://fi365w05f4jw" path="res://Images/BitMaps/Baggers.png" id="17_j6stj"]
+[ext_resource type="Texture2D" uid="uid://qh4snvmntk7e" path="res://Images/Nations/Binary Counts.png" id="17_riaky"]
+[ext_resource type="Texture2D" uid="uid://ddckffeypflxt" path="res://Images/Nations/Bismarck.png" id="18_vtkp8"]
+[ext_resource type="BitMap" uid="uid://ds6tl43v4x832" path="res://Images/BitMaps/Battleford.png" id="19_jah6u"]
+[ext_resource type="Texture2D" uid="uid://dsljklu7pqibx" path="res://Images/Nations/Black Canyon.png" id="19_rg57b"]
+[ext_resource type="Texture2D" uid="uid://dcda4m7v0x37e" path="res://Images/Nations/Blue Rose Society.png" id="20_macow"]
+[ext_resource type="BitMap" uid="uid://ca702kuvqoit5" path="res://Images/BitMaps/Baron's Eyrie.png" id="21_r3eny"]
+[ext_resource type="Texture2D" uid="uid://dk7w7b84d7tp0" path="res://Images/Nations/Bone Dancers.png" id="21_uus22"]
+[ext_resource type="Texture2D" uid="uid://bex2bn1fpswte" path="res://Images/Nations/Broken Coast.png" id="22_tuwt4"]
+[ext_resource type="BitMap" uid="uid://cukq0v4gnf6x1" path="res://Images/BitMaps/Baudelio Ranchers.png" id="23_agwr8"]
+[ext_resource type="Texture2D" uid="uid://dumi3r6r5c1hg" path="res://Images/Nations/Caesar's Legion.png" id="23_tuwt4"]
+[ext_resource type="Texture2D" uid="uid://dn0md445i4jtn" path="res://Images/Nations/Carbon.png" id="24_1ye5v"]
+[ext_resource type="Texture2D" uid="uid://bavvxqnd5s8kd" path="res://Images/Nations/Carcass Walkers.png" id="25_8cxpi"]
+[ext_resource type="BitMap" uid="uid://b1kgt007rdxcp" path="res://Images/BitMaps/Bayou Motors.png" id="25_ltv0b"]
+[ext_resource type="Texture2D" uid="uid://01ht6ba4bkjt" path="res://Images/Nations/Chemult Station.png" id="26_wpvg5"]
+[ext_resource type="BitMap" uid="uid://ckvs3jy1dqquc" path="res://Images/BitMaps/Beltran-Levya.png" id="27_3iupj"]
+[ext_resource type="Texture2D" uid="uid://b6wabqo3sbrxj" path="res://Images/Nations/Cherokee Nation.png" id="27_078fj"]
+[ext_resource type="Texture2D" uid="uid://cuot2ri1bl21o" path="res://Images/Nations/Chichen Itza.png" id="28_unquq"]
+[ext_resource type="Texture2D" uid="uid://d288wy3bhm8md" path="res://Images/Nations/Chickasaw-Muscogee Coalition.png" id="29_pptwf"]
+[ext_resource type="BitMap" uid="uid://jon4vw16dbkl" path="res://Images/BitMaps/Big Grass.png" id="29_vymcg"]
+[ext_resource type="Texture2D" uid="uid://cxsi1q44qaxki" path="res://Images/Nations/Choctaw Nation.png" id="30_ak4ow"]
+[ext_resource type="Texture2D" uid="uid://w67t4lwwi5p5" path="res://Images/Nations/Church of the Silo.png" id="31_ajvq6"]
+[ext_resource type="BitMap" uid="uid://dqe3ansc3wg42" path="res://Images/BitMaps/Binary Counts.png" id="31_xwlu1"]
+[ext_resource type="Texture2D" uid="uid://dudkoo2amwye2" path="res://Images/Nations/Ciphers.png" id="32_cwq17"]
+[ext_resource type="Texture2D" uid="uid://e6ihqjos2on7" path="res://Images/Nations/Circle Junction.png" id="33_a0h6a"]
+[ext_resource type="Texture2D" uid="uid://blgs2yi7l7pw8" path="res://Images/Nations/Claim Jumpers.png" id="34_wcnou"]
+[ext_resource type="Texture2D" uid="uid://c3xrxpo4f00qk" path="res://Images/Nations/Costa Cafeinada.png" id="35_1xwpj"]
+[ext_resource type="Texture2D" uid="uid://dt072g3esjd32" path="res://Images/Nations/Cowboy Country.png" id="36_gg4i5"]
+[ext_resource type="Texture2D" uid="uid://bi0w51lklmehj" path="res://Images/Nations/Crazy Horns.png" id="37_natfk"]
+[ext_resource type="Texture2D" uid="uid://bmgm3c3tivakk" path="res://Images/Nations/Cult of Liberty.png" id="38_natfk"]
+[ext_resource type="Texture2D" uid="uid://bi8jik53j858t" path="res://Images/Nations/Cypher Warband.png" id="39_y410r"]
+[ext_resource type="Texture2D" uid="uid://cmxic5ogcfyqo" path="res://Images/Nations/Dam Busters.png" id="40_pwqop"]
+[ext_resource type="Texture2D" uid="uid://dih13rcvo88j8" path="res://Images/Nations/Dead Horses.png" id="41_xvpjn"]
+[ext_resource type="Texture2D" uid="uid://cnyh3cd06ebpe" path="res://Images/Nations/Deadline.png" id="42_n3g5y"]
+[ext_resource type="Texture2D" uid="uid://kbuafu7xs6a2" path="res://Images/Nations/Desperados.png" id="43_mjs32"]
+[ext_resource type="Texture2D" uid="uid://dh6yalpswb2sa" path="res://Images/Nations/Dramatae.png" id="44_6w3s7"]
+[ext_resource type="Texture2D" uid="uid://didxj2rlsl3ug" path="res://Images/Nations/Dredgers.png" id="45_wk4js"]
+[ext_resource type="Texture2D" uid="uid://bwgfcvsk5xykd" path="res://Images/Nations/Dundurn.png" id="46_wk4js"]
+[ext_resource type="Texture2D" uid="uid://bnyohd534gd7j" path="res://Images/Nations/Eagle Rock.png" id="47_biwe2"]
+[ext_resource type="Texture2D" uid="uid://d3qmv0nmorgv1" path="res://Images/Nations/Eastport.png" id="48_7t8hk"]
+[ext_resource type="Texture2D" uid="uid://cvtefynu2k0au" path="res://Images/Nations/Eden.png" id="49_dlwvm"]
+[ext_resource type="Texture2D" uid="uid://b1leok8pfsevk" path="res://Images/Nations/Eighties.png" id="50_ura26"]
+[ext_resource type="Texture2D" uid="uid://ch11fwehajgay" path="res://Images/Nations/Ejército Mexicano.png" id="51_00ubq"]
+[ext_resource type="Texture2D" uid="uid://dhcn4pq6ci04m" path="res://Images/Nations/Elko Posse.png" id="52_whj3y"]
+[ext_resource type="Texture2D" uid="uid://cmbefmti1tio" path="res://Images/Nations/Eureka.png" id="53_db2lx"]
+[ext_resource type="Texture2D" uid="uid://8floscpv1kai" path="res://Images/Nations/The Fringe.png" id="54_t45bj"]
+[ext_resource type="Texture2D" uid="uid://dxoeel46wdg1e" path="res://Images/Nations/Far Son.png" id="55_qokn7"]
+[ext_resource type="Texture2D" uid="uid://c78qg2sfppkn2" path="res://Images/Nations/Foragers.png" id="56_g172m"]
+[ext_resource type="Texture2D" uid="uid://b0oxq3m8awdmw" path="res://Images/Nations/Four Fathers.png" id="57_xotsd"]
+[ext_resource type="Texture2D" uid="uid://ckctbhsc01jut" path="res://Images/Nations/Fourways.png" id="58_lq0ec"]
+[ext_resource type="Texture2D" uid="uid://bmquffmbp6h7i" path="res://Images/Nations/Free Fighters.png" id="59_6nmmx"]
+[ext_resource type="Texture2D" uid="uid://c3rsb17cst4fk" path="res://Images/Nations/Gator Maws.png" id="60_6cmmi"]
+[ext_resource type="Texture2D" uid="uid://d4ayahg66w684" path="res://Images/Nations/Gente Del Sol.png" id="61_he8li"]
+[ext_resource type="Texture2D" uid="uid://dv416te8jwn7c" path="res://Images/Nations/Glowbugs.png" id="62_gj523"]
+[ext_resource type="Texture2D" uid="uid://mqben3xwlcrg" path="res://Images/Nations/Glow's Cradle.png" id="63_t8p55"]
+[ext_resource type="Texture2D" uid="uid://ohqbof7vbl71" path="res://Images/Nations/Riperult Territory.png" id="64_vyy0v"]
+[ext_resource type="Texture2D" uid="uid://b37vndyqekyqq" path="res://Images/Nations/Guardians.png" id="65_47muu"]
+[ext_resource type="Texture2D" uid="uid://dsdh5uy8l43k5" path="res://Images/Nations/Guerreros de Honduras.png" id="66_aq71w"]
+[ext_resource type="Texture2D" uid="uid://qx2bmfqntyie" path="res://Images/Nations/Haida Confederation.png" id="67_x12ss"]
+[ext_resource type="Texture2D" uid="uid://56j85dy1qdyo" path="res://Images/Nations/Heaven's Gate.png" id="68_wg73t"]
+[ext_resource type="Texture2D" uid="uid://csi537pl6su43" path="res://Images/Nations/High Chapel.png" id="69_f0niv"]
+[ext_resource type="Texture2D" uid="uid://og6c8v2sroo2" path="res://Images/Nations/Highland Watch.png" id="70_eeeqk"]
+[ext_resource type="Texture2D" uid="uid://cyqt6lcb2n4lr" path="res://Images/Nations/Historians.png" id="71_7jeke"]
+[ext_resource type="Texture2D" uid="uid://b5sm51mwsuyti" path="res://Images/Nations/Houston Rockets.png" id="72_ryvi3"]
+[ext_resource type="Texture2D" uid="uid://nra54m32f2ti" path="res://Images/Nations/Iron Alliance.png" id="73_cfmg6"]
+[ext_resource type="Texture2D" uid="uid://cnywa1jiom5j3" path="res://Images/Nations/The Pioneer Company.png" id="74_acdd6"]
+[ext_resource type="Texture2D" uid="uid://bn3bywur20cl5" path="res://Images/Nations/Ironmongers.png" id="75_kergw"]
+[ext_resource type="Texture2D" uid="uid://cx65w4wvsro1x" path="res://Images/Nations/Jackals.png" id="76_4adn6"]
+[ext_resource type="Texture2D" uid="uid://pmchj18lxobc" path="res://Images/Nations/Jacksons.png" id="77_3qwpy"]
+[ext_resource type="Texture2D" uid="uid://b0pp8ap03e4fq" path="res://Images/Nations/Kamlo.png" id="78_wkddh"]
+[ext_resource type="Texture2D" uid="uid://hvoe8hny66eg" path="res://Images/Nations/Kingdom of Manitoba.png" id="79_gh6cp"]
+[ext_resource type="Texture2D" uid="uid://7lpinuxqcd3u" path="res://Images/Nations/Klamath.png" id="80_8m7o7"]
+[ext_resource type="Texture2D" uid="uid://c8gi5c13nl61f" path="res://Images/Nations/Koover.png" id="81_otjl3"]
+[ext_resource type="Texture2D" uid="uid://dqrc2p0cgac33" path="res://Images/Nations/Lanius's Cohort.png" id="82_q3vi3"]
+[ext_resource type="Texture2D" uid="uid://dl3xtlkpswtlt" path="res://Images/Nations/Las Granjas.png" id="83_vkeii"]
+[ext_resource type="Texture2D" uid="uid://dxryc3ro8aqwb" path="res://Images/Nations/Live Wires.png" id="84_3fatf"]
+[ext_resource type="Texture2D" uid="uid://cv0evxrovl6k1" path="res://Images/Nations/Loid's Ministry.png" id="85_f8b0g"]
+[ext_resource type="Texture2D" uid="uid://qcjdxu4vceqe" path="res://Images/Nations/Los.png" id="86_dwv62"]
+[ext_resource type="Texture2D" uid="uid://bk74hqxa748k" path="res://Images/Nations/Lonetree.png" id="87_l44yf"]
+[ext_resource type="Texture2D" uid="uid://ba66syakn2iq5" path="res://Images/Nations/Lord's Anointed.png" id="88_uls7x"]
+[ext_resource type="Texture2D" uid="uid://bv2pnph11lqy3" path="res://Images/Nations/Lone Star.png" id="89_5lbwy"]
+[ext_resource type="Texture2D" uid="uid://cp66wbhxinvb" path="res://Images/Nations/Lost Hills.png" id="90_bmb3c"]
+[ext_resource type="Texture2D" uid="uid://cg02ewsh4fi3d" path="res://Images/Nations/Lubbock.png" id="91_egrof"]
+[ext_resource type="Texture2D" uid="uid://bxa6g2bw67x8h" path="res://Images/Nations/Luminous Ones.png" id="92_max1q"]
+[ext_resource type="Texture2D" uid="uid://c7uqlk2s62chu" path="res://Images/Nations/MacArthur.png" id="93_mfcbv"]
+[ext_resource type="Texture2D" uid="uid://c6wj4r3c6r3nr" path="res://Images/Nations/Marrow Drinkers.png" id="94_ntdss"]
+[ext_resource type="Texture2D" uid="uid://8kr43x8p0pe" path="res://Images/Nations/Marshall Republic.png" id="95_kvsub"]
+[ext_resource type="Texture2D" uid="uid://0fvw73bipjlw" path="res://Images/Nations/Max Sec.png" id="96_q3kqh"]
+[ext_resource type="Texture2D" uid="uid://0u4f4jy1mg0d" path="res://Images/Nations/Maxson Expedition.png" id="97_ltf5x"]
+[ext_resource type="Texture2D" uid="uid://d2lwf0gke2lu6" path="res://Images/Nations/Mescalero Nation.png" id="98_f0ial"]
+[ext_resource type="Texture2D" uid="uid://dl5v8821ubl2h" path="res://Images/Nations/Metis Congress.png" id="99_er6kg"]
+[ext_resource type="Texture2D" uid="uid://bpqi05rlgyxlx" path="res://Images/Nations/Metal Mouths.png" id="100_71wgw"]
+[ext_resource type="Texture2D" uid="uid://c1f4n2nle17jd" path="res://Images/Nations/Middlemark.png" id="101_5vfgt"]
+[ext_resource type="Texture2D" uid="uid://bxdc7msswf4x8" path="res://Images/Nations/Mirelurk Tribe.png" id="102_j3mij"]
+[ext_resource type="Texture2D" uid="uid://bk1bhe36muyx1" path="res://Images/Nations/Modoc.png" id="103_xyd4q"]
+[ext_resource type="Texture2D" uid="uid://cqif5g08n2s0c" path="res://Images/Nations/Mojave Territories.png" id="104_exvqp"]
+[ext_resource type="Texture2D" uid="uid://bdtlxfjyvwy8e" path="res://Images/Nations/Mojave Chapter.png" id="105_567om"]
+[ext_resource type="Texture2D" uid="uid://b3ld0p1jmdrlf" path="res://Images/Nations/Montana Chapter.png" id="106_vi4x8"]
+[ext_resource type="Texture2D" uid="uid://dnr3uj6m2y600" path="res://Images/Nations/Murtaugh Reformers.png" id="107_152bs"]
+[ext_resource type="Texture2D" uid="uid://wls0dk4ns0rj" path="res://Images/Nations/Navajo.png" id="108_yf64f"]
+[ext_resource type="Texture2D" uid="uid://b4crgak6h5oy3" path="res://Images/Nations/Navarro Territories.png" id="109_1m378"]
+[ext_resource type="Texture2D" uid="uid://c0wpva2a8uk3n" path="res://Images/Nations/New California Republic.png" id="110_qj7np"]
+[ext_resource type="Texture2D" uid="uid://b402dvsdcbv1m" path="res://Images/Nations/New Canaan.png" id="111_bnxxb"]
+[ext_resource type="Texture2D" uid="uid://b0fmlhlghxwss" path="res://Images/Nations/New Hammond.png" id="112_cuh0y"]
+[ext_resource type="Texture2D" uid="uid://8yocqg2yyjf1" path="res://Images/Nations/New Reno.png" id="113_ouig2"]
+[ext_resource type="Texture2D" uid="uid://bxgye2ipgb8xp" path="res://Images/Nations/New Vegas.png" id="114_sdcb0"]
+[ext_resource type="Texture2D" uid="uid://ch4761rhdxweq" path="res://Images/Nations/New Victoria.png" id="115_x0qat"]
+[ext_resource type="Texture2D" uid="uid://cphuycaypy23q" path="res://Images/Nations/Newton.png" id="116_gaosk"]
+[ext_resource type="Texture2D" uid="uid://bjcehc48wpaqg" path="res://Images/Nations/Niitsitapi.png" id="117_vl3pk"]
+[ext_resource type="Texture2D" uid="uid://c4cikpnvbqo8r" path="res://Images/Nations/Northern Khans.png" id="118_g8h6v"]
+[ext_resource type="Texture2D" uid="uid://beb0mh0jk0b7h" path="res://Images/Nations/Nueva Aztlán.png" id="119_ywa6a"]
+[ext_resource type="Texture2D" uid="uid://811loct3la8s" path="res://Images/Nations/Olympus Tribe.png" id="120_u3vif"]
+[ext_resource type="Texture2D" uid="uid://c1ppnbokkoa2d" path="res://Images/Nations/Ouroboros.png" id="121_m2kig"]
+[ext_resource type="Texture2D" uid="uid://ccec5n7kiur1a" path="res://Images/Nations/Packers.png" id="122_vr6fe"]
+[ext_resource type="Texture2D" uid="uid://ct5x2lec38wgc" path="res://Images/Nations/Passkeepers.png" id="123_2cqlk"]
+[ext_resource type="Texture2D" uid="uid://bygf4pwgb58kd" path="res://Images/Nations/Paz Bandits.png" id="124_q3vi3"]
+[ext_resource type="Texture2D" uid="uid://c1y520r8bn7pt" path="res://Images/Nations/Pecos Colony.png" id="125_vkeii"]
+[ext_resource type="Texture2D" uid="uid://dbrti3gpc6bk" path="res://Images/Nations/Petro Chico.png" id="126_3fatf"]
+[ext_resource type="Texture2D" uid="uid://bhbeoy2dnmq3i" path="res://Images/Nations/Pine Ridge.png" id="127_f8b0g"]
+[ext_resource type="Texture2D" uid="uid://cq3wgjyi51dvl" path="res://Images/Nations/Pleasantdale.png" id="128_dwv62"]
+[ext_resource type="Texture2D" uid="uid://dj2ngqvdbnc1p" path="res://Images/Nations/Port Maw.png" id="129_l44yf"]
+[ext_resource type="Texture2D" uid="uid://c57gg3qisqyak" path="res://Images/Nations/Protectron Security Hub.png" id="130_uls7x"]
+[ext_resource type="Texture2D" uid="uid://dkstxa06r2iqq" path="res://Images/Nations/Rad Hazards.png" id="131_5lbwy"]
+[ext_resource type="Texture2D" uid="uid://dgike5hra164d" path="res://Images/Nations/Reclamation Army Depot.png" id="132_bmb3c"]
+[ext_resource type="Texture2D" uid="uid://74vetlbmnle3" path="res://Images/Nations/Republic of the Rio Grande.png" id="133_egrof"]
+[ext_resource type="Texture2D" uid="uid://c3cd4u45fs0jv" path="res://Images/Nations/Republic of Three Rivers.png" id="134_max1q"]
+[ext_resource type="Texture2D" uid="uid://b52hiui80trte" path="res://Images/Nations/Rib Breakers.png" id="135_mfcbv"]
+[ext_resource type="Texture2D" uid="uid://cxgvjm7fpyni" path="res://Images/Nations/Grabber Territory.png" id="136_e8rgn"]
+[ext_resource type="Texture2D" uid="uid://nvgvto8oub17" path="res://Images/Nations/Roach King.png" id="137_hy6yc"]
+[ext_resource type="Texture2D" uid="uid://7menltwxyimb" path="res://Images/Nations/Robot City.png" id="138_slgtx"]
+[ext_resource type="Texture2D" uid="uid://t153kunkqna6" path="res://Images/Nations/Rogue Rangers.png" id="139_03dox"]
+[ext_resource type="Texture2D" uid="uid://d3hklygqplgpk" path="res://Images/Nations/Rotpurgers.png" id="140_7h2y6"]
+[ext_resource type="Texture2D" uid="uid://c0hn4qjn0hgo3" path="res://Images/Nations/Ruby Valley Refuge.png" id="141_a433v"]
+[ext_resource type="Texture2D" uid="uid://gy3ebewe56mb" path="res://Images/Nations/Ruminators.png" id="142_d6exg"]
+[ext_resource type="Texture2D" uid="uid://bf7wa5x7patc7" path="res://Images/Nations/Rusty Hooks.png" id="143_ug4yn"]
+[ext_resource type="Texture2D" uid="uid://bvicq2jaf4swy" path="res://Images/Nations/Safehaven.png" id="144_maqh8"]
+[ext_resource type="Texture2D" uid="uid://dp71qqotyt32d" path="res://Images/Nations/Scorpion's Bite.png" id="145_amxu8"]
+[ext_resource type="Texture2D" uid="uid://b8nn2to3jqh3" path="res://Images/Nations/Scrappers Compact.png" id="146_ifw5l"]
+[ext_resource type="Texture2D" uid="uid://ciugkdbgr1jtl" path="res://Images/Nations/Shale's Army.png" id="147_j1ky7"]
+[ext_resource type="Texture2D" uid="uid://bs2kdmp3ttrsv" path="res://Images/Nations/Shi.png" id="148_86nfi"]
+[ext_resource type="Texture2D" uid="uid://86w08ky8knt3" path="res://Images/Nations/Shoshone Nation.png" id="149_2qum1"]
+[ext_resource type="Texture2D" uid="uid://cu46eoi1hybc7" path="res://Images/Nations/Site Y.png" id="150_ddp4e"]
+[ext_resource type="Texture2D" uid="uid://bnsc46s4fneni" path="res://Images/Nations/Sinaloa Cartel.png" id="151_qbhdu"]
+[ext_resource type="Texture2D" uid="uid://dru7doby2gqsf" path="res://Images/Nations/Sky Reavers.png" id="152_t25pe"]
+[ext_resource type="Texture2D" uid="uid://x15nof1k58a4" path="res://Images/Nations/Slags.png" id="153_teff4"]
+[ext_resource type="Texture2D" uid="uid://c6a60uffqp1bs" path="res://Images/Nations/S'Lanter.png" id="154_jr3kw"]
+[ext_resource type="Texture2D" uid="uid://dnl50newowda8" path="res://Images/Nations/Sleepers.png" id="155_maqef"]
+[ext_resource type="Texture2D" uid="uid://wy0765drhsvf" path="res://Images/Nations/Sorrows.png" id="156_vuu6t"]
+[ext_resource type="Texture2D" uid="uid://clyup4xcvs7cn" path="res://Images/Nations/Sons of Kaga.png" id="157_2jcy3"]
+[ext_resource type="Texture2D" uid="uid://dbrmnumldcb7g" path="res://Images/Nations/Standing Rock.png" id="158_ycur6"]
+[ext_resource type="Texture2D" uid="uid://cxlaltx75b5t" path="res://Images/Nations/State of Moose Jaw.png" id="159_leneb"]
+[ext_resource type="Texture2D" uid="uid://06sr1anb6eug" path="res://Images/Nations/Stoon Dandies.png" id="160_06pvf"]
+[ext_resource type="Texture2D" uid="uid://bv18rp540wv4u" path="res://Images/Nations/Storm Mongers.png" id="161_m37kt"]
+[ext_resource type="Texture2D" uid="uid://qdrviwxts4ni" path="res://Images/Nations/Strathcommune.png" id="162_wsqoc"]
+[ext_resource type="Texture2D" uid="uid://fwfdkwb8pqos" path="res://Images/Nations/Summers Federation.png" id="163_1f1hd"]
+[ext_resource type="Texture2D" uid="uid://dput3qegef4k0" path="res://Images/Nations/Sun Dogs.png" id="164_cqosk"]
+[ext_resource type="Texture2D" uid="uid://dd7k6ol0ybkn0" path="res://Images/Nations/Syilx Nation.png" id="165_wgx8l"]
+[ext_resource type="Texture2D" uid="uid://cm1btso53ggwr" path="res://Images/Nations/Tar Walkers.png" id="166_84tft"]
+[ext_resource type="Texture2D" uid="uid://s24vo2f6k2ft" path="res://Images/Nations/Texan Arms Association.png" id="167_1d1ii"]
+[ext_resource type="Texture2D" uid="uid://cwapj2krxa06s" path="res://Images/Nations/Texan Brotherhood.png" id="168_0aesq"]
+[ext_resource type="Texture2D" uid="uid://d256er4u1yinc" path="res://Images/Nations/The Apostles.png" id="169_8rdsi"]
+[ext_resource type="Texture2D" uid="uid://jil4127yg7lh" path="res://Images/Nations/The Blighted Woods.png" id="170_kk31a"]
+[ext_resource type="Texture2D" uid="uid://bjhw0m53ltcu6" path="res://Images/Nations/The Carthaginians.png" id="171_oj7wn"]
+[ext_resource type="Texture2D" uid="uid://b1q0k45nfax3p" path="res://Images/Nations/The Cause.png" id="172_8emrb"]
+[ext_resource type="Texture2D" uid="uid://guq61ygd1ox6" path="res://Images/Nations/The Chained Choir.png" id="173_afdtx"]
+[ext_resource type="Texture2D" uid="uid://yag2hc3ubgy5" path="res://Images/Nations/The Damned.png" id="174_25j0e"]
+[ext_resource type="Texture2D" uid="uid://dkaa1l6ifpomm" path="res://Images/Nations/The Den.png" id="175_lpw61"]
+[ext_resource type="Texture2D" uid="uid://btlf4q3dj8jb2" path="res://Images/Nations/The Divide.png" id="176_lm0ct"]
+[ext_resource type="Texture2D" uid="uid://dy7nm1nvk5twe" path="res://Images/Nations/The Executives.png" id="177_fe3qf"]
+[ext_resource type="Texture2D" uid="uid://dup73t556xh4g" path="res://Images/Nations/The Flawed Parish.png" id="178_g5fs4"]
+[ext_resource type="Texture2D" uid="uid://d03g6wq1ow2h" path="res://Images/Nations/Fallen Creed.png" id="179_86nfi"]
+[ext_resource type="Texture2D" uid="uid://dduo75u25t4rn" path="res://Images/Nations/The Gateway.png" id="180_2qum1"]
+[ext_resource type="Texture2D" uid="uid://dtuogm5oelcao" path="res://Images/Nations/The Grand Duchy of Langenburg.png" id="181_ddp4e"]
+[ext_resource type="Texture2D" uid="uid://h0yr12n11odx" path="res://Images/Nations/The Last Lodge.png" id="182_qbhdu"]
+[ext_resource type="Texture2D" uid="uid://b7h0acwg0joh0" path="res://Images/Nations/The Great Stampede.png" id="183_t25pe"]
+[ext_resource type="Texture2D" uid="uid://dyyhshlumugk2" path="res://Images/Nations/The Last Patrol.png" id="184_teff4"]
+[ext_resource type="Texture2D" uid="uid://bhajm6tf5sjdq" path="res://Images/Nations/The Last Redoubt.png" id="185_jr3kw"]
+[ext_resource type="Texture2D" uid="uid://c2i13b1gbe8dq" path="res://Images/Nations/The Old Believers.png" id="186_maqef"]
+[ext_resource type="Texture2D" uid="uid://c0phq2su568w3" path="res://Images/Nations/The Old Bones.png" id="187_vuu6t"]
+[ext_resource type="Texture2D" uid="uid://dvqlu6vm3xug3" path="res://Images/Nations/The Old Country.png" id="188_2jcy3"]
+[ext_resource type="Texture2D" uid="uid://dx41y5qkpp5hk" path="res://Images/Nations/The Order.png" id="189_ycur6"]
+[ext_resource type="Texture2D" uid="uid://whtlo4y24lfv" path="res://Images/Nations/The Patrolmen.png" id="190_leneb"]
+[ext_resource type="Texture2D" uid="uid://ck3buubui38vb" path="res://Images/Nations/The Pursuant.png" id="191_hj43s"]
+[ext_resource type="Texture2D" uid="uid://b1s0h715lwbd8" path="res://Images/Nations/The Rapids.png" id="192_660u4"]
+[ext_resource type="Texture2D" uid="uid://ce1caa2jlqa51" path="res://Images/Nations/The Reservation.png" id="193_ygy50"]
+[ext_resource type="Texture2D" uid="uid://ds36s3qpsvwl1" path="res://Images/Nations/The Timberline.png" id="194_6cn16"]
+[ext_resource type="Texture2D" uid="uid://b48ktjqvqsx57" path="res://Images/Nations/The Viceroyalty.png" id="195_kpaho"]
+[ext_resource type="Texture2D" uid="uid://bxy5grtaelnnw" path="res://Images/Nations/Tierra de los Tzotzil.png" id="196_f4ii0"]
+[ext_resource type="Texture2D" uid="uid://yofabpvjc5ev" path="res://Images/Nations/Timekeepers.png" id="197_x3ev0"]
+[ext_resource type="Texture2D" uid="uid://diprju8ni41b8" path="res://Images/Nations/Tlalocan.png" id="198_c2wms"]
+[ext_resource type="Texture2D" uid="uid://dco3srfsjmob6" path="res://Images/Nations/Tohono Nation.png" id="199_53mws"]
+[ext_resource type="Texture2D" uid="uid://cv1vvextdjkhm" path="res://Images/Nations/Yakama Nation.png" id="200_h5fia"]
+[ext_resource type="Texture2D" uid="uid://yu332wg0mkb0" path="res://Images/Nations/Tubeheads.png" id="201_ej15u"]
+[ext_resource type="Texture2D" uid="uid://b21krendpepe7" path="res://Images/Nations/TV Town.png" id="202_rugrc"]
+[ext_resource type="Texture2D" uid="uid://d28smb2ae6ody" path="res://Images/Nations/Twin Mothers.png" id="203_61cu1"]
+[ext_resource type="Texture2D" uid="uid://dj0vp73kf0ey4" path="res://Images/Nations/Two Sun.png" id="204_ksuo8"]
+[ext_resource type="Texture2D" uid="uid://8737vtmenqde" path="res://Images/Nations/Two Peoples.png" id="205_3o4oe"]
+[ext_resource type="Texture2D" uid="uid://g30yyiigdmsk" path="res://Images/Nations/Uintah.png" id="206_gtubv"]
+[ext_resource type="Texture2D" uid="uid://lcegjjxesvfk" path="res://Images/Nations/Umbra.png" id="207_cfuph"]
+[ext_resource type="Texture2D" uid="uid://xx6vkeqampek" path="res://Images/Nations/Unbound.png" id="208_eopii"]
+[ext_resource type="Texture2D" uid="uid://dbftgraiy4e8g" path="res://Images/Nations/Unity of Austin.png" id="209_x2rrw"]
+[ext_resource type="Texture2D" uid="uid://bpf3orwixews8" path="res://Images/Nations/Valle Bandits.png" id="210_i2ps1"]
+[ext_resource type="Texture2D" uid="uid://xdo24862hyrh" path="res://Images/Nations/Vault 37.png" id="211_inipc"]
+[ext_resource type="Texture2D" uid="uid://0bk0necm4bsk" path="res://Images/Nations/Vault City.png" id="212_j6stj"]
+[ext_resource type="Texture2D" uid="uid://cbnxje2gjx5sq" path="res://Images/Nations/Vipers.png" id="213_jah6u"]
+[ext_resource type="Texture2D" uid="uid://brqxrfunqyt21" path="res://Images/Nations/Washington Brotherhood.png" id="214_r3eny"]
+[ext_resource type="Texture2D" uid="uid://653uxeok7knp" path="res://Images/Nations/White Legs.png" id="215_agwr8"]
+[ext_resource type="Texture2D" uid="uid://6lmnwhe0oqf2" path="res://Images/Nations/Whistler.png" id="216_ltv0b"]
+[ext_resource type="Texture2D" uid="uid://djuspoqxo55ci" path="res://Images/Nations/Withered Dogs.png" id="217_3iupj"]
+[ext_resource type="Texture2D" uid="uid://b21g4mmra4umd" path="res://Images/Nations/Yakuza Territories.png" id="218_vymcg"]
+[ext_resource type="Texture2D" uid="uid://csixqmysyjbpv" path="res://Images/Nations/Yellowstone Park.png" id="219_xwlu1"]
+[ext_resource type="Texture2D" uid="uid://by5mb5s12v4yc" path="res://Images/Nations/Troll Warden.png" id="220_8m0ob"]
+[ext_resource type="Texture2D" uid="uid://df70cgapnxa0t" path="res://Images/Nations/Coal Consortium.png" id="221_n1alf"]
+[ext_resource type="Texture2D" uid="uid://cvnaog6v7jq1g" path="res://Images/Nations/Hangdogs.png" id="222_660u4"]
+[ext_resource type="Texture2D" uid="uid://beldm6b8ah14x" path="res://Images/Nations/Painted Rock.png" id="223_ygy50"]
+[ext_resource type="Texture2D" uid="uid://dmgp8v4dxyfkv" path="res://Images/Nations/Iron Confederacy.png" id="224_6cn16"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_eopii"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_x2rrw"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_i2ps1"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_inipc"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_j6stj"]
+
+[node name="map" type="CanvasLayer" unique_id=834581155 groups=["Map"]]
+follow_viewport_enabled = true
+script = ExtResource("1_26yhd")
+
+[node name="BG" type="MarginContainer" parent="." unique_id=917936122]
+anchors_preset = -1
+anchor_left = -0.503
+anchor_top = -0.49800003
+anchor_right = 4.09
+anchor_bottom = 4.0540004
+offset_left = 0.18701172
+offset_top = -0.29599
+offset_right = -0.4111328
+offset_bottom = 0.0078125
+mouse_filter = 2
+
+[node name="Base" type="ColorRect" parent="BG" unique_id=177864934]
+layout_mode = 2
+mouse_filter = 2
+color = Color(0.14117648, 0.17254902, 0.54509807, 1)
+
+[node name="Base" type="MarginContainer" parent="." unique_id=244517519]
+offset_right = 4132.0
+offset_bottom = 2304.0
+mouse_filter = 2
+
+[node name="Base" type="TextureRect" parent="Base" unique_id=573736908]
+layout_mode = 2
+mouse_filter = 2
+texture = ExtResource("2_myvm1")
+
+[node name="Filter" type="MarginContainer" parent="." unique_id=2097054239]
+anchors_preset = -1
+anchor_right = 3.6150002
+anchor_bottom = 3.5970001
+offset_left = -17.0
+offset_top = -11.0
+offset_right = 0.51953125
+offset_bottom = 0.14404297
+
+[node name="Empty" type="Button" parent="Filter" unique_id=1074343331]
+layout_mode = 2
+theme_override_styles/normal = SubResource("StyleBoxEmpty_eopii")
+theme_override_styles/pressed = SubResource("StyleBoxEmpty_x2rrw")
+theme_override_styles/hover = SubResource("StyleBoxEmpty_i2ps1")
+theme_override_styles/disabled = SubResource("StyleBoxEmpty_inipc")
+theme_override_styles/focus = SubResource("StyleBoxEmpty_j6stj")
+
+[node name="Nations" type="Control" parent="." unique_id=2062180345]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="215th" type="MarginContainer" parent="Nations" unique_id=134768033]
+layout_mode = 0
+offset_left = 946.0
+offset_top = 1065.0
+offset_right = 990.0
+offset_bottom = 1120.0
+mouse_filter = 2
+
+[node name="215th" type="TextureButton" parent="Nations/215th" unique_id=844692136]
+layout_mode = 2
+texture_normal = ExtResource("3_w7jjh")
+texture_click_mask = ExtResource("4_kpaho")
+script = ExtResource("3_np2xp")
+
+[node name="Arborg Junta" type="MarginContainer" parent="Nations" unique_id=170750891]
+layout_mode = 0
+offset_left = 1752.0
+offset_top = 115.0
+offset_right = 1886.0
+offset_bottom = 248.0
+mouse_filter = 2
+
+[node name="Arborg Junta" type="TextureButton" parent="Nations/Arborg Junta" unique_id=1817443277]
+layout_mode = 2
+texture_normal = ExtResource("5_w7jjh")
+texture_click_mask = ExtResource("7_f4ii0")
+script = ExtResource("3_np2xp")
+
+[node name="Archdiocese of Santa Fe" type="MarginContainer" parent="Nations" unique_id=1605779654]
+layout_mode = 0
+offset_left = 1489.0
+offset_top = 1167.0
+offset_right = 1595.0
+offset_bottom = 1247.0
+mouse_filter = 2
+
+[node name="Archdiocese of Santa Fe" type="TextureButton" parent="Nations/Archdiocese of Santa Fe" unique_id=1755143977]
+layout_mode = 2
+texture_normal = ExtResource("6_6q3n4")
+texture_click_mask = ExtResource("9_eopii")
+script = ExtResource("3_np2xp")
+
+[node name="Arroyo" type="MarginContainer" parent="Nations" unique_id=298835761]
+layout_mode = 0
+offset_left = 616.0
+offset_top = 792.0
+offset_right = 740.0
+offset_bottom = 837.0
+mouse_filter = 2
+
+[node name="Arroyo" type="TextureButton" parent="Nations/Arroyo" unique_id=573623944]
+layout_mode = 2
+texture_normal = ExtResource("7_4c2oa")
+texture_click_mask = ExtResource("11_x2rrw")
+script = ExtResource("3_np2xp")
+
+[node name="Assassin City" type="MarginContainer" parent="Nations" unique_id=359692897]
+layout_mode = 0
+offset_left = 1963.0
+offset_top = 1300.0
+offset_right = 2047.0
+offset_bottom = 1377.0
+mouse_filter = 2
+
+[node name="Assassin City" type="TextureButton" parent="Nations/Assassin City" unique_id=1481217757]
+layout_mode = 2
+texture_normal = ExtResource("8_dlo4w")
+texture_click_mask = ExtResource("13_i2ps1")
+script = ExtResource("3_np2xp")
+
+[node name="Badland Buckaroos" type="MarginContainer" parent="Nations" unique_id=282901077]
+layout_mode = 0
+offset_left = 883.0
+offset_top = 836.0
+offset_right = 989.0
+offset_bottom = 913.0
+mouse_filter = 2
+
+[node name="Badland Buckaroos" type="TextureButton" parent="Nations/Badland Buckaroos" unique_id=908693724]
+layout_mode = 2
+texture_normal = ExtResource("9_q6lx1")
+texture_click_mask = ExtResource("15_inipc")
+script = ExtResource("3_np2xp")
+
+[node name="Baggers" type="MarginContainer" parent="Nations" unique_id=1358882496]
+layout_mode = 0
+offset_left = 1557.0
+offset_top = 833.0
+offset_right = 1648.0
+offset_bottom = 936.0
+mouse_filter = 2
+
+[node name="Baggers" type="TextureButton" parent="Nations/Baggers" unique_id=1323693199]
+layout_mode = 2
+texture_normal = ExtResource("10_q6lx1")
+texture_click_mask = ExtResource("17_j6stj")
+script = ExtResource("3_np2xp")
+
+[node name="Battleford" type="MarginContainer" parent="Nations" unique_id=172349011]
+layout_mode = 0
+offset_left = 1355.0
+offset_top = 1.0
+offset_right = 1596.0
+offset_bottom = 205.0
+mouse_filter = 2
+
+[node name="Battleford" type="TextureButton" parent="Nations/Battleford" unique_id=2101581519]
+layout_mode = 2
+texture_normal = ExtResource("11_5qtum")
+texture_click_mask = ExtResource("19_jah6u")
+script = ExtResource("3_np2xp")
+
+[node name="Baron\'s Eyrie" type="MarginContainer" parent="Nations" unique_id=1022810659]
+layout_mode = 0
+offset_left = 1347.0
+offset_top = 728.0
+offset_right = 1579.0
+offset_bottom = 812.0
+mouse_filter = 2
+
+[node name="Baron\'s Eyrie" type="TextureButton" parent="Nations/Baron\'s Eyrie" unique_id=611612316]
+layout_mode = 2
+texture_normal = ExtResource("12_ie368")
+texture_click_mask = ExtResource("21_r3eny")
+script = ExtResource("3_np2xp")
+
+[node name="Baudelio Ranchers" type="MarginContainer" parent="Nations" unique_id=1215873160]
+layout_mode = 0
+offset_left = 1331.0
+offset_top = 1408.0
+offset_right = 1551.0
+offset_bottom = 1576.0
+mouse_filter = 2
+
+[node name="Baudelio Ranchers" type="TextureButton" parent="Nations/Baudelio Ranchers" unique_id=343706736]
+layout_mode = 2
+texture_normal = ExtResource("13_x5dfk")
+texture_click_mask = ExtResource("23_agwr8")
+script = ExtResource("3_np2xp")
+
+[node name="Bayou Motors" type="MarginContainer" parent="Nations" unique_id=788044340]
+layout_mode = 0
+offset_left = 2140.0
+offset_top = 1500.0
+offset_right = 2214.0
+offset_bottom = 1548.0
+mouse_filter = 2
+
+[node name="Bayou Motors" type="TextureButton" parent="Nations/Bayou Motors" unique_id=1549571695]
+layout_mode = 2
+texture_normal = ExtResource("14_fls3e")
+texture_click_mask = ExtResource("25_ltv0b")
+script = ExtResource("3_np2xp")
+
+[node name="Beltran-Levya" type="MarginContainer" parent="Nations" unique_id=445734296]
+layout_mode = 0
+offset_left = 1435.0
+offset_top = 1738.0
+offset_right = 1605.0
+offset_bottom = 1923.0
+mouse_filter = 2
+
+[node name="Beltran-Levya" type="TextureButton" parent="Nations/Beltran-Levya" unique_id=1888223526]
+layout_mode = 2
+texture_normal = ExtResource("15_k63oc")
+texture_click_mask = ExtResource("27_3iupj")
+script = ExtResource("3_np2xp")
+
+[node name="Big Grass" type="MarginContainer" parent="Nations" unique_id=1562149851]
+layout_mode = 0
+offset_left = 728.0
+offset_top = 1.0
+offset_right = 1152.0
+offset_bottom = 186.0
+mouse_filter = 2
+
+[node name="Big Grass" type="TextureButton" parent="Nations/Big Grass" unique_id=21434083]
+layout_mode = 2
+texture_normal = ExtResource("16_j4oe2")
+texture_click_mask = ExtResource("29_vymcg")
+script = ExtResource("3_np2xp")
+
+[node name="Binary Counts" type="MarginContainer" parent="Nations" unique_id=175424879]
+layout_mode = 0
+offset_left = 1799.0
+offset_top = 833.0
+offset_right = 1954.0
+offset_bottom = 913.0
+mouse_filter = 2
+
+[node name="Binary Counts" type="TextureButton" parent="Nations/Binary Counts" unique_id=1020891699]
+layout_mode = 2
+texture_normal = ExtResource("17_riaky")
+texture_click_mask = ExtResource("31_xwlu1")
+script = ExtResource("3_np2xp")
+
+[node name="Bismarck" type="MarginContainer" parent="Nations" unique_id=842074816]
+layout_mode = 0
+offset_left = 1695.0
+offset_top = 501.0
+offset_right = 1813.0
+offset_bottom = 587.0
+mouse_filter = 2
+
+[node name="Bismarck" type="TextureButton" parent="Nations/Bismarck" unique_id=324541279]
+layout_mode = 2
+texture_normal = ExtResource("18_vtkp8")
+script = ExtResource("3_np2xp")
+
+[node name="Black Canyon" type="MarginContainer" parent="Nations" unique_id=1127341620]
+layout_mode = 0
+offset_left = 1399.0
+offset_top = 784.0
+offset_right = 1556.0
+offset_bottom = 979.0
+mouse_filter = 2
+
+[node name="Black Canyon" type="TextureButton" parent="Nations/Black Canyon" unique_id=1982176791]
+layout_mode = 2
+texture_normal = ExtResource("19_rg57b")
+script = ExtResource("3_np2xp")
+
+[node name="Blue Rose Society" type="MarginContainer" parent="Nations" unique_id=974358463]
+layout_mode = 0
+offset_left = 1441.0
+offset_top = 1313.0
+offset_right = 1583.0
+offset_bottom = 1398.0
+mouse_filter = 2
+
+[node name="Blue Rose Society" type="TextureButton" parent="Nations/Blue Rose Society" unique_id=986893079]
+layout_mode = 2
+texture_normal = ExtResource("20_macow")
+script = ExtResource("3_np2xp")
+
+[node name="Bone Dancers" type="MarginContainer" parent="Nations" unique_id=1813888844]
+layout_mode = 0
+offset_left = 821.0
+offset_top = 673.0
+offset_right = 993.0
+offset_bottom = 802.0
+mouse_filter = 2
+
+[node name="Bone Dancers" type="TextureButton" parent="Nations/Bone Dancers" unique_id=517766855]
+layout_mode = 2
+texture_normal = ExtResource("21_uus22")
+script = ExtResource("3_np2xp")
+
+[node name="Broken Coast" type="MarginContainer" parent="Nations" unique_id=47732015]
+layout_mode = 0
+offset_left = 184.0
+offset_top = 1.0
+offset_right = 753.0
+offset_bottom = 397.0
+mouse_filter = 2
+
+[node name="Broken Coast" type="TextureButton" parent="Nations/Broken Coast" unique_id=845817893]
+layout_mode = 2
+texture_normal = ExtResource("22_tuwt4")
+script = ExtResource("3_np2xp")
+
+[node name="Caesar\'s Legion" type="MarginContainer" parent="Nations" unique_id=1736670613]
+layout_mode = 0
+offset_left = 1086.0
+offset_top = 1023.0
+offset_right = 1655.0
+offset_bottom = 1446.0
+mouse_filter = 2
+
+[node name="Caesar\'s Legion" type="TextureButton" parent="Nations/Caesar\'s Legion" unique_id=795938352]
+layout_mode = 2
+texture_normal = ExtResource("23_tuwt4")
+script = ExtResource("3_np2xp")
+
+[node name="Carbon" type="MarginContainer" parent="Nations" unique_id=980707335]
+layout_mode = 0
+offset_left = 1678.0
+offset_top = 1365.0
+offset_right = 1748.0
+offset_bottom = 1414.0
+mouse_filter = 2
+
+[node name="Carbon" type="TextureButton" parent="Nations/Carbon" unique_id=309469552]
+layout_mode = 2
+texture_normal = ExtResource("24_1ye5v")
+script = ExtResource("3_np2xp")
+
+[node name="Carcass Walkers" type="MarginContainer" parent="Nations" unique_id=1967580915]
+layout_mode = 0
+offset_left = 702.0
+offset_top = 700.0
+offset_right = 769.0
+offset_bottom = 764.0
+mouse_filter = 2
+
+[node name="Carcass Walkers" type="TextureButton" parent="Nations/Carcass Walkers" unique_id=2050639331]
+layout_mode = 2
+texture_normal = ExtResource("25_8cxpi")
+script = ExtResource("3_np2xp")
+
+[node name="Chemult Station" type="MarginContainer" parent="Nations" unique_id=2135654055]
+layout_mode = 0
+offset_left = 814.0
+offset_top = 781.0
+offset_right = 969.0
+offset_bottom = 868.0
+mouse_filter = 2
+
+[node name="Chemult Station" type="TextureButton" parent="Nations/Chemult Station" unique_id=2120829453]
+layout_mode = 2
+texture_normal = ExtResource("26_wpvg5")
+script = ExtResource("3_np2xp")
+
+[node name="Cherokee Nation" type="MarginContainer" parent="Nations" unique_id=2000745882]
+layout_mode = 0
+offset_left = 1937.0
+offset_top = 1132.0
+offset_right = 2092.0
+offset_bottom = 1242.0
+mouse_filter = 2
+
+[node name="Cherokee Nation" type="TextureButton" parent="Nations/Cherokee Nation" unique_id=1663042319]
+layout_mode = 2
+texture_normal = ExtResource("27_078fj")
+script = ExtResource("3_np2xp")
+
+[node name="Chichen Itza" type="MarginContainer" parent="Nations" unique_id=1710461887]
+layout_mode = 0
+offset_left = 1876.0
+offset_top = 1954.0
+offset_right = 2432.0
+offset_bottom = 2287.0
+mouse_filter = 2
+
+[node name="Chichen Itza" type="TextureButton" parent="Nations/Chichen Itza" unique_id=1296841695]
+layout_mode = 2
+texture_normal = ExtResource("28_unquq")
+script = ExtResource("3_np2xp")
+
+[node name="Chickasaw-Muscogee Coalition" type="MarginContainer" parent="Nations" unique_id=634333304]
+layout_mode = 0
+offset_left = 1861.0
+offset_top = 1185.0
+offset_right = 1975.0
+offset_bottom = 1310.0
+mouse_filter = 2
+
+[node name="Chickasaw-Muscogee Coalition" type="TextureButton" parent="Nations/Chickasaw-Muscogee Coalition" unique_id=1945242935]
+layout_mode = 2
+texture_normal = ExtResource("29_pptwf")
+script = ExtResource("3_np2xp")
+
+[node name="Choctaw Nation" type="MarginContainer" parent="Nations" unique_id=1576401531]
+layout_mode = 0
+offset_left = 1962.0
+offset_top = 1220.0
+offset_right = 2068.0
+offset_bottom = 1314.0
+mouse_filter = 2
+
+[node name="Choctaw Nation" type="TextureButton" parent="Nations/Choctaw Nation" unique_id=1622553522]
+layout_mode = 2
+texture_normal = ExtResource("30_ak4ow")
+script = ExtResource("3_np2xp")
+
+[node name="Church of the Silo" type="MarginContainer" parent="Nations" unique_id=1788746882]
+layout_mode = 0
+offset_left = 1653.0
+offset_top = 406.0
+offset_right = 1857.0
+offset_bottom = 518.0
+mouse_filter = 2
+
+[node name="Church of the Silo" type="TextureButton" parent="Nations/Church of the Silo" unique_id=1325680326]
+layout_mode = 2
+texture_normal = ExtResource("31_ajvq6")
+script = ExtResource("3_np2xp")
+
+[node name="Ciphers" type="MarginContainer" parent="Nations" unique_id=1700638277]
+layout_mode = 0
+offset_left = 1395.0
+offset_top = 1048.0
+offset_right = 1456.0
+offset_bottom = 1112.0
+mouse_filter = 2
+
+[node name="Ciphers" type="TextureButton" parent="Nations/Ciphers" unique_id=1187441316]
+layout_mode = 2
+texture_normal = ExtResource("32_cwq17")
+script = ExtResource("3_np2xp")
+
+[node name="Circle Junction" type="MarginContainer" parent="Nations" unique_id=1846475062]
+layout_mode = 0
+offset_left = 1430.0
+offset_top = 998.0
+offset_right = 1522.0
+offset_bottom = 1077.0
+mouse_filter = 2
+
+[node name="Circle Junction" type="TextureButton" parent="Nations/Circle Junction" unique_id=1643422523]
+layout_mode = 2
+texture_normal = ExtResource("33_a0h6a")
+script = ExtResource("3_np2xp")
+
+[node name="Claim Jumpers" type="MarginContainer" parent="Nations" unique_id=718963414]
+layout_mode = 0
+offset_left = 1442.0
+offset_top = 964.0
+offset_right = 1543.0
+offset_bottom = 1044.0
+mouse_filter = 2
+
+[node name="Claim Jumpers" type="TextureButton" parent="Nations/Claim Jumpers" unique_id=1072565361]
+layout_mode = 2
+texture_normal = ExtResource("34_wcnou")
+script = ExtResource("3_np2xp")
+
+[node name="Costa Cafeinada" type="MarginContainer" parent="Nations" unique_id=360648352]
+layout_mode = 0
+offset_left = 1904.0
+offset_top = 2157.0
+offset_right = 2198.0
+offset_bottom = 2303.0
+mouse_filter = 2
+
+[node name="Costa Cafeinada" type="TextureButton" parent="Nations/Costa Cafeinada" unique_id=1504861814]
+layout_mode = 2
+texture_normal = ExtResource("35_1xwpj")
+script = ExtResource("3_np2xp")
+
+[node name="Cowboy Country" type="MarginContainer" parent="Nations" unique_id=1483822085]
+layout_mode = 0
+offset_left = 1128.0
+offset_top = 1352.0
+offset_right = 1232.0
+offset_bottom = 1509.0
+mouse_filter = 2
+
+[node name="Cowboy Country" type="TextureButton" parent="Nations/Cowboy Country" unique_id=2066599139]
+layout_mode = 2
+texture_normal = ExtResource("36_gg4i5")
+script = ExtResource("3_np2xp")
+
+[node name="Crazy Horns" type="MarginContainer" parent="Nations" unique_id=1615463878]
+layout_mode = 0
+offset_left = 1229.0
+offset_top = 953.0
+offset_right = 1309.0
+offset_bottom = 1084.0
+mouse_filter = 2
+
+[node name="Crazy Horns" type="TextureButton" parent="Nations/Crazy Horns" unique_id=1484809840]
+layout_mode = 2
+texture_normal = ExtResource("37_natfk")
+script = ExtResource("3_np2xp")
+
+[node name="Cult of Liberty" type="MarginContainer" parent="Nations" unique_id=669290950]
+layout_mode = 0
+offset_left = 1213.0
+offset_top = 386.0
+offset_right = 1464.0
+offset_bottom = 546.0
+mouse_filter = 2
+
+[node name="Cult of Liberty" type="TextureButton" parent="Nations/Cult of Liberty" unique_id=1611267071]
+layout_mode = 2
+texture_normal = ExtResource("38_natfk")
+script = ExtResource("3_np2xp")
+
+[node name="Cypher Warband" type="MarginContainer" parent="Nations" unique_id=786349135]
+layout_mode = 0
+offset_left = 1638.0
+offset_top = 1188.0
+offset_right = 1772.0
+offset_bottom = 1320.0
+mouse_filter = 2
+
+[node name="Cypher Warband" type="TextureButton" parent="Nations/Cypher Warband" unique_id=914752187]
+layout_mode = 2
+texture_normal = ExtResource("39_y410r")
+script = ExtResource("3_np2xp")
+
+[node name="Dam Busters" type="MarginContainer" parent="Nations" unique_id=1356745228]
+layout_mode = 0
+offset_left = 1681.0
+offset_top = 669.0
+offset_right = 1830.0
+offset_bottom = 740.0
+mouse_filter = 2
+
+[node name="Dam Busters" type="TextureButton" parent="Nations/Dam Busters" unique_id=2054451397]
+layout_mode = 2
+texture_normal = ExtResource("40_pwqop")
+script = ExtResource("3_np2xp")
+
+[node name="Dead Horses" type="MarginContainer" parent="Nations" unique_id=1584286093]
+layout_mode = 0
+offset_left = 1210.0
+offset_top = 1028.0
+offset_right = 1333.0
+offset_bottom = 1140.0
+mouse_filter = 2
+
+[node name="Dead Horses" type="TextureButton" parent="Nations/Dead Horses" unique_id=1487963459]
+layout_mode = 2
+texture_normal = ExtResource("41_xvpjn")
+script = ExtResource("3_np2xp")
+
+[node name="Deadline" type="MarginContainer" parent="Nations" unique_id=50260705]
+layout_mode = 0
+offset_left = 1771.0
+offset_top = 732.0
+offset_right = 1921.0
+offset_bottom = 862.0
+mouse_filter = 2
+
+[node name="Deadline" type="TextureButton" parent="Nations/Deadline" unique_id=1162808236]
+layout_mode = 2
+texture_normal = ExtResource("42_n3g5y")
+script = ExtResource("3_np2xp")
+
+[node name="Desperados" type="MarginContainer" parent="Nations" unique_id=1238726610]
+layout_mode = 0
+offset_left = 2035.0
+offset_top = 1291.0
+offset_right = 2129.0
+offset_bottom = 1395.0
+mouse_filter = 2
+
+[node name="Desperados" type="TextureButton" parent="Nations/Desperados" unique_id=968708369]
+layout_mode = 2
+texture_normal = ExtResource("43_mjs32")
+script = ExtResource("3_np2xp")
+
+[node name="Dramatae" type="MarginContainer" parent="Nations" unique_id=1086493652]
+layout_mode = 0
+offset_left = 1826.0
+offset_top = 522.0
+offset_right = 1966.0
+offset_bottom = 653.0
+mouse_filter = 2
+
+[node name="Dramatae" type="TextureButton" parent="Nations/Dramatae" unique_id=1773473437]
+layout_mode = 2
+texture_normal = ExtResource("44_6w3s7")
+script = ExtResource("3_np2xp")
+
+[node name="Dredgers" type="MarginContainer" parent="Nations" unique_id=1994728534]
+layout_mode = 0
+offset_left = 410.0
+offset_top = 1.0
+offset_right = 850.0
+offset_bottom = 184.0
+mouse_filter = 2
+
+[node name="Dredgers" type="TextureButton" parent="Nations/Dredgers" unique_id=103187157]
+layout_mode = 2
+texture_normal = ExtResource("45_wk4js")
+script = ExtResource("3_np2xp")
+
+[node name="Dundurn" type="MarginContainer" parent="Nations" unique_id=1576355075]
+layout_mode = 0
+offset_left = 1460.0
+offset_top = 196.0
+offset_right = 1593.0
+offset_bottom = 309.0
+mouse_filter = 2
+
+[node name="Dundurn" type="TextureButton" parent="Nations/Dundurn" unique_id=1873226972]
+layout_mode = 2
+texture_normal = ExtResource("46_wk4js")
+script = ExtResource("3_np2xp")
+
+[node name="Eagle Rock" type="MarginContainer" parent="Nations" unique_id=31450360]
+layout_mode = 0
+offset_left = 1321.0
+offset_top = 897.0
+offset_right = 1363.0
+offset_bottom = 935.0
+mouse_filter = 2
+
+[node name="Eagle Rock" type="TextureButton" parent="Nations/Eagle Rock" unique_id=1395550954]
+layout_mode = 2
+texture_normal = ExtResource("47_biwe2")
+script = ExtResource("3_np2xp")
+
+[node name="Eastport" type="MarginContainer" parent="Nations" unique_id=2035511632]
+layout_mode = 0
+offset_left = 981.0
+offset_top = 834.0
+offset_right = 1061.0
+offset_bottom = 927.0
+mouse_filter = 2
+
+[node name="Eastport" type="TextureButton" parent="Nations/Eastport" unique_id=933472808]
+layout_mode = 2
+texture_normal = ExtResource("48_7t8hk")
+script = ExtResource("3_np2xp")
+
+[node name="Eden" type="MarginContainer" parent="Nations" unique_id=481507411]
+layout_mode = 0
+offset_left = 1753.0
+offset_top = 1424.0
+offset_right = 1849.0
+offset_bottom = 1560.0
+mouse_filter = 2
+
+[node name="Eden" type="TextureButton" parent="Nations/Eden" unique_id=1003582281]
+layout_mode = 2
+texture_normal = ExtResource("49_dlwvm")
+script = ExtResource("3_np2xp")
+
+[node name="Eighties" type="MarginContainer" parent="Nations" unique_id=522023605]
+layout_mode = 0
+offset_left = 1039.0
+offset_top = 876.0
+offset_right = 1204.0
+offset_bottom = 1013.0
+mouse_filter = 2
+
+[node name="Eighties" type="TextureButton" parent="Nations/Eighties" unique_id=1172972615]
+layout_mode = 2
+texture_normal = ExtResource("50_ura26")
+script = ExtResource("3_np2xp")
+
+[node name="Ejército Mexicano" type="MarginContainer" parent="Nations" unique_id=1583353771]
+layout_mode = 0
+offset_left = 1766.0
+offset_top = 1717.0
+offset_right = 1931.0
+offset_bottom = 1964.0
+mouse_filter = 2
+
+[node name="Ejército Mexicano" type="TextureButton" parent="Nations/Ejército Mexicano" unique_id=2094443660]
+layout_mode = 2
+texture_normal = ExtResource("51_00ubq")
+script = ExtResource("3_np2xp")
+
+[node name="Elko Posse" type="MarginContainer" parent="Nations" unique_id=2026721405]
+layout_mode = 0
+offset_left = 943.0
+offset_top = 900.0
+offset_right = 1029.0
+offset_bottom = 954.0
+mouse_filter = 2
+
+[node name="Elko Posse" type="TextureButton" parent="Nations/Elko Posse" unique_id=1469744394]
+layout_mode = 2
+texture_normal = ExtResource("52_whj3y")
+script = ExtResource("3_np2xp")
+
+[node name="Eureka" type="MarginContainer" parent="Nations" unique_id=1067939370]
+layout_mode = 0
+offset_left = 623.0
+offset_top = 854.0
+offset_right = 672.0
+offset_bottom = 932.0
+mouse_filter = 2
+
+[node name="Eureka" type="TextureButton" parent="Nations/Eureka" unique_id=1840282483]
+layout_mode = 2
+texture_normal = ExtResource("53_db2lx")
+script = ExtResource("3_np2xp")
+
+[node name="The Fringe" type="MarginContainer" parent="Nations" unique_id=275550555]
+layout_mode = 0
+offset_left = 1737.0
+offset_top = 815.0
+offset_right = 1831.0
+offset_bottom = 903.0
+mouse_filter = 2
+
+[node name="The Fringe" type="TextureButton" parent="Nations/The Fringe" unique_id=1636563153]
+layout_mode = 2
+texture_normal = ExtResource("54_t45bj")
+script = ExtResource("3_np2xp")
+
+[node name="Far Son" type="MarginContainer" parent="Nations" unique_id=713923441]
+layout_mode = 0
+offset_left = 1325.0
+offset_top = 797.0
+offset_right = 1419.0
+offset_bottom = 865.0
+mouse_filter = 2
+
+[node name="Far Son" type="TextureButton" parent="Nations/Far Son" unique_id=1948002126]
+layout_mode = 2
+texture_normal = ExtResource("55_qokn7")
+script = ExtResource("3_np2xp")
+
+[node name="Foragers" type="MarginContainer" parent="Nations" unique_id=1633580118]
+layout_mode = 0
+offset_left = 1353.0
+offset_top = 981.0
+offset_right = 1453.0
+offset_bottom = 1067.0
+mouse_filter = 2
+
+[node name="Foragers" type="TextureButton" parent="Nations/Foragers" unique_id=889173478]
+layout_mode = 2
+texture_normal = ExtResource("56_g172m")
+script = ExtResource("3_np2xp")
+
+[node name="Four Fathers" type="MarginContainer" parent="Nations" unique_id=1189246352]
+layout_mode = 0
+offset_left = 1536.0
+offset_top = 512.0
+offset_right = 1659.0
+offset_bottom = 667.0
+mouse_filter = 2
+
+[node name="Four Fathers" type="TextureButton" parent="Nations/Four Fathers" unique_id=2140572536]
+layout_mode = 2
+texture_normal = ExtResource("57_xotsd")
+script = ExtResource("3_np2xp")
+
+[node name="Fourways" type="MarginContainer" parent="Nations" unique_id=1073508482]
+layout_mode = 0
+offset_left = 711.0
+offset_top = 856.0
+offset_right = 775.0
+offset_bottom = 906.0
+mouse_filter = 2
+
+[node name="Fourways" type="TextureButton" parent="Nations/Fourways" unique_id=1247300967]
+layout_mode = 2
+texture_normal = ExtResource("58_lq0ec")
+script = ExtResource("3_np2xp")
+
+[node name="Free Fighters" type="MarginContainer" parent="Nations" unique_id=466770123]
+layout_mode = 0
+offset_left = 1279.0
+offset_top = 1640.0
+offset_right = 1548.0
+offset_bottom = 1822.0
+mouse_filter = 2
+
+[node name="Free Fighters" type="TextureButton" parent="Nations/Free Fighters" unique_id=1004616973]
+layout_mode = 2
+texture_normal = ExtResource("59_6nmmx")
+script = ExtResource("3_np2xp")
+
+[node name="Gator Maws" type="MarginContainer" parent="Nations" unique_id=941638650]
+layout_mode = 0
+offset_left = 2073.0
+offset_top = 1369.0
+offset_right = 2167.0
+offset_bottom = 1475.0
+mouse_filter = 2
+
+[node name="Gator Maws" type="TextureButton" parent="Nations/Gator Maws" unique_id=1151560288]
+layout_mode = 2
+texture_normal = ExtResource("60_6cmmi")
+script = ExtResource("3_np2xp")
+
+[node name="Gente Del Sol" type="MarginContainer" parent="Nations" unique_id=1519258495]
+layout_mode = 0
+offset_left = 1174.0
+offset_top = 1482.0
+offset_right = 1337.0
+offset_bottom = 1640.0
+mouse_filter = 2
+
+[node name="Gente Del Sol" type="TextureButton" parent="Nations/Gente Del Sol" unique_id=1435812380]
+layout_mode = 2
+texture_normal = ExtResource("61_he8li")
+script = ExtResource("3_np2xp")
+
+[node name="Glowbugs" type="MarginContainer" parent="Nations" unique_id=173131474]
+layout_mode = 0
+offset_left = 1499.0
+offset_top = 875.0
+offset_right = 1576.0
+offset_bottom = 958.0
+mouse_filter = 2
+
+[node name="Glowbugs" type="TextureButton" parent="Nations/Glowbugs" unique_id=542882716]
+layout_mode = 2
+texture_normal = ExtResource("62_gj523")
+script = ExtResource("3_np2xp")
+
+[node name="Glow\'s Cradle" type="MarginContainer" parent="Nations" unique_id=1713127]
+layout_mode = 0
+offset_left = 1550.0
+offset_top = 771.0
+offset_right = 1596.0
+offset_bottom = 827.0
+mouse_filter = 2
+
+[node name="Glow\'s Cradle" type="TextureButton" parent="Nations/Glow\'s Cradle" unique_id=953178869]
+layout_mode = 2
+texture_normal = ExtResource("63_t8p55")
+script = ExtResource("3_np2xp")
+
+[node name="Riperult Territory" type="MarginContainer" parent="Nations" unique_id=1577210668]
+layout_mode = 0
+offset_left = 974.0
+offset_top = 939.0
+offset_right = 1040.0
+offset_bottom = 1026.0
+mouse_filter = 2
+
+[node name="Riperult Territory" type="TextureButton" parent="Nations/Riperult Territory" unique_id=56469093]
+layout_mode = 2
+texture_normal = ExtResource("64_vyy0v")
+script = ExtResource("3_np2xp")
+
+[node name="Guardians" type="MarginContainer" parent="Nations" unique_id=419869918]
+layout_mode = 0
+offset_left = 916.0
+offset_top = 1017.0
+offset_right = 991.0
+offset_bottom = 1073.0
+mouse_filter = 2
+
+[node name="Guardians" type="TextureButton" parent="Nations/Guardians" unique_id=1921576988]
+layout_mode = 2
+texture_normal = ExtResource("65_47muu")
+script = ExtResource("3_np2xp")
+
+[node name="Guerreros de Honduras" type="MarginContainer" parent="Nations" unique_id=1284371232]
+layout_mode = 0
+offset_left = 2198.0
+offset_top = 2224.0
+offset_right = 2608.0
+offset_bottom = 2303.0
+mouse_filter = 2
+
+[node name="Guerreros de Honduras" type="TextureButton" parent="Nations/Guerreros de Honduras" unique_id=246367023]
+layout_mode = 2
+texture_normal = ExtResource("66_aq71w")
+script = ExtResource("3_np2xp")
+
+[node name="Haida Confederation" type="MarginContainer" parent="Nations" unique_id=1750624153]
+layout_mode = 0
+offset_left = 190.0
+offset_top = 71.0
+offset_right = 285.0
+offset_bottom = 203.0
+mouse_filter = 2
+
+[node name="Haida Confederation" type="TextureButton" parent="Nations/Haida Confederation" unique_id=266316938]
+layout_mode = 2
+texture_normal = ExtResource("67_x12ss")
+script = ExtResource("3_np2xp")
+
+[node name="Heaven\'s Gate" type="MarginContainer" parent="Nations" unique_id=619987965]
+layout_mode = 0
+offset_left = 968.0
+offset_top = 552.0
+offset_right = 1138.0
+offset_bottom = 730.0
+mouse_filter = 2
+
+[node name="Heaven\'s Gate" type="TextureButton" parent="Nations/Heaven\'s Gate" unique_id=90841903]
+layout_mode = 2
+texture_normal = ExtResource("68_wg73t")
+script = ExtResource("3_np2xp")
+
+[node name="High Chapel" type="MarginContainer" parent="Nations" unique_id=1830160756]
+layout_mode = 0
+offset_left = 975.0
+offset_top = 646.0
+offset_right = 1215.0
+offset_bottom = 802.0
+mouse_filter = 2
+
+[node name="High Chapel" type="TextureButton" parent="Nations/High Chapel" unique_id=69329800]
+layout_mode = 2
+texture_normal = ExtResource("69_f0niv")
+script = ExtResource("3_np2xp")
+
+[node name="Highland Watch" type="MarginContainer" parent="Nations" unique_id=2141837828]
+layout_mode = 0
+offset_left = 1386.0
+offset_top = 803.0
+offset_right = 1464.0
+offset_bottom = 898.0
+mouse_filter = 2
+
+[node name="Highland Watch" type="TextureButton" parent="Nations/Highland Watch" unique_id=1880550434]
+layout_mode = 2
+texture_normal = ExtResource("70_eeeqk")
+script = ExtResource("3_np2xp")
+
+[node name="Historians" type="MarginContainer" parent="Nations" unique_id=992961200]
+layout_mode = 0
+offset_left = 1583.0
+offset_top = 464.0
+offset_right = 1708.0
+offset_bottom = 559.0
+mouse_filter = 2
+
+[node name="Historians" type="TextureButton" parent="Nations/Historians" unique_id=1445980604]
+layout_mode = 2
+texture_normal = ExtResource("71_7jeke")
+script = ExtResource("3_np2xp")
+
+[node name="Houston Rockets" type="MarginContainer" parent="Nations" unique_id=1365069236]
+layout_mode = 0
+offset_left = 1975.0
+offset_top = 1464.0
+offset_right = 2099.0
+offset_bottom = 1578.0
+mouse_filter = 2
+
+[node name="Houston Rockets" type="TextureButton" parent="Nations/Houston Rockets" unique_id=287713190]
+layout_mode = 2
+texture_normal = ExtResource("72_ryvi3")
+script = ExtResource("3_np2xp")
+
+[node name="Iron Alliance" type="MarginContainer" parent="Nations" unique_id=740055755]
+layout_mode = 0
+offset_left = 1664.0
+offset_top = 885.0
+offset_right = 1790.0
+offset_bottom = 985.0
+mouse_filter = 2
+
+[node name="Iron Alliance" type="TextureButton" parent="Nations/Iron Alliance" unique_id=920276045]
+layout_mode = 2
+texture_normal = ExtResource("73_cfmg6")
+script = ExtResource("3_np2xp")
+
+[node name="The Pioneer Company" type="MarginContainer" parent="Nations" unique_id=161712774]
+layout_mode = 0
+offset_left = 998.0
+offset_top = 138.0
+offset_right = 1195.0
+offset_bottom = 278.0
+mouse_filter = 2
+
+[node name="The Pioneer Company" type="TextureButton" parent="Nations/The Pioneer Company" unique_id=1001223035]
+layout_mode = 2
+texture_normal = ExtResource("74_acdd6")
+script = ExtResource("3_np2xp")
+
+[node name="Ironmongers" type="MarginContainer" parent="Nations" unique_id=643554621]
+layout_mode = 0
+offset_left = 1808.0
+offset_top = 1551.0
+offset_right = 1899.0
+offset_bottom = 1670.0
+mouse_filter = 2
+
+[node name="Ironmongers" type="TextureButton" parent="Nations/Ironmongers" unique_id=1834477885]
+layout_mode = 2
+texture_normal = ExtResource("75_kergw")
+script = ExtResource("3_np2xp")
+
+[node name="Jackals" type="MarginContainer" parent="Nations" unique_id=1125980768]
+layout_mode = 0
+offset_left = 896.0
+offset_top = 925.0
+offset_right = 960.0
+offset_bottom = 967.0
+mouse_filter = 2
+
+[node name="Jackals" type="TextureButton" parent="Nations/Jackals" unique_id=1688661813]
+layout_mode = 2
+texture_normal = ExtResource("76_4adn6")
+script = ExtResource("3_np2xp")
+
+[node name="Jacksons" type="MarginContainer" parent="Nations" unique_id=317492843]
+layout_mode = 0
+offset_left = 1452.0
+offset_top = 548.0
+offset_right = 1568.0
+offset_bottom = 710.0
+mouse_filter = 2
+
+[node name="Jacksons" type="TextureButton" parent="Nations/Jacksons" unique_id=1458837893]
+layout_mode = 2
+texture_normal = ExtResource("77_3qwpy")
+script = ExtResource("3_np2xp")
+
+[node name="Kamlo" type="MarginContainer" parent="Nations" unique_id=229583434]
+layout_mode = 0
+offset_left = 698.0
+offset_top = 112.0
+offset_right = 909.0
+offset_bottom = 391.0
+mouse_filter = 2
+
+[node name="Kamlo" type="TextureButton" parent="Nations/Kamlo" unique_id=1839502272]
+layout_mode = 2
+texture_normal = ExtResource("78_wkddh")
+script = ExtResource("3_np2xp")
+
+[node name="Kingdom of Manitoba" type="MarginContainer" parent="Nations" unique_id=1733953755]
+layout_mode = 0
+offset_left = 1728.0
+offset_top = 217.0
+offset_right = 1886.0
+offset_bottom = 383.0
+mouse_filter = 2
+
+[node name="Kingdom of Manitoba" type="TextureButton" parent="Nations/Kingdom of Manitoba" unique_id=1742614644]
+layout_mode = 2
+texture_normal = ExtResource("79_gh6cp")
+script = ExtResource("3_np2xp")
+
+[node name="Klamath" type="MarginContainer" parent="Nations" unique_id=963258118]
+layout_mode = 0
+offset_left = 736.0
+offset_top = 784.0
+offset_right = 825.0
+offset_bottom = 845.0
+mouse_filter = 2
+
+[node name="Klamath" type="TextureButton" parent="Nations/Klamath" unique_id=1219979478]
+layout_mode = 2
+texture_normal = ExtResource("80_8m7o7")
+script = ExtResource("3_np2xp")
+
+[node name="Koover" type="MarginContainer" parent="Nations" unique_id=626975576]
+layout_mode = 0
+offset_left = 669.0
+offset_top = 379.0
+offset_right = 810.0
+offset_bottom = 476.0
+mouse_filter = 2
+
+[node name="Koover" type="TextureButton" parent="Nations/Koover" unique_id=1269093084]
+layout_mode = 2
+texture_normal = ExtResource("81_otjl3")
+script = ExtResource("3_np2xp")
+
+[node name="Lanius\'s Cohort" type="MarginContainer" parent="Nations" unique_id=483868904]
+layout_mode = 0
+offset_left = 1448.0
+offset_top = 1221.0
+offset_right = 1586.0
+offset_bottom = 1338.0
+mouse_filter = 2
+
+[node name="Lanius\'s Cohort" type="TextureButton" parent="Nations/Lanius\'s Cohort" unique_id=1073271887]
+layout_mode = 2
+texture_normal = ExtResource("82_q3vi3")
+script = ExtResource("3_np2xp")
+
+[node name="Las Granjas" type="MarginContainer" parent="Nations" unique_id=2081287931]
+layout_mode = 0
+offset_left = 1400.0
+offset_top = 1485.0
+offset_right = 1568.0
+offset_bottom = 1646.0
+mouse_filter = 2
+
+[node name="Las Granjas" type="TextureButton" parent="Nations/Las Granjas" unique_id=1824619735]
+layout_mode = 2
+texture_normal = ExtResource("83_vkeii")
+script = ExtResource("3_np2xp")
+
+[node name="Live Wires" type="MarginContainer" parent="Nations" unique_id=1734009541]
+layout_mode = 0
+offset_left = 1774.0
+offset_top = 904.0
+offset_right = 1908.0
+offset_bottom = 958.0
+mouse_filter = 2
+
+[node name="Live Wires" type="TextureButton" parent="Nations/Live Wires" unique_id=1656889650]
+layout_mode = 2
+texture_normal = ExtResource("84_3fatf")
+script = ExtResource("3_np2xp")
+
+[node name="Loid\'s Ministry" type="MarginContainer" parent="Nations" unique_id=1254259034]
+layout_mode = 0
+offset_left = 1220.0
+offset_top = 1.0
+offset_right = 1392.0
+offset_bottom = 191.0
+mouse_filter = 2
+
+[node name="Loid\'s Ministry" type="TextureButton" parent="Nations/Loid\'s Ministry" unique_id=298508570]
+layout_mode = 2
+texture_normal = ExtResource("85_f8b0g")
+script = ExtResource("3_np2xp")
+
+[node name="Los" type="MarginContainer" parent="Nations" unique_id=445279234]
+layout_mode = 0
+offset_left = 1652.0
+offset_top = 1337.0
+offset_right = 1705.0
+offset_bottom = 1386.0
+mouse_filter = 2
+
+[node name="Los" type="TextureButton" parent="Nations/Los" unique_id=24367163]
+layout_mode = 2
+texture_normal = ExtResource("86_dwv62")
+script = ExtResource("3_np2xp")
+
+[node name="Lonetree" type="MarginContainer" parent="Nations" unique_id=1048255664]
+layout_mode = 0
+offset_left = 1261.0
+offset_top = 729.0
+offset_right = 1374.0
+offset_bottom = 907.0
+mouse_filter = 2
+
+[node name="Lonetree" type="TextureButton" parent="Nations/Lonetree" unique_id=2002623727]
+layout_mode = 2
+texture_normal = ExtResource("87_l44yf")
+script = ExtResource("3_np2xp")
+
+[node name="Lord\'s Anointed" type="MarginContainer" parent="Nations" unique_id=1179828765]
+layout_mode = 0
+offset_left = 1144.0
+offset_top = 728.0
+offset_right = 1285.0
+offset_bottom = 844.0
+mouse_filter = 2
+
+[node name="Lord\'s Anointed" type="TextureButton" parent="Nations/Lord\'s Anointed" unique_id=1109175609]
+layout_mode = 2
+texture_normal = ExtResource("88_uls7x")
+script = ExtResource("3_np2xp")
+
+[node name="Lone Star" type="MarginContainer" parent="Nations" unique_id=1674184]
+layout_mode = 0
+offset_left = 1745.0
+offset_top = 1327.0
+offset_right = 1886.0
+offset_bottom = 1447.0
+mouse_filter = 2
+
+[node name="Lone Star" type="TextureButton" parent="Nations/Lone Star" unique_id=166937831]
+layout_mode = 2
+texture_normal = ExtResource("89_5lbwy")
+script = ExtResource("3_np2xp")
+
+[node name="Lost Hills" type="MarginContainer" parent="Nations" unique_id=2059796972]
+layout_mode = 0
+offset_left = 844.0
+offset_top = 1196.0
+offset_right = 860.0
+offset_bottom = 1212.0
+mouse_filter = 2
+
+[node name="Lost Hills" type="TextureButton" parent="Nations/Lost Hills" unique_id=1526996579]
+layout_mode = 2
+texture_normal = ExtResource("90_bmb3c")
+script = ExtResource("3_np2xp")
+
+[node name="Lubbock" type="MarginContainer" parent="Nations" unique_id=1974354410]
+layout_mode = 0
+offset_left = 1645.0
+offset_top = 1280.0
+offset_right = 1766.0
+offset_bottom = 1387.0
+mouse_filter = 2
+
+[node name="Lubbock" type="TextureButton" parent="Nations/Lubbock" unique_id=1544835608]
+layout_mode = 2
+texture_normal = ExtResource("91_egrof")
+script = ExtResource("3_np2xp")
+
+[node name="Luminous Ones" type="MarginContainer" parent="Nations" unique_id=779829567]
+layout_mode = 0
+offset_left = 1525.0
+offset_top = 809.0
+offset_right = 1595.0
+offset_bottom = 913.0
+mouse_filter = 2
+
+[node name="Luminous Ones" type="TextureButton" parent="Nations/Luminous Ones" unique_id=593008108]
+layout_mode = 2
+texture_normal = ExtResource("92_max1q")
+script = ExtResource("3_np2xp")
+
+[node name="MacArthur" type="MarginContainer" parent="Nations" unique_id=1809266148]
+layout_mode = 0
+offset_left = 1098.0
+offset_top = 450.0
+offset_right = 1275.0
+offset_bottom = 638.0
+mouse_filter = 2
+
+[node name="MacArthur" type="TextureButton" parent="Nations/MacArthur" unique_id=188823479]
+layout_mode = 2
+texture_normal = ExtResource("93_mfcbv")
+script = ExtResource("3_np2xp")
+
+[node name="Marrow Drinkers" type="MarginContainer" parent="Nations" unique_id=120951228]
+layout_mode = 0
+offset_left = 756.0
+offset_top = 677.0
+offset_right = 851.0
+offset_bottom = 808.0
+mouse_filter = 2
+
+[node name="Marrow Drinkers" type="TextureButton" parent="Nations/Marrow Drinkers" unique_id=1646260192]
+layout_mode = 2
+texture_normal = ExtResource("94_ntdss")
+script = ExtResource("3_np2xp")
+
+[node name="Marshall Republic" type="MarginContainer" parent="Nations" unique_id=1821108078]
+layout_mode = 0
+offset_left = 1468.0
+offset_top = 647.0
+offset_right = 1715.0
+offset_bottom = 778.0
+mouse_filter = 2
+
+[node name="Marshall Republic" type="TextureButton" parent="Nations/Marshall Republic" unique_id=594977438]
+layout_mode = 2
+texture_normal = ExtResource("95_kvsub")
+script = ExtResource("3_np2xp")
+
+[node name="Maxson Expedition" type="MarginContainer" parent="Nations" unique_id=1905570104]
+layout_mode = 0
+offset_left = 1611.0
+offset_top = 1066.0
+offset_right = 1754.0
+offset_bottom = 1140.0
+mouse_filter = 2
+
+[node name="Maxson Expedition" type="TextureButton" parent="Nations/Maxson Expedition" unique_id=2109606021]
+layout_mode = 2
+texture_normal = ExtResource("97_ltf5x")
+script = ExtResource("3_np2xp")
+
+[node name="Mescalero Nation" type="MarginContainer" parent="Nations" unique_id=1735117324]
+layout_mode = 0
+offset_left = 1468.0
+offset_top = 1357.0
+offset_right = 1611.0
+offset_bottom = 1446.0
+mouse_filter = 2
+
+[node name="Mescalero Nation" type="TextureButton" parent="Nations/Mescalero Nation" unique_id=1169836644]
+layout_mode = 2
+texture_normal = ExtResource("98_f0ial")
+script = ExtResource("3_np2xp")
+
+[node name="Metis Congress" type="MarginContainer" parent="Nations" unique_id=1164329797]
+layout_mode = 0
+offset_left = 1530.0
+offset_top = 295.0
+offset_right = 1786.0
+offset_bottom = 453.0
+mouse_filter = 2
+
+[node name="Metis Congress" type="TextureButton" parent="Nations/Metis Congress" unique_id=1677793373]
+layout_mode = 2
+texture_normal = ExtResource("99_er6kg")
+script = ExtResource("3_np2xp")
+
+[node name="Metal Mouths" type="MarginContainer" parent="Nations" unique_id=144073663]
+layout_mode = 0
+offset_left = 1294.0
+offset_top = 532.0
+offset_right = 1465.0
+offset_bottom = 658.0
+mouse_filter = 2
+
+[node name="Metal Mouths" type="TextureButton" parent="Nations/Metal Mouths" unique_id=1757697745]
+layout_mode = 2
+texture_normal = ExtResource("100_71wgw")
+script = ExtResource("3_np2xp")
+
+[node name="Middlemark" type="MarginContainer" parent="Nations" unique_id=1515716546]
+layout_mode = 0
+offset_left = 1078.0
+offset_top = 254.0
+offset_right = 1317.0
+offset_bottom = 408.0
+mouse_filter = 2
+
+[node name="Middlemark" type="TextureButton" parent="Nations/Middlemark" unique_id=397598713]
+layout_mode = 2
+texture_normal = ExtResource("101_5vfgt")
+script = ExtResource("3_np2xp")
+
+[node name="Mirelurk Tribe" type="MarginContainer" parent="Nations" unique_id=304080168]
+layout_mode = 0
+offset_left = 622.0
+offset_top = 694.0
+offset_right = 734.0
+offset_bottom = 768.0
+mouse_filter = 2
+
+[node name="Mirelurk Tribe" type="TextureButton" parent="Nations/Mirelurk Tribe" unique_id=1406663608]
+layout_mode = 2
+texture_normal = ExtResource("102_j3mij")
+script = ExtResource("3_np2xp")
+
+[node name="Modoc" type="MarginContainer" parent="Nations" unique_id=2823532]
+layout_mode = 0
+offset_left = 816.0
+offset_top = 878.0
+offset_right = 891.0
+offset_bottom = 930.0
+mouse_filter = 2
+
+[node name="Modoc" type="TextureButton" parent="Nations/Modoc" unique_id=1784069387]
+layout_mode = 2
+texture_normal = ExtResource("103_xyd4q")
+script = ExtResource("3_np2xp")
+
+[node name="Mojave Territories" type="MarginContainer" parent="Nations" unique_id=129146025]
+layout_mode = 0
+offset_left = 1042.0
+offset_top = 1159.0
+offset_right = 1117.0
+offset_bottom = 1290.0
+mouse_filter = 2
+
+[node name="Mojave Territories" type="TextureButton" parent="Nations/Mojave Territories" unique_id=1550998256]
+layout_mode = 2
+texture_normal = ExtResource("104_exvqp")
+script = ExtResource("3_np2xp")
+
+[node name="Mojave Chapter" type="MarginContainer" parent="Nations" unique_id=361620874]
+layout_mode = 0
+offset_left = 1055.0
+offset_top = 1191.0
+offset_right = 1076.0
+offset_bottom = 1214.0
+mouse_filter = 2
+
+[node name="Mojave Chapter" type="TextureButton" parent="Nations/Mojave Chapter" unique_id=1457331245]
+layout_mode = 2
+texture_normal = ExtResource("105_567om")
+script = ExtResource("3_np2xp")
+
+[node name="Montana Chapter" type="MarginContainer" parent="Nations" unique_id=1190316497]
+layout_mode = 0
+offset_left = 1494.0
+offset_top = 467.0
+offset_right = 1633.0
+offset_bottom = 543.0
+mouse_filter = 2
+
+[node name="Montana Chapter" type="TextureButton" parent="Nations/Montana Chapter" unique_id=946001502]
+layout_mode = 2
+texture_normal = ExtResource("106_vi4x8")
+script = ExtResource("3_np2xp")
+
+[node name="Max Sec" type="MarginContainer" parent="Nations" unique_id=855417462]
+layout_mode = 0
+offset_left = 707.0
+offset_top = 812.0
+offset_right = 772.0
+offset_bottom = 871.0
+mouse_filter = 2
+
+[node name="Max Sec" type="TextureButton" parent="Nations/Max Sec" unique_id=860345569]
+layout_mode = 2
+texture_normal = ExtResource("96_q3kqh")
+script = ExtResource("3_np2xp")
+
+[node name="Murtaugh Reformers" type="MarginContainer" parent="Nations" unique_id=1240500855]
+layout_mode = 0
+offset_left = 1029.0
+offset_top = 779.0
+offset_right = 1150.0
+offset_bottom = 841.0
+mouse_filter = 2
+
+[node name="Murtaugh Reformers" type="TextureButton" parent="Nations/Murtaugh Reformers" unique_id=1292592664]
+layout_mode = 2
+texture_normal = ExtResource("107_152bs")
+script = ExtResource("3_np2xp")
+
+[node name="Navajo" type="MarginContainer" parent="Nations" unique_id=181292610]
+layout_mode = 0
+offset_left = 1399.0
+offset_top = 1099.0
+offset_right = 1505.0
+offset_bottom = 1200.0
+mouse_filter = 2
+
+[node name="Navajo" type="TextureButton" parent="Nations/Navajo" unique_id=1463338617]
+layout_mode = 2
+texture_normal = ExtResource("108_yf64f")
+script = ExtResource("3_np2xp")
+
+[node name="Navarro Territories" type="MarginContainer" parent="Nations" unique_id=2043121742]
+layout_mode = 0
+offset_left = 620.0
+offset_top = 908.0
+offset_right = 739.0
+offset_bottom = 1054.0
+mouse_filter = 2
+
+[node name="Navarro Territories" type="TextureButton" parent="Nations/Navarro Territories" unique_id=594774449]
+layout_mode = 2
+texture_normal = ExtResource("109_1m378")
+script = ExtResource("3_np2xp")
+
+[node name="New California Republic" type="MarginContainer" parent="Nations" unique_id=1199050164]
+layout_mode = 0
+offset_left = 708.0
+offset_top = 889.0
+offset_right = 1075.0
+offset_bottom = 1457.0
+mouse_filter = 2
+
+[node name="New California Republic" type="TextureButton" parent="Nations/New California Republic" unique_id=1416549118]
+layout_mode = 2
+texture_normal = ExtResource("110_qj7np")
+script = ExtResource("3_np2xp")
+
+[node name="New Canaan" type="MarginContainer" parent="Nations" unique_id=871048313]
+layout_mode = 0
+offset_left = 1159.0
+offset_top = 812.0
+offset_right = 1273.0
+offset_bottom = 978.0
+mouse_filter = 2
+
+[node name="New Canaan" type="TextureButton" parent="Nations/New Canaan" unique_id=386924522]
+layout_mode = 2
+texture_normal = ExtResource("111_bnxxb")
+script = ExtResource("3_np2xp")
+
+[node name="New Hammond" type="MarginContainer" parent="Nations" unique_id=1234051042]
+layout_mode = 0
+offset_left = 1040.0
+offset_top = 832.0
+offset_right = 1160.0
+offset_bottom = 907.0
+mouse_filter = 2
+
+[node name="New Hammond" type="TextureButton" parent="Nations/New Hammond" unique_id=585604880]
+layout_mode = 2
+texture_normal = ExtResource("112_cuh0y")
+script = ExtResource("3_np2xp")
+
+[node name="New Reno" type="MarginContainer" parent="Nations" unique_id=301457619]
+layout_mode = 0
+offset_left = 808.0
+offset_top = 915.0
+offset_right = 900.0
+offset_bottom = 1013.0
+mouse_filter = 2
+
+[node name="New Reno" type="TextureButton" parent="Nations/New Reno" unique_id=1589611121]
+layout_mode = 2
+texture_normal = ExtResource("113_ouig2")
+script = ExtResource("3_np2xp")
+
+[node name="New Vegas" type="MarginContainer" parent="Nations" unique_id=503199109]
+layout_mode = 0
+offset_left = 1019.0
+offset_top = 1139.0
+offset_right = 1084.0
+offset_bottom = 1185.0
+mouse_filter = 2
+
+[node name="New Vegas" type="TextureButton" parent="Nations/New Vegas" unique_id=1102542119]
+layout_mode = 2
+texture_normal = ExtResource("114_sdcb0")
+script = ExtResource("3_np2xp")
+
+[node name="New Victoria" type="MarginContainer" parent="Nations" unique_id=1948428955]
+layout_mode = 0
+offset_left = 417.0
+offset_top = 288.0
+offset_right = 675.0
+offset_bottom = 448.0
+mouse_filter = 2
+
+[node name="New Victoria" type="TextureButton" parent="Nations/New Victoria" unique_id=2039907251]
+layout_mode = 2
+texture_normal = ExtResource("115_x0qat")
+script = ExtResource("3_np2xp")
+
+[node name="Newton" type="MarginContainer" parent="Nations" unique_id=827791062]
+layout_mode = 0
+offset_left = 1884.0
+offset_top = 870.0
+offset_right = 1976.0
+offset_bottom = 938.0
+mouse_filter = 2
+
+[node name="Newton" type="TextureButton" parent="Nations/Newton" unique_id=1930643722]
+layout_mode = 2
+texture_normal = ExtResource("116_gaosk")
+script = ExtResource("3_np2xp")
+
+[node name="Niitsitapi" type="MarginContainer" parent="Nations" unique_id=2065248389]
+layout_mode = 0
+offset_left = 1040.0
+offset_top = 366.0
+offset_right = 1233.0
+offset_bottom = 513.0
+mouse_filter = 2
+
+[node name="Niitsitapi" type="TextureButton" parent="Nations/Niitsitapi" unique_id=1925779017]
+layout_mode = 2
+texture_normal = ExtResource("117_vl3pk")
+script = ExtResource("3_np2xp")
+
+[node name="Northern Khans" type="MarginContainer" parent="Nations" unique_id=1088678989]
+layout_mode = 0
+offset_left = 1341.0
+offset_top = 639.0
+offset_right = 1470.0
+offset_bottom = 752.0
+mouse_filter = 2
+
+[node name="Northern Khans" type="TextureButton" parent="Nations/Northern Khans" unique_id=1032750303]
+layout_mode = 2
+texture_normal = ExtResource("118_g8h6v")
+script = ExtResource("3_np2xp")
+
+[node name="Nueva Aztlán" type="MarginContainer" parent="Nations" unique_id=648833422]
+layout_mode = 0
+offset_left = 1518.0
+offset_top = 1940.0
+offset_right = 1974.0
+offset_bottom = 2248.0
+mouse_filter = 2
+
+[node name="Nueva Aztlán" type="TextureButton" parent="Nations/Nueva Aztlán" unique_id=679468685]
+layout_mode = 2
+texture_normal = ExtResource("119_ywa6a")
+script = ExtResource("3_np2xp")
+
+[node name="Olympus Tribe" type="MarginContainer" parent="Nations" unique_id=315078966]
+layout_mode = 0
+offset_left = 596.0
+offset_top = 448.0
+offset_right = 704.0
+offset_bottom = 535.0
+mouse_filter = 2
+
+[node name="Olympus Tribe" type="TextureButton" parent="Nations/Olympus Tribe" unique_id=1479347270]
+layout_mode = 2
+texture_normal = ExtResource("120_u3vif")
+script = ExtResource("3_np2xp")
+
+[node name="Ouroboros" type="MarginContainer" parent="Nations" unique_id=1109499177]
+layout_mode = 0
+offset_left = 1326.0
+offset_top = 967.0
+offset_right = 1437.0
+offset_bottom = 1034.0
+mouse_filter = 2
+
+[node name="Ouroboros" type="TextureButton" parent="Nations/Ouroboros" unique_id=1079022168]
+layout_mode = 2
+texture_normal = ExtResource("121_m2kig")
+script = ExtResource("3_np2xp")
+
+[node name="Packers" type="MarginContainer" parent="Nations" unique_id=1138767706]
+layout_mode = 0
+offset_left = 658.0
+offset_top = 843.0
+offset_right = 735.0
+offset_bottom = 927.0
+mouse_filter = 2
+
+[node name="Packers" type="TextureButton" parent="Nations/Packers" unique_id=2030043086]
+layout_mode = 2
+texture_normal = ExtResource("122_vr6fe")
+script = ExtResource("3_np2xp")
+
+[node name="Passkeepers" type="MarginContainer" parent="Nations" unique_id=375947514]
+layout_mode = 0
+offset_left = 721.0
+offset_top = 1.0
+offset_right = 1102.0
+offset_bottom = 455.0
+mouse_filter = 2
+
+[node name="Passkeepers" type="TextureButton" parent="Nations/Passkeepers" unique_id=111037669]
+layout_mode = 2
+texture_normal = ExtResource("123_2cqlk")
+script = ExtResource("3_np2xp")
+
+[node name="Paz Bandits" type="MarginContainer" parent="Nations" unique_id=1803439385]
+layout_mode = 0
+offset_left = 1173.0
+offset_top = 1677.0
+offset_right = 1335.0
+offset_bottom = 1895.0
+mouse_filter = 2
+
+[node name="Paz Bandits" type="TextureButton" parent="Nations/Paz Bandits" unique_id=240809058]
+layout_mode = 2
+texture_normal = ExtResource("124_q3vi3")
+script = ExtResource("3_np2xp")
+
+[node name="Pecos Colony" type="MarginContainer" parent="Nations" unique_id=1699002843]
+layout_mode = 0
+offset_left = 1513.0
+offset_top = 1431.0
+offset_right = 1710.0
+offset_bottom = 1564.0
+mouse_filter = 2
+
+[node name="Pecos Colony" type="TextureButton" parent="Nations/Pecos Colony" unique_id=2100322922]
+layout_mode = 2
+texture_normal = ExtResource("125_vkeii")
+script = ExtResource("3_np2xp")
+
+[node name="Petro Chico" type="MarginContainer" parent="Nations" unique_id=929631147]
+layout_mode = 0
+offset_left = 1752.0
+offset_top = 1940.0
+offset_right = 1909.0
+offset_bottom = 2067.0
+mouse_filter = 2
+
+[node name="Petro Chico" type="TextureButton" parent="Nations/Petro Chico" unique_id=312277207]
+layout_mode = 2
+texture_normal = ExtResource("126_3fatf")
+script = ExtResource("3_np2xp")
+
+[node name="Pine Ridge" type="MarginContainer" parent="Nations" unique_id=188367604]
+layout_mode = 0
+offset_left = 1772.0
+offset_top = 642.0
+offset_right = 1927.0
+offset_bottom = 786.0
+mouse_filter = 2
+
+[node name="Pine Ridge" type="TextureButton" parent="Nations/Pine Ridge" unique_id=1949148745]
+layout_mode = 2
+texture_normal = ExtResource("127_f8b0g")
+script = ExtResource("3_np2xp")
+
+[node name="Pleasantdale" type="MarginContainer" parent="Nations" unique_id=2072447840]
+layout_mode = 0
+offset_left = 1544.0
+offset_top = 133.0
+offset_right = 1693.0
+offset_bottom = 232.0
+mouse_filter = 2
+
+[node name="Pleasantdale" type="TextureButton" parent="Nations/Pleasantdale" unique_id=1447924736]
+layout_mode = 2
+texture_normal = ExtResource("128_dwv62")
+script = ExtResource("3_np2xp")
+
+[node name="Port Maw" type="MarginContainer" parent="Nations" unique_id=755562326]
+layout_mode = 0
+offset_left = 625.0
+offset_top = 555.0
+offset_right = 702.0
+offset_bottom = 712.0
+mouse_filter = 2
+
+[node name="Port Maw" type="TextureButton" parent="Nations/Port Maw" unique_id=1002459251]
+layout_mode = 2
+texture_normal = ExtResource("129_l44yf")
+script = ExtResource("3_np2xp")
+
+[node name="Protectron Security Hub" type="MarginContainer" parent="Nations" unique_id=789706709]
+layout_mode = 0
+offset_left = 947.0
+offset_top = 980.0
+offset_right = 998.0
+offset_bottom = 1053.0
+mouse_filter = 2
+
+[node name="Protectron Security Hub" type="TextureButton" parent="Nations/Protectron Security Hub" unique_id=560493278]
+layout_mode = 2
+texture_normal = ExtResource("130_uls7x")
+script = ExtResource("3_np2xp")
+
+[node name="Rad Hazards" type="MarginContainer" parent="Nations" unique_id=268761754]
+layout_mode = 0
+offset_left = 1425.0
+offset_top = 346.0
+offset_right = 1516.0
+offset_bottom = 481.0
+mouse_filter = 2
+
+[node name="Rad Hazards" type="TextureButton" parent="Nations/Rad Hazards" unique_id=1499927891]
+layout_mode = 2
+texture_normal = ExtResource("131_5lbwy")
+script = ExtResource("3_np2xp")
+
+[node name="Reclamation Army Depot" type="MarginContainer" parent="Nations" unique_id=851612320]
+layout_mode = 0
+offset_left = 1658.0
+offset_top = 714.0
+offset_right = 1750.0
+offset_bottom = 829.0
+mouse_filter = 2
+
+[node name="Reclamation Army Depot" type="TextureButton" parent="Nations/Reclamation Army Depot" unique_id=2048451595]
+layout_mode = 2
+texture_normal = ExtResource("132_bmb3c")
+script = ExtResource("3_np2xp")
+
+[node name="Republic of the Rio Grande" type="MarginContainer" parent="Nations" unique_id=1884135645]
+layout_mode = 0
+offset_left = 1530.0
+offset_top = 1526.0
+offset_right = 1842.0
+offset_bottom = 1779.0
+mouse_filter = 2
+
+[node name="Republic of the Rio Grande" type="TextureButton" parent="Nations/Republic of the Rio Grande" unique_id=456260233]
+layout_mode = 2
+texture_normal = ExtResource("133_egrof")
+script = ExtResource("3_np2xp")
+
+[node name="Republic of Three Rivers" type="MarginContainer" parent="Nations" unique_id=286138819]
+layout_mode = 0
+offset_left = 1875.0
+offset_top = 289.0
+offset_right = 2005.0
+offset_bottom = 415.0
+mouse_filter = 2
+
+[node name="Republic of Three Rivers" type="TextureButton" parent="Nations/Republic of Three Rivers" unique_id=138402322]
+layout_mode = 2
+texture_normal = ExtResource("134_max1q")
+script = ExtResource("3_np2xp")
+
+[node name="Rib Breakers" type="MarginContainer" parent="Nations" unique_id=542930434]
+layout_mode = 0
+offset_left = 675.0
+offset_top = 633.0
+offset_right = 785.0
+offset_bottom = 730.0
+mouse_filter = 2
+
+[node name="Rib Breakers" type="TextureButton" parent="Nations/Rib Breakers" unique_id=210662137]
+layout_mode = 2
+texture_normal = ExtResource("135_mfcbv")
+script = ExtResource("3_np2xp")
+
+[node name="Grabber Territory" type="MarginContainer" parent="Nations" unique_id=526237597]
+layout_mode = 0
+offset_left = 988.0
+offset_top = 1018.0
+offset_right = 1074.0
+offset_bottom = 1107.0
+mouse_filter = 2
+
+[node name="Grabber Territory" type="TextureButton" parent="Nations/Grabber Territory" unique_id=781450257]
+layout_mode = 2
+texture_normal = ExtResource("136_e8rgn")
+script = ExtResource("3_np2xp")
+
+[node name="Roach King" type="MarginContainer" parent="Nations" unique_id=857028322]
+layout_mode = 0
+offset_left = 1817.0
+offset_top = 403.0
+offset_right = 1939.0
+offset_bottom = 492.0
+mouse_filter = 2
+
+[node name="Roach King" type="TextureButton" parent="Nations/Roach King" unique_id=1828666860]
+layout_mode = 2
+texture_normal = ExtResource("137_hy6yc")
+script = ExtResource("3_np2xp")
+
+[node name="Robot City" type="MarginContainer" parent="Nations" unique_id=1613883727]
+layout_mode = 0
+offset_left = 1641.0
+offset_top = 955.0
+offset_right = 1747.0
+offset_bottom = 1074.0
+mouse_filter = 2
+
+[node name="Robot City" type="TextureButton" parent="Nations/Robot City" unique_id=1891549463]
+layout_mode = 2
+texture_normal = ExtResource("138_slgtx")
+script = ExtResource("3_np2xp")
+
+[node name="Rogue Rangers" type="MarginContainer" parent="Nations" unique_id=1145433145]
+layout_mode = 0
+offset_left = 887.0
+offset_top = 1032.0
+offset_right = 935.0
+offset_bottom = 1083.0
+mouse_filter = 2
+
+[node name="Rogue Rangers" type="TextureButton" parent="Nations/Rogue Rangers" unique_id=2051647202]
+layout_mode = 2
+texture_normal = ExtResource("139_03dox")
+script = ExtResource("3_np2xp")
+
+[node name="Rotpurgers" type="MarginContainer" parent="Nations" unique_id=637122686]
+layout_mode = 0
+offset_left = 956.0
+offset_top = 427.0
+offset_right = 1114.0
+offset_bottom = 584.0
+mouse_filter = 2
+
+[node name="Rotpurgers" type="TextureButton" parent="Nations/Rotpurgers" unique_id=813792474]
+layout_mode = 2
+texture_normal = ExtResource("140_7h2y6")
+script = ExtResource("3_np2xp")
+
+[node name="Ruby Valley Refuge" type="MarginContainer" parent="Nations" unique_id=79134831]
+layout_mode = 0
+offset_left = 1026.0
+offset_top = 918.0
+offset_right = 1085.0
+offset_bottom = 1027.0
+mouse_filter = 2
+
+[node name="Ruby Valley Refuge" type="TextureButton" parent="Nations/Ruby Valley Refuge" unique_id=1793898567]
+layout_mode = 2
+texture_normal = ExtResource("141_a433v")
+script = ExtResource("3_np2xp")
+
+[node name="Ruminators" type="MarginContainer" parent="Nations" unique_id=234443400]
+layout_mode = 0
+offset_left = 1406.0
+offset_top = 567.0
+offset_right = 1519.0
+offset_bottom = 671.0
+mouse_filter = 2
+
+[node name="Ruminators" type="TextureButton" parent="Nations/Ruminators" unique_id=2103731321]
+layout_mode = 2
+texture_normal = ExtResource("142_d6exg")
+script = ExtResource("3_np2xp")
+
+[node name="Rusty Hooks" type="MarginContainer" parent="Nations" unique_id=516874097]
+layout_mode = 0
+offset_left = 1090.0
+offset_top = 1314.0
+offset_right = 1132.0
+offset_bottom = 1363.0
+mouse_filter = 2
+
+[node name="Rusty Hooks" type="TextureButton" parent="Nations/Rusty Hooks" unique_id=1725370582]
+layout_mode = 2
+texture_normal = ExtResource("143_ug4yn")
+script = ExtResource("3_np2xp")
+
+[node name="Safehaven" type="MarginContainer" parent="Nations" unique_id=102781893]
+layout_mode = 0
+offset_left = 1259.0
+offset_top = 293.0
+offset_right = 1463.0
+offset_bottom = 415.0
+mouse_filter = 2
+
+[node name="Safehaven" type="TextureButton" parent="Nations/Safehaven" unique_id=1593261501]
+layout_mode = 2
+texture_normal = ExtResource("144_maqh8")
+script = ExtResource("3_np2xp")
+
+[node name="Scorpion\'s Bite" type="MarginContainer" parent="Nations" unique_id=42101746]
+layout_mode = 0
+offset_left = 1515.0
+offset_top = 1044.0
+offset_right = 1647.0
+offset_bottom = 1123.0
+mouse_filter = 2
+
+[node name="Scorpion\'s Bite" type="TextureButton" parent="Nations/Scorpion\'s Bite" unique_id=1219303578]
+layout_mode = 2
+texture_normal = ExtResource("145_amxu8")
+script = ExtResource("3_np2xp")
+
+[node name="Scrappers Compact" type="MarginContainer" parent="Nations" unique_id=245833397]
+layout_mode = 0
+offset_left = 1759.0
+offset_top = 1187.0
+offset_right = 1900.0
+offset_bottom = 1294.0
+mouse_filter = 2
+
+[node name="Scrappers Compact" type="TextureButton" parent="Nations/Scrappers Compact" unique_id=1067535552]
+layout_mode = 2
+texture_normal = ExtResource("146_ifw5l")
+script = ExtResource("3_np2xp")
+
+[node name="Shale\'s Army" type="MarginContainer" parent="Nations" unique_id=1475093511]
+layout_mode = 0
+offset_left = 1643.0
+offset_top = 1384.0
+offset_right = 1772.0
+offset_bottom = 1489.0
+mouse_filter = 2
+
+[node name="Shale\'s Army" type="TextureButton" parent="Nations/Shale\'s Army" unique_id=859688733]
+layout_mode = 2
+texture_normal = ExtResource("147_j1ky7")
+script = ExtResource("3_np2xp")
+
+[node name="Shi" type="MarginContainer" parent="Nations" unique_id=1611570758]
+layout_mode = 0
+offset_left = 685.0
+offset_top = 1031.0
+offset_right = 777.0
+offset_bottom = 1137.0
+mouse_filter = 2
+
+[node name="Shi" type="TextureButton" parent="Nations/Shi" unique_id=1152035391]
+layout_mode = 2
+texture_normal = ExtResource("148_86nfi")
+script = ExtResource("3_np2xp")
+
+[node name="Shoshone Nation" type="MarginContainer" parent="Nations" unique_id=945827477]
+layout_mode = 0
+offset_left = 954.0
+offset_top = 755.0
+offset_right = 1050.0
+offset_bottom = 867.0
+mouse_filter = 2
+
+[node name="Shoshone Nation" type="TextureButton" parent="Nations/Shoshone Nation" unique_id=994609262]
+layout_mode = 2
+texture_normal = ExtResource("149_2qum1")
+script = ExtResource("3_np2xp")
+
+[node name="Site Y" type="MarginContainer" parent="Nations" unique_id=980812463]
+layout_mode = 0
+offset_left = 1733.0
+offset_top = 730.0
+offset_right = 1801.0
+offset_bottom = 822.0
+mouse_filter = 2
+
+[node name="Site Y" type="TextureButton" parent="Nations/Site Y" unique_id=1582926247]
+layout_mode = 2
+texture_normal = ExtResource("150_ddp4e")
+script = ExtResource("3_np2xp")
+
+[node name="Sinaloa Cartel" type="MarginContainer" parent="Nations" unique_id=2034902968]
+layout_mode = 0
+offset_left = 1320.0
+offset_top = 1551.0
+offset_right = 1565.0
+offset_bottom = 1720.0
+mouse_filter = 2
+
+[node name="Sinaloa Cartel" type="TextureButton" parent="Nations/Sinaloa Cartel" unique_id=1221550211]
+layout_mode = 2
+texture_normal = ExtResource("151_qbhdu")
+script = ExtResource("3_np2xp")
+
+[node name="Sky Reavers" type="MarginContainer" parent="Nations" unique_id=1135765570]
+layout_mode = 0
+offset_left = 970.0
+offset_top = 1071.0
+offset_right = 1106.0
+offset_bottom = 1161.0
+mouse_filter = 2
+
+[node name="Sky Reavers" type="TextureButton" parent="Nations/Sky Reavers" unique_id=1293256767]
+layout_mode = 2
+texture_normal = ExtResource("152_t25pe")
+script = ExtResource("3_np2xp")
+
+[node name="Slags" type="MarginContainer" parent="Nations" unique_id=1763388581]
+layout_mode = 0
+offset_left = 826.0
+offset_top = 841.0
+offset_right = 899.0
+offset_bottom = 903.0
+mouse_filter = 2
+
+[node name="Slags" type="TextureButton" parent="Nations/Slags" unique_id=1927008116]
+layout_mode = 2
+texture_normal = ExtResource("153_teff4")
+script = ExtResource("3_np2xp")
+
+[node name="S\'Lanter" type="MarginContainer" parent="Nations" unique_id=1821769490]
+layout_mode = 0
+offset_left = 948.0
+offset_top = 940.0
+offset_right = 984.0
+offset_bottom = 971.0
+mouse_filter = 2
+
+[node name="S\'Lanter" type="TextureButton" parent="Nations/S\'Lanter" unique_id=1695269925]
+layout_mode = 2
+texture_normal = ExtResource("154_jr3kw")
+script = ExtResource("3_np2xp")
+
+[node name="Sleepers" type="MarginContainer" parent="Nations" unique_id=1733264587]
+layout_mode = 0
+offset_left = 1340.0
+offset_top = 856.0
+offset_right = 1412.0
+offset_bottom = 933.0
+mouse_filter = 2
+
+[node name="Sleepers" type="TextureButton" parent="Nations/Sleepers" unique_id=980743647]
+layout_mode = 2
+texture_normal = ExtResource("155_maqef")
+script = ExtResource("3_np2xp")
+
+[node name="Sorrows" type="MarginContainer" parent="Nations" unique_id=896977416]
+layout_mode = 0
+offset_left = 1102.0
+offset_top = 1100.0
+offset_right = 1224.0
+offset_bottom = 1199.0
+mouse_filter = 2
+
+[node name="Sorrows" type="TextureButton" parent="Nations/Sorrows" unique_id=413764325]
+layout_mode = 2
+texture_normal = ExtResource("156_vuu6t")
+script = ExtResource("3_np2xp")
+
+[node name="Sons of Kaga" type="MarginContainer" parent="Nations" unique_id=756890732]
+layout_mode = 0
+offset_left = 910.0
+offset_top = 1078.0
+offset_right = 966.0
+offset_bottom = 1119.0
+mouse_filter = 2
+
+[node name="Sons of Kaga" type="TextureButton" parent="Nations/Sons of Kaga" unique_id=525786217]
+layout_mode = 2
+texture_normal = ExtResource("157_2jcy3")
+script = ExtResource("3_np2xp")
+
+[node name="Standing Rock" type="MarginContainer" parent="Nations" unique_id=1732902060]
+layout_mode = 0
+offset_left = 1613.0
+offset_top = 523.0
+offset_right = 1838.0
+offset_bottom = 680.0
+mouse_filter = 2
+
+[node name="Standing Rock" type="TextureButton" parent="Nations/Standing Rock" unique_id=706245794]
+layout_mode = 2
+texture_normal = ExtResource("158_ycur6")
+script = ExtResource("3_np2xp")
+
+[node name="State of Moose Jaw" type="MarginContainer" parent="Nations" unique_id=1808703575]
+layout_mode = 0
+offset_left = 1452.0
+offset_top = 289.0
+offset_right = 1578.0
+offset_bottom = 401.0
+mouse_filter = 2
+
+[node name="State of Moose Jaw" type="TextureButton" parent="Nations/State of Moose Jaw" unique_id=1279495159]
+layout_mode = 2
+texture_normal = ExtResource("159_leneb")
+script = ExtResource("3_np2xp")
+
+[node name="Stoon Dandies" type="MarginContainer" parent="Nations" unique_id=773794848]
+layout_mode = 0
+offset_left = 1435.0
+offset_top = 145.0
+offset_right = 1562.0
+offset_bottom = 240.0
+mouse_filter = 2
+
+[node name="Stoon Dandies" type="TextureButton" parent="Nations/Stoon Dandies" unique_id=1622197434]
+layout_mode = 2
+texture_normal = ExtResource("160_06pvf")
+script = ExtResource("3_np2xp")
+
+[node name="Storm Mongers" type="MarginContainer" parent="Nations" unique_id=255458158]
+layout_mode = 0
+offset_left = 1182.0
+offset_top = 439.0
+offset_right = 1332.0
+offset_bottom = 617.0
+mouse_filter = 2
+
+[node name="Storm Mongers" type="TextureButton" parent="Nations/Storm Mongers" unique_id=1792819951]
+layout_mode = 2
+texture_normal = ExtResource("161_m37kt")
+script = ExtResource("3_np2xp")
+
+[node name="Strathcommune" type="MarginContainer" parent="Nations" unique_id=1866605246]
+layout_mode = 0
+offset_left = 1047.0
+offset_top = 2.0
+offset_right = 1282.0
+offset_bottom = 186.0
+mouse_filter = 2
+
+[node name="Strathcommune" type="TextureButton" parent="Nations/Strathcommune" unique_id=789334415]
+layout_mode = 2
+texture_normal = ExtResource("162_wsqoc")
+script = ExtResource("3_np2xp")
+
+[node name="Summers Federation" type="MarginContainer" parent="Nations" unique_id=1703285103]
+layout_mode = 0
+offset_left = 1562.0
+offset_top = 1221.0
+offset_right = 1657.0
+offset_bottom = 1340.0
+mouse_filter = 2
+
+[node name="Summers Federation" type="TextureButton" parent="Nations/Summers Federation" unique_id=1505848554]
+layout_mode = 2
+texture_normal = ExtResource("163_1f1hd")
+script = ExtResource("3_np2xp")
+
+[node name="Sun Dogs" type="MarginContainer" parent="Nations" unique_id=978265836]
+layout_mode = 0
+offset_left = 1549.0
+offset_top = 1113.0
+offset_right = 1712.0
+offset_bottom = 1232.0
+mouse_filter = 2
+
+[node name="Sun Dogs" type="TextureButton" parent="Nations/Sun Dogs" unique_id=1195278426]
+layout_mode = 2
+texture_normal = ExtResource("164_cqosk")
+script = ExtResource("3_np2xp")
+
+[node name="Syilx Nation" type="MarginContainer" parent="Nations" unique_id=847552131]
+layout_mode = 0
+offset_left = 798.0
+offset_top = 272.0
+offset_right = 961.0
+offset_bottom = 477.0
+mouse_filter = 2
+
+[node name="Syilx Nation" type="TextureButton" parent="Nations/Syilx Nation" unique_id=1308227912]
+layout_mode = 2
+texture_normal = ExtResource("165_wgx8l")
+script = ExtResource("3_np2xp")
+
+[node name="Tar Walkers" type="MarginContainer" parent="Nations" unique_id=1365285100]
+layout_mode = 0
+offset_left = 1154.0
+offset_top = 962.0
+offset_right = 1244.0
+offset_bottom = 1111.0
+mouse_filter = 2
+
+[node name="Tar Walkers" type="TextureButton" parent="Nations/Tar Walkers" unique_id=1981603556]
+layout_mode = 2
+texture_normal = ExtResource("166_84tft")
+script = ExtResource("3_np2xp")
+
+[node name="Texan Arms Association" type="MarginContainer" parent="Nations" unique_id=1045226021]
+layout_mode = 0
+offset_left = 1709.0
+offset_top = 1481.0
+offset_right = 1849.0
+offset_bottom = 1681.0
+mouse_filter = 2
+
+[node name="Texan Arms Association" type="TextureButton" parent="Nations/Texan Arms Association" unique_id=226529298]
+layout_mode = 2
+texture_normal = ExtResource("167_1d1ii")
+script = ExtResource("3_np2xp")
+
+[node name="Texan Brotherhood" type="MarginContainer" parent="Nations" unique_id=2076581038]
+layout_mode = 0
+offset_left = 1833.0
+offset_top = 1339.0
+offset_right = 2021.0
+offset_bottom = 1660.0
+mouse_filter = 2
+
+[node name="Texan Brotherhood" type="TextureButton" parent="Nations/Texan Brotherhood" unique_id=1206394509]
+layout_mode = 2
+texture_normal = ExtResource("168_0aesq")
+script = ExtResource("3_np2xp")
+
+[node name="The Apostles" type="MarginContainer" parent="Nations" unique_id=42894182]
+layout_mode = 0
+offset_left = 613.0
+offset_top = 752.0
+offset_right = 764.0
+offset_bottom = 804.0
+mouse_filter = 2
+
+[node name="The Apostles" type="TextureButton" parent="Nations/The Apostles" unique_id=1427481680]
+layout_mode = 2
+texture_normal = ExtResource("169_8rdsi")
+script = ExtResource("3_np2xp")
+
+[node name="The Blighted Woods" type="MarginContainer" parent="Nations" unique_id=1365380504]
+layout_mode = 0
+offset_left = 1599.0
+offset_top = 76.0
+offset_right = 1751.0
+offset_bottom = 193.0
+mouse_filter = 2
+
+[node name="The Blighted Woods" type="TextureButton" parent="Nations/The Blighted Woods" unique_id=1119187944]
+layout_mode = 2
+texture_normal = ExtResource("170_kk31a")
+script = ExtResource("3_np2xp")
+
+[node name="The Carthaginians" type="MarginContainer" parent="Nations" unique_id=1820918083]
+layout_mode = 0
+offset_left = 1999.0
+offset_top = 1378.0
+offset_right = 2101.0
+offset_bottom = 1482.0
+mouse_filter = 2
+
+[node name="The Carthaginians" type="TextureButton" parent="Nations/The Carthaginians" unique_id=678733211]
+layout_mode = 2
+texture_normal = ExtResource("171_oj7wn")
+script = ExtResource("3_np2xp")
+
+[node name="The Cause" type="MarginContainer" parent="Nations" unique_id=18899173]
+layout_mode = 0
+offset_left = 696.0
+offset_top = 589.0
+offset_right = 779.0
+offset_bottom = 649.0
+mouse_filter = 2
+
+[node name="The Cause" type="TextureButton" parent="Nations/The Cause" unique_id=605241390]
+layout_mode = 2
+texture_normal = ExtResource("172_8emrb")
+script = ExtResource("3_np2xp")
+
+[node name="The Chained Choir" type="MarginContainer" parent="Nations" unique_id=660758624]
+layout_mode = 0
+offset_left = 1769.0
+offset_top = 1131.0
+offset_right = 1886.0
+offset_bottom = 1209.0
+mouse_filter = 2
+
+[node name="The Chained Choir" type="TextureButton" parent="Nations/The Chained Choir" unique_id=2003224367]
+layout_mode = 2
+texture_normal = ExtResource("173_afdtx")
+script = ExtResource("3_np2xp")
+
+[node name="The Damned" type="MarginContainer" parent="Nations" unique_id=1409982431]
+layout_mode = 0
+offset_left = 1854.0
+offset_top = 202.0
+offset_right = 1956.0
+offset_bottom = 315.0
+mouse_filter = 2
+
+[node name="The Damned" type="TextureButton" parent="Nations/The Damned" unique_id=681875221]
+layout_mode = 2
+texture_normal = ExtResource("174_25j0e")
+script = ExtResource("3_np2xp")
+
+[node name="The Den" type="MarginContainer" parent="Nations" unique_id=238607777]
+layout_mode = 0
+offset_left = 764.0
+offset_top = 836.0
+offset_right = 835.0
+offset_bottom = 931.0
+mouse_filter = 2
+
+[node name="The Den" type="TextureButton" parent="Nations/The Den" unique_id=348290164]
+layout_mode = 2
+texture_normal = ExtResource("175_lpw61")
+script = ExtResource("3_np2xp")
+
+[node name="The Divide" type="MarginContainer" parent="Nations" unique_id=566813869]
+layout_mode = 0
+offset_left = 975.0
+offset_top = 1131.0
+offset_right = 1046.0
+offset_bottom = 1226.0
+mouse_filter = 2
+
+[node name="The Divide" type="TextureButton" parent="Nations/The Divide" unique_id=745352392]
+layout_mode = 2
+texture_normal = ExtResource("176_lm0ct")
+script = ExtResource("3_np2xp")
+
+[node name="The Executives" type="MarginContainer" parent="Nations" unique_id=2105006479]
+layout_mode = 0
+offset_left = 1578.0
+offset_top = 1322.0
+offset_right = 1662.0
+offset_bottom = 1446.0
+mouse_filter = 2
+
+[node name="The Executives" type="TextureButton" parent="Nations/The Executives" unique_id=1681076493]
+layout_mode = 2
+texture_normal = ExtResource("177_fe3qf")
+script = ExtResource("3_np2xp")
+
+[node name="The Flawed Parish" type="MarginContainer" parent="Nations" unique_id=249208793]
+layout_mode = 0
+offset_left = 1625.0
+offset_top = 739.0
+offset_right = 1707.0
+offset_bottom = 829.0
+mouse_filter = 2
+
+[node name="The Flawed Parish" type="TextureButton" parent="Nations/The Flawed Parish" unique_id=406659392]
+layout_mode = 2
+texture_normal = ExtResource("178_g5fs4")
+script = ExtResource("3_np2xp")
+
+[node name="Fallen Creed" type="MarginContainer" parent="Nations" unique_id=1675829081]
+layout_mode = 0
+offset_left = 1652.0
+offset_top = 817.0
+offset_right = 1760.0
+offset_bottom = 882.0
+mouse_filter = 2
+
+[node name="Fallen Creed" type="TextureButton" parent="Nations/Fallen Creed" unique_id=1300799439]
+layout_mode = 2
+texture_normal = ExtResource("179_86nfi")
+script = ExtResource("3_np2xp")
+
+[node name="The Gateway" type="MarginContainer" parent="Nations" unique_id=1516200386]
+layout_mode = 0
+offset_left = 1683.0
+offset_top = 65.0
+offset_right = 1771.0
+offset_bottom = 135.0
+mouse_filter = 2
+
+[node name="The Gateway" type="TextureButton" parent="Nations/The Gateway" unique_id=1296940570]
+layout_mode = 2
+texture_normal = ExtResource("180_2qum1")
+script = ExtResource("3_np2xp")
+
+[node name="The Grand Duchy of Langenburg" type="MarginContainer" parent="Nations" unique_id=506473095]
+layout_mode = 0
+offset_left = 1555.0
+offset_top = 146.0
+offset_right = 1796.0
+offset_bottom = 318.0
+mouse_filter = 2
+
+[node name="The Grand Duchy of Langenburg" type="TextureButton" parent="Nations/The Grand Duchy of Langenburg" unique_id=398364870]
+layout_mode = 2
+texture_normal = ExtResource("181_ddp4e")
+script = ExtResource("3_np2xp")
+
+[node name="The Last Lodge" type="MarginContainer" parent="Nations" unique_id=181431785]
+layout_mode = 0
+offset_left = 1735.0
+offset_top = 1264.0
+offset_right = 1909.0
+offset_bottom = 1358.0
+mouse_filter = 2
+
+[node name="The Last Lodge" type="TextureButton" parent="Nations/The Last Lodge" unique_id=871590777]
+layout_mode = 2
+texture_normal = ExtResource("182_qbhdu")
+script = ExtResource("3_np2xp")
+
+[node name="The Great Stampede" type="MarginContainer" parent="Nations" unique_id=1965297432]
+layout_mode = 0
+offset_left = 1179.0
+offset_top = 160.0
+offset_right = 1473.0
+offset_bottom = 314.0
+mouse_filter = 2
+
+[node name="The Great Stampede" type="TextureButton" parent="Nations/The Great Stampede" unique_id=63267917]
+layout_mode = 2
+texture_normal = ExtResource("183_t25pe")
+script = ExtResource("3_np2xp")
+
+[node name="The Last Patrol" type="MarginContainer" parent="Nations" unique_id=1148204410]
+layout_mode = 0
+offset_left = 1841.0
+offset_top = 1141.0
+offset_right = 1976.0
+offset_bottom = 1199.0
+mouse_filter = 2
+
+[node name="The Last Patrol" type="TextureButton" parent="Nations/The Last Patrol" unique_id=89647998]
+layout_mode = 2
+texture_normal = ExtResource("184_teff4")
+script = ExtResource("3_np2xp")
+
+[node name="The Last Redoubt" type="MarginContainer" parent="Nations" unique_id=1023187320]
+layout_mode = 0
+offset_left = 1578.0
+offset_top = 746.0
+offset_right = 1669.0
+offset_bottom = 856.0
+mouse_filter = 2
+
+[node name="The Last Redoubt" type="TextureButton" parent="Nations/The Last Redoubt" unique_id=1744039126]
+layout_mode = 2
+texture_normal = ExtResource("185_jr3kw")
+script = ExtResource("3_np2xp")
+
+[node name="The Old Believers" type="MarginContainer" parent="Nations" unique_id=1883584893]
+layout_mode = 0
+offset_left = 1741.0
+offset_top = 356.0
+offset_right = 1894.0
+offset_bottom = 466.0
+mouse_filter = 2
+
+[node name="The Old Believers" type="TextureButton" parent="Nations/The Old Believers" unique_id=987561988]
+layout_mode = 2
+texture_normal = ExtResource("186_maqef")
+script = ExtResource("3_np2xp")
+
+[node name="The Old Bones" type="MarginContainer" parent="Nations" unique_id=154590879]
+layout_mode = 0
+offset_left = 1328.0
+offset_top = 926.0
+offset_right = 1421.0
+offset_bottom = 1009.0
+mouse_filter = 2
+
+[node name="The Old Bones" type="TextureButton" parent="Nations/The Old Bones" unique_id=665820884]
+layout_mode = 2
+texture_normal = ExtResource("187_vuu6t")
+script = ExtResource("3_np2xp")
+
+[node name="The Old Country" type="MarginContainer" parent="Nations" unique_id=1969978460]
+layout_mode = 0
+offset_left = 819.0
+offset_top = 407.0
+offset_right = 1003.0
+offset_bottom = 577.0
+mouse_filter = 2
+
+[node name="The Old Country" type="TextureButton" parent="Nations/The Old Country" unique_id=1663915135]
+layout_mode = 2
+texture_normal = ExtResource("188_2jcy3")
+script = ExtResource("3_np2xp")
+
+[node name="The Order" type="MarginContainer" parent="Nations" unique_id=945203576]
+layout_mode = 0
+offset_left = 1907.0
+offset_top = 785.0
+offset_right = 1998.0
+offset_bottom = 893.0
+mouse_filter = 2
+
+[node name="The Order" type="TextureButton" parent="Nations/The Order" unique_id=1640348342]
+layout_mode = 2
+texture_normal = ExtResource("189_ycur6")
+script = ExtResource("3_np2xp")
+
+[node name="The Patrolmen" type="MarginContainer" parent="Nations" unique_id=468063294]
+layout_mode = 0
+offset_left = 2090.0
+offset_top = 1440.0
+offset_right = 2202.0
+offset_bottom = 1534.0
+mouse_filter = 2
+
+[node name="The Patrolmen" type="TextureButton" parent="Nations/The Patrolmen" unique_id=914623490]
+layout_mode = 2
+texture_normal = ExtResource("190_leneb")
+script = ExtResource("3_np2xp")
+
+[node name="The Pursuant" type="MarginContainer" parent="Nations" unique_id=1594759657]
+layout_mode = 0
+offset_left = 1823.0
+offset_top = 1648.0
+offset_right = 1926.0
+offset_bottom = 1733.0
+mouse_filter = 2
+
+[node name="The Pursuant" type="TextureButton" parent="Nations/The Pursuant" unique_id=1471224633]
+layout_mode = 2
+texture_normal = ExtResource("191_hj43s")
+script = ExtResource("3_np2xp")
+
+[node name="The Rapids" type="MarginContainer" parent="Nations" unique_id=692792588]
+layout_mode = 0
+offset_left = 1040.0
+offset_top = 1280.0
+offset_right = 1116.0
+offset_bottom = 1436.0
+mouse_filter = 2
+
+[node name="The Rapids" type="TextureButton" parent="Nations/The Rapids" unique_id=1775384351]
+layout_mode = 2
+texture_normal = ExtResource("192_660u4")
+script = ExtResource("3_np2xp")
+
+[node name="The Reservation" type="MarginContainer" parent="Nations" unique_id=1718858008]
+layout_mode = 0
+offset_left = 1418.0
+offset_top = 1177.0
+offset_right = 1500.0
+offset_bottom = 1243.0
+mouse_filter = 2
+
+[node name="The Reservation" type="TextureButton" parent="Nations/The Reservation" unique_id=2114529722]
+layout_mode = 2
+texture_normal = ExtResource("193_ygy50")
+script = ExtResource("3_np2xp")
+
+[node name="The Timberline" type="MarginContainer" parent="Nations" unique_id=1185400037]
+layout_mode = 0
+offset_left = 768.0
+offset_top = 551.0
+offset_right = 999.0
+offset_bottom = 718.0
+mouse_filter = 2
+
+[node name="The Timberline" type="TextureButton" parent="Nations/The Timberline" unique_id=356900315]
+layout_mode = 2
+texture_normal = ExtResource("194_6cn16")
+script = ExtResource("3_np2xp")
+
+[node name="The Viceroyalty" type="MarginContainer" parent="Nations" unique_id=1210986770]
+layout_mode = 0
+offset_left = 1517.0
+offset_top = 1863.0
+offset_right = 1653.0
+offset_bottom = 1991.0
+mouse_filter = 2
+
+[node name="The Viceroyalty" type="TextureButton" parent="Nations/The Viceroyalty" unique_id=2011653283]
+layout_mode = 2
+texture_normal = ExtResource("195_kpaho")
+script = ExtResource("3_np2xp")
+
+[node name="Tierra de los Tzotzil" type="MarginContainer" parent="Nations" unique_id=1189313840]
+layout_mode = 0
+offset_left = 2100.0
+offset_top = 2134.0
+offset_right = 2262.0
+offset_bottom = 2292.0
+mouse_filter = 2
+
+[node name="Tierra de los Tzotzil" type="TextureButton" parent="Nations/Tierra de los Tzotzil" unique_id=507440002]
+layout_mode = 2
+texture_normal = ExtResource("196_f4ii0")
+script = ExtResource("3_np2xp")
+
+[node name="Timekeepers" type="MarginContainer" parent="Nations" unique_id=523176860]
+layout_mode = 0
+offset_left = 1130.0
+offset_top = 986.0
+offset_right = 1208.0
+offset_bottom = 1082.0
+mouse_filter = 2
+
+[node name="Timekeepers" type="TextureButton" parent="Nations/Timekeepers" unique_id=1841523821]
+layout_mode = 2
+texture_normal = ExtResource("197_x3ev0")
+script = ExtResource("3_np2xp")
+
+[node name="Tlalocan" type="MarginContainer" parent="Nations" unique_id=1395968960]
+layout_mode = 0
+offset_left = 1581.0
+offset_top = 1736.0
+offset_right = 1817.0
+offset_bottom = 2034.0
+mouse_filter = 2
+
+[node name="Tlalocan" type="TextureButton" parent="Nations/Tlalocan" unique_id=952294209]
+layout_mode = 2
+texture_normal = ExtResource("198_c2wms")
+script = ExtResource("3_np2xp")
+
+[node name="Tohono Nation" type="MarginContainer" parent="Nations" unique_id=1119799009]
+layout_mode = 0
+offset_left = 1071.0
+offset_top = 1364.0
+offset_right = 1150.0
+offset_bottom = 1433.0
+mouse_filter = 2
+
+[node name="Tohono Nation" type="TextureButton" parent="Nations/Tohono Nation" unique_id=935468896]
+layout_mode = 2
+texture_normal = ExtResource("199_53mws")
+script = ExtResource("3_np2xp")
+
+[node name="Yakama Nation" type="MarginContainer" parent="Nations" unique_id=575022102]
+layout_mode = 0
+offset_left = 737.0
+offset_top = 449.0
+offset_right = 881.0
+offset_bottom = 611.0
+mouse_filter = 2
+
+[node name="Yakama Nation" type="TextureButton" parent="Nations/Yakama Nation" unique_id=341110068]
+layout_mode = 2
+texture_normal = ExtResource("200_h5fia")
+script = ExtResource("3_np2xp")
+
+[node name="Tubeheads" type="MarginContainer" parent="Nations" unique_id=1339953275]
+layout_mode = 0
+offset_left = 1866.0
+offset_top = 1301.0
+offset_right = 1975.0
+offset_bottom = 1381.0
+mouse_filter = 2
+
+[node name="Tubeheads" type="TextureButton" parent="Nations/Tubeheads" unique_id=953105638]
+layout_mode = 2
+texture_normal = ExtResource("201_ej15u")
+script = ExtResource("3_np2xp")
+
+[node name="TV Town" type="MarginContainer" parent="Nations" unique_id=735129832]
+layout_mode = 0
+offset_left = 928.0
+offset_top = 1059.0
+offset_right = 957.0
+offset_bottom = 1081.0
+mouse_filter = 2
+
+[node name="TV Town" type="TextureButton" parent="Nations/TV Town" unique_id=1877954637]
+layout_mode = 2
+texture_normal = ExtResource("202_rugrc")
+script = ExtResource("3_np2xp")
+
+[node name="Twin Mothers" type="MarginContainer" parent="Nations" unique_id=1374704119]
+layout_mode = 0
+offset_left = 1451.0
+offset_top = 1044.0
+offset_right = 1564.0
+offset_bottom = 1189.0
+mouse_filter = 2
+
+[node name="Twin Mothers" type="TextureButton" parent="Nations/Twin Mothers" unique_id=1409662542]
+layout_mode = 2
+texture_normal = ExtResource("203_61cu1")
+script = ExtResource("3_np2xp")
+
+[node name="Two Sun" type="MarginContainer" parent="Nations" unique_id=1056397968]
+layout_mode = 0
+offset_left = 1199.0
+offset_top = 1384.0
+offset_right = 1355.0
+offset_bottom = 1496.0
+mouse_filter = 2
+
+[node name="Two Sun" type="TextureButton" parent="Nations/Two Sun" unique_id=1492325438]
+layout_mode = 2
+texture_normal = ExtResource("204_ksuo8")
+script = ExtResource("3_np2xp")
+
+[node name="Two Peoples" type="MarginContainer" parent="Nations" unique_id=2109113808]
+layout_mode = 0
+offset_left = 1776.0
+offset_top = 485.0
+offset_right = 1907.0
+offset_bottom = 613.0
+mouse_filter = 2
+
+[node name="Two Peoples" type="TextureButton" parent="Nations/Two Peoples" unique_id=365838582]
+layout_mode = 2
+texture_normal = ExtResource("205_3o4oe")
+script = ExtResource("3_np2xp")
+
+[node name="Uintah" type="MarginContainer" parent="Nations" unique_id=1421331313]
+layout_mode = 0
+offset_left = 1245.0
+offset_top = 890.0
+offset_right = 1340.0
+offset_bottom = 1042.0
+mouse_filter = 2
+
+[node name="Uintah" type="TextureButton" parent="Nations/Uintah" unique_id=459045946]
+layout_mode = 2
+texture_normal = ExtResource("206_gtubv")
+script = ExtResource("3_np2xp")
+
+[node name="Umbra" type="MarginContainer" parent="Nations" unique_id=1225249098]
+layout_mode = 0
+offset_left = 627.0
+offset_top = 822.0
+offset_right = 714.0
+offset_bottom = 881.0
+mouse_filter = 2
+
+[node name="Umbra" type="TextureButton" parent="Nations/Umbra" unique_id=2025363026]
+layout_mode = 2
+texture_normal = ExtResource("207_cfuph")
+script = ExtResource("3_np2xp")
+
+[node name="Unbound" type="MarginContainer" parent="Nations" unique_id=1064274348]
+layout_mode = 0
+offset_left = 1507.0
+offset_top = 399.0
+offset_right = 1653.0
+offset_bottom = 476.0
+mouse_filter = 2
+
+[node name="Unbound" type="TextureButton" parent="Nations/Unbound" unique_id=1309228113]
+layout_mode = 2
+texture_normal = ExtResource("208_eopii")
+script = ExtResource("3_np2xp")
+
+[node name="Unity of Austin" type="MarginContainer" parent="Nations" unique_id=920625810]
+layout_mode = 0
+offset_left = 1816.0
+offset_top = 1442.0
+offset_right = 1962.0
+offset_bottom = 1544.0
+mouse_filter = 2
+
+[node name="Unity of Austin" type="TextureButton" parent="Nations/Unity of Austin" unique_id=1103429102]
+layout_mode = 2
+texture_normal = ExtResource("209_x2rrw")
+script = ExtResource("3_np2xp")
+
+[node name="Valle Bandits" type="MarginContainer" parent="Nations" unique_id=155265112]
+layout_mode = 0
+offset_left = 1003.0
+offset_top = 1430.0
+offset_right = 1206.0
+offset_bottom = 1710.0
+mouse_filter = 2
+
+[node name="Valle Bandits" type="TextureButton" parent="Nations/Valle Bandits" unique_id=795443975]
+layout_mode = 2
+texture_normal = ExtResource("210_i2ps1")
+script = ExtResource("3_np2xp")
+
+[node name="Vault 37" type="MarginContainer" parent="Nations" unique_id=2094727249]
+layout_mode = 0
+offset_left = 1889.0
+offset_top = 452.0
+offset_right = 1956.0
+offset_bottom = 566.0
+mouse_filter = 2
+
+[node name="Vault 37" type="TextureButton" parent="Nations/Vault 37" unique_id=3746815]
+layout_mode = 2
+texture_normal = ExtResource("211_inipc")
+script = ExtResource("3_np2xp")
+
+[node name="Vault City" type="MarginContainer" parent="Nations" unique_id=1518782292]
+layout_mode = 0
+offset_left = 877.0
+offset_top = 879.0
+offset_right = 953.0
+offset_bottom = 943.0
+mouse_filter = 2
+
+[node name="Vault City" type="TextureButton" parent="Nations/Vault City" unique_id=1845487313]
+layout_mode = 2
+texture_normal = ExtResource("212_j6stj")
+script = ExtResource("3_np2xp")
+
+[node name="Vipers" type="MarginContainer" parent="Nations" unique_id=1744312560]
+layout_mode = 0
+offset_left = 860.0
+offset_top = 956.0
+offset_right = 978.0
+offset_bottom = 1035.0
+mouse_filter = 2
+
+[node name="Vipers" type="TextureButton" parent="Nations/Vipers" unique_id=1959812297]
+layout_mode = 2
+texture_normal = ExtResource("213_jah6u")
+script = ExtResource("3_np2xp")
+
+[node name="Washington Brotherhood" type="MarginContainer" parent="Nations" unique_id=898759158]
+layout_mode = 0
+offset_left = 627.0
+offset_top = 457.0
+offset_right = 781.0
+offset_bottom = 613.0
+mouse_filter = 2
+
+[node name="Washington Brotherhood" type="TextureButton" parent="Nations/Washington Brotherhood" unique_id=1643462793]
+layout_mode = 2
+texture_normal = ExtResource("214_r3eny")
+script = ExtResource("3_np2xp")
+
+[node name="White Legs" type="MarginContainer" parent="Nations" unique_id=1171654662]
+layout_mode = 0
+offset_left = 1062.0
+offset_top = 995.0
+offset_right = 1216.0
+offset_bottom = 1158.0
+mouse_filter = 2
+
+[node name="White Legs" type="TextureButton" parent="Nations/White Legs" unique_id=372734892]
+layout_mode = 2
+texture_normal = ExtResource("215_agwr8")
+script = ExtResource("3_np2xp")
+
+[node name="Whistler" type="MarginContainer" parent="Nations" unique_id=1974513175]
+layout_mode = 0
+offset_left = 520.0
+offset_top = 157.0
+offset_right = 751.0
+offset_bottom = 352.0
+mouse_filter = 2
+
+[node name="Whistler" type="TextureButton" parent="Nations/Whistler" unique_id=1867090719]
+layout_mode = 2
+texture_normal = ExtResource("216_ltv0b")
+script = ExtResource("3_np2xp")
+
+[node name="Withered Dogs" type="MarginContainer" parent="Nations" unique_id=714495243]
+layout_mode = 0
+offset_left = 1598.0
+offset_top = 860.0
+offset_right = 1720.0
+offset_bottom = 945.0
+mouse_filter = 2
+
+[node name="Withered Dogs" type="TextureButton" parent="Nations/Withered Dogs" unique_id=1353348325]
+layout_mode = 2
+texture_normal = ExtResource("217_3iupj")
+script = ExtResource("3_np2xp")
+
+[node name="Yakuza Territories" type="MarginContainer" parent="Nations" unique_id=1103753226]
+layout_mode = 0
+offset_left = 821.0
+offset_top = 1008.0
+offset_right = 896.0
+offset_bottom = 1075.0
+mouse_filter = 2
+
+[node name="Yakuza Territories" type="TextureButton" parent="Nations/Yakuza Territories" unique_id=620381237]
+layout_mode = 2
+texture_normal = ExtResource("218_vymcg")
+script = ExtResource("3_np2xp")
+
+[node name="Yellowstone Park" type="MarginContainer" parent="Nations" unique_id=2106760775]
+layout_mode = 0
+offset_left = 1126.0
+offset_top = 605.0
+offset_right = 1364.0
+offset_bottom = 761.0
+mouse_filter = 2
+
+[node name="Yellowstone Park" type="TextureButton" parent="Nations/Yellowstone Park" unique_id=1062328316]
+layout_mode = 2
+texture_normal = ExtResource("219_xwlu1")
+script = ExtResource("3_np2xp")
+
+[node name="Troll Warden" type="MarginContainer" parent="Nations" unique_id=456361312]
+layout_mode = 0
+offset_left = 748.0
+offset_top = 742.0
+offset_right = 768.0
+offset_bottom = 768.0
+mouse_filter = 2
+
+[node name="Troll Warden" type="TextureButton" parent="Nations/Troll Warden" unique_id=2097505865]
+layout_mode = 2
+texture_normal = ExtResource("220_8m0ob")
+script = ExtResource("3_np2xp")
+
+[node name="Coal Consortium" type="MarginContainer" parent="Nations" unique_id=1484034342]
+layout_mode = 0
+offset_left = 1415.0
+offset_top = 481.0
+offset_right = 1544.0
+offset_bottom = 575.0
+mouse_filter = 2
+
+[node name="Coal Consortium" type="TextureButton" parent="Nations/Coal Consortium" unique_id=929234059]
+layout_mode = 2
+texture_normal = ExtResource("221_n1alf")
+script = ExtResource("3_np2xp")
+
+[node name="Hangdogs" type="MarginContainer" parent="Nations" unique_id=2287413]
+layout_mode = 0
+offset_left = 1521.0
+offset_top = 929.0
+offset_right = 1667.0
+offset_bottom = 1071.0
+mouse_filter = 2
+
+[node name="Hangdogs" type="TextureButton" parent="Nations/Hangdogs" unique_id=1771784542]
+layout_mode = 2
+texture_normal = ExtResource("222_660u4")
+script = ExtResource("3_np2xp")
+
+[node name="Painted Rock" type="MarginContainer" parent="Nations" unique_id=504128303]
+layout_mode = 0
+offset_left = 1705.0
+offset_top = 1130.0
+offset_right = 1785.0
+offset_bottom = 1204.0
+mouse_filter = 2
+
+[node name="Painted Rock" type="TextureButton" parent="Nations/Painted Rock" unique_id=1893428932]
+layout_mode = 2
+texture_normal = ExtResource("223_ygy50")
+script = ExtResource("3_np2xp")
+
+[node name="Iron Confederacy" type="MarginContainer" parent="Nations" unique_id=1497057017]
+layout_mode = 0
+offset_left = 1530.0
+offset_top = 2.0
+offset_right = 1915.0
+offset_bottom = 132.0
+mouse_filter = 2
+
+[node name="Iron Confederacy" type="TextureButton" parent="Nations/Iron Confederacy" unique_id=77120840]
+layout_mode = 2
+texture_normal = ExtResource("224_6cn16")
+script = ExtResource("3_np2xp")
+
+[node name="Borders" type="MarginContainer" parent="." unique_id=1984200759]
+offset_right = 4132.0
+offset_bottom = 2304.0
+mouse_filter = 2
+
+[node name="Borders" type="TextureRect" parent="Borders" unique_id=1062241802]
+layout_mode = 2
+mouse_filter = 2
+texture = ExtResource("3_q0mm3")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1691633582]
+position = Vector2(2075, 1158)
+zoom = Vector2(0.28, 0.28)
+
+[node name="Menu" type="PanelContainer" parent="." unique_id=1417481968]
+offset_left = 18.0
+offset_top = 1421.0
+offset_right = 829.0
+offset_bottom = 2304.0
+size_flags_vertical = 0
+script = ExtResource("7_w7jjh")
+
+[node name="Base" type="VBoxContainer" parent="Menu" unique_id=599988793]
+layout_mode = 2
+size_flags_vertical = 0
+
+[node name="Main" type="VBoxContainer" parent="Menu/Base" unique_id=343738444]
+layout_mode = 2
+
+[node name="Nation" type="Label" parent="Menu/Base/Main" unique_id=910954193]
+layout_mode = 2
+theme_override_font_sizes/font_size = 48
+text = "Select a Nation"
+horizontal_alignment = 1
+
+[node name="Base" type="HBoxContainer" parent="Menu/Base/Main" unique_id=257627066]
+layout_mode = 2
+theme_override_constants/separation = 66
+alignment = 1
+
+[node name="Label" type="Label" parent="Menu/Base/Main/Base" unique_id=1370678731]
+layout_mode = 2
+theme_override_font_sizes/font_size = 36
+text = "Add New Playthrough:"
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Menu/Base/Main/Base" unique_id=1746529659]
+layout_mode = 2
+
+[node name="Button" type="Button" parent="Menu/Base/Main/Base/HBoxContainer" unique_id=838418913]
+layout_mode = 2
+theme_override_font_sizes/font_size = 50
+disabled = true
+text = "▲"
+
+[node name="Label2" type="Label" parent="Menu/Base/Main/Base/HBoxContainer" unique_id=595022092]
+layout_mode = 2
+theme_override_font_sizes/font_size = 50
+text = "0"
+
+[node name="Button2" type="Button" parent="Menu/Base/Main/Base/HBoxContainer" unique_id=98846485]
+layout_mode = 2
+theme_override_font_sizes/font_size = 50
+disabled = true
+text = "▼"
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Menu/Base" unique_id=1437165347]
+custom_minimum_size = Vector2(0, 752)
+layout_mode = 2
+size_flags_vertical = 3
+horizontal_scroll_mode = 0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Menu/Base/ScrollContainer" unique_id=368767176]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="SideBar" type="VBoxContainer" parent="." unique_id=1043537858]
+anchors_preset = -1
+anchor_left = 0.84900004
+anchor_top = 0.87700003
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 2629.952
+offset_top = 1381.704
+offset_right = 2981.3281
+offset_bottom = 1666.0
+theme_override_constants/separation = 16
+
+[node name="Settings" type="FoldableContainer" parent="SideBar" unique_id=1340936595]
+layout_mode = 2
+theme_override_font_sizes/font_size = 48
+title = "Settings"
+title_alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="SideBar/Settings" unique_id=1353206335]
+layout_mode = 2
+
+[node name="Gradient" type="CheckButton" parent="SideBar/Settings/VBoxContainer" unique_id=2102541785]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+text = "Flat Colours"
+alignment = 1
+
+[node name="Display Type" type="CheckButton" parent="SideBar/Settings/VBoxContainer" unique_id=1253298490]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+text = "Pixel Borders"
+alignment = 1
+
+[node name="Save" type="Button" parent="SideBar" unique_id=1847100716]
+layout_mode = 2
+theme_override_font_sizes/font_size = 48
+text = "Save"
+
+[node name="Load" type="Button" parent="SideBar" unique_id=1428539950]
+layout_mode = 2
+theme_override_font_sizes/font_size = 48
+text = "Load"
+
+[node name="PNG" type="Button" parent="SideBar" unique_id=1924344817]
+layout_mode = 2
+theme_override_font_sizes/font_size = 48
+text = "Export to PNG"
+
+[connection signal="pressed" from="Filter/Empty" to="." method="_on_empty_pressed"]
+[connection signal="pressed" from="Menu/Base/Main/Base/HBoxContainer/Button" to="Menu" method="increase_log"]
+[connection signal="pressed" from="Menu/Base/Main/Base/HBoxContainer/Button2" to="Menu" method="decrease_log"]
+[connection signal="toggled" from="SideBar/Settings/VBoxContainer/Gradient" to="." method="_on_gradient_toggled"]
+[connection signal="toggled" from="SideBar/Settings/VBoxContainer/Display Type" to="." method="_on_display_type_toggled"]
+[connection signal="pressed" from="SideBar/Save" to="." method="_on_save_pressed"]
+[connection signal="pressed" from="SideBar/Load" to="." method="_on_load_pressed"]
+[connection signal="pressed" from="SideBar/PNG" to="." method="_on_png_pressed"]

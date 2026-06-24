@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://ca702kuvqoit5"
+path="res://.godot/imported/Baron's Eyrie.png-7b877eed98b0d821ac033d29b9ac9b38.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Baron's Eyrie.png"
+dest_files=["res://.godot/imported/Baron's Eyrie.png-7b877eed98b0d821ac033d29b9ac9b38.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

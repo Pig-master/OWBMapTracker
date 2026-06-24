@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://gl0234dtls11"
+path="res://.godot/imported/Free Fighters.png-f4859bf182288cafd4fb2579f4e27eea.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Free Fighters.png"
+dest_files=["res://.godot/imported/Free Fighters.png-f4859bf182288cafd4fb2579f4e27eea.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

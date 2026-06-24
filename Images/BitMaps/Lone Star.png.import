@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dyrcb80wjcqo0"
+path="res://.godot/imported/Lone Star.png-afbf9e9f252a8762f7e9c040f0aaf1b8.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Lone Star.png"
+dest_files=["res://.godot/imported/Lone Star.png-afbf9e9f252a8762f7e9c040f0aaf1b8.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

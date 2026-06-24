@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://blvk4806et2kx"
+path="res://.godot/imported/Montana Chapter.png-142e873b65292707179cfba45c48decd.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Montana Chapter.png"
+dest_files=["res://.godot/imported/Montana Chapter.png-142e873b65292707179cfba45c48decd.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

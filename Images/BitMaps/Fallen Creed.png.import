@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://by75pvrulaj5o"
+path="res://.godot/imported/Fallen Creed.png-2263405eed8e3b124e1c3056fc365580.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Fallen Creed.png"
+dest_files=["res://.godot/imported/Fallen Creed.png-2263405eed8e3b124e1c3056fc365580.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

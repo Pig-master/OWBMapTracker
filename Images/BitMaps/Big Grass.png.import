@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://jon4vw16dbkl"
+path="res://.godot/imported/Big Grass.png-56218e7b6d723110115f1f8254674209.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Big Grass.png"
+dest_files=["res://.godot/imported/Big Grass.png-56218e7b6d723110115f1f8254674209.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

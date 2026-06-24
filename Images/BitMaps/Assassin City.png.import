@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://d0iei8ytpmajo"
+path="res://.godot/imported/Assassin City.png-9a7d82fe11dfe1a0f8893ccb32bfb40e.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Assassin City.png"
+dest_files=["res://.godot/imported/Assassin City.png-9a7d82fe11dfe1a0f8893ccb32bfb40e.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

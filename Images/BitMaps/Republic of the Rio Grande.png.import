@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bbl0rel88w3wa"
+path="res://.godot/imported/Republic of the Rio Grande.png-fc25fc27365de401bea065315cc4b320.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Republic of the Rio Grande.png"
+dest_files=["res://.godot/imported/Republic of the Rio Grande.png-fc25fc27365de401bea065315cc4b320.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://fd8me6hjtt5m"
+path="res://.godot/imported/Northern Khans.png-3f20c361775441ca7ff9d0fa4c0051b3.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Northern Khans.png"
+dest_files=["res://.godot/imported/Northern Khans.png-3f20c361775441ca7ff9d0fa4c0051b3.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

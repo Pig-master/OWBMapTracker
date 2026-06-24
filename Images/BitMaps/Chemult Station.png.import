@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dxo5eyja1k0n2"
+path="res://.godot/imported/Chemult Station.png-f1156ccaae045f6fb9acfa0324828448.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Chemult Station.png"
+dest_files=["res://.godot/imported/Chemult Station.png-f1156ccaae045f6fb9acfa0324828448.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

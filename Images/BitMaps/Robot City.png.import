@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dkbebmrs3x8kp"
+path="res://.godot/imported/Robot City.png-08264b5adf0f08b043a48a53e244c84e.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Robot City.png"
+dest_files=["res://.godot/imported/Robot City.png-08264b5adf0f08b043a48a53e244c84e.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

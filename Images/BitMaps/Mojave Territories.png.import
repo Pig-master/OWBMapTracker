@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://k3xuhipc6jp4"
+path="res://.godot/imported/Mojave Territories.png-3e5b67aa07aff249e8360ea2da7d195e.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Mojave Territories.png"
+dest_files=["res://.godot/imported/Mojave Territories.png-3e5b67aa07aff249e8360ea2da7d195e.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

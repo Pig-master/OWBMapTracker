@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bw8oybltlxgng"
+path="res://.godot/imported/S'Lanter.png-c31689f460e112a37ef97574c7fe20bf.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/S'Lanter.png"
+dest_files=["res://.godot/imported/S'Lanter.png-c31689f460e112a37ef97574c7fe20bf.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

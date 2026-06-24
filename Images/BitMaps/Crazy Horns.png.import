@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://4x87bnly0o5w"
+path="res://.godot/imported/Crazy Horns.png-23cc05cbe880503c531d4ca068752df1.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Crazy Horns.png"
+dest_files=["res://.godot/imported/Crazy Horns.png-23cc05cbe880503c531d4ca068752df1.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

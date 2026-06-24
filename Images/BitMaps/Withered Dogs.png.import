@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bk7640tsksmap"
+path="res://.godot/imported/Withered Dogs.png-9b3a704f4311c59c13e370a6b538e79d.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Withered Dogs.png"
+dest_files=["res://.godot/imported/Withered Dogs.png-9b3a704f4311c59c13e370a6b538e79d.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

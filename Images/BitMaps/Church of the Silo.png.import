@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bhwefhb6mvnp1"
+path="res://.godot/imported/Church of the Silo.png-f3f72facb88e56713e68874a47a63e8b.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Church of the Silo.png"
+dest_files=["res://.godot/imported/Church of the Silo.png-f3f72facb88e56713e68874a47a63e8b.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

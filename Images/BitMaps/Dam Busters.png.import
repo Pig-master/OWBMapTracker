@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cqolun8ghr3v0"
+path="res://.godot/imported/Dam Busters.png-065ed533515ff442cdb10cb6ee61c106.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Dam Busters.png"
+dest_files=["res://.godot/imported/Dam Busters.png-065ed533515ff442cdb10cb6ee61c106.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

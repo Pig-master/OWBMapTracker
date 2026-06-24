@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://ds6tl43v4x832"
+path="res://.godot/imported/Battleford.png-75b0742315b0f5fed2d10cc15131404c.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Battleford.png"
+dest_files=["res://.godot/imported/Battleford.png-75b0742315b0f5fed2d10cc15131404c.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

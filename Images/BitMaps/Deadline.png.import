@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://c40gpowpiecvp"
+path="res://.godot/imported/Deadline.png-12d0da198da30af527608167a0b6f0b5.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Deadline.png"
+dest_files=["res://.godot/imported/Deadline.png-12d0da198da30af527608167a0b6f0b5.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

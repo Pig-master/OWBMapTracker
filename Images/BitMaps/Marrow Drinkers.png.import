@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dqvuppw45sywu"
+path="res://.godot/imported/Marrow Drinkers.png-44e9d7dcb3a843022db6fbe193c9a0bf.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Marrow Drinkers.png"
+dest_files=["res://.godot/imported/Marrow Drinkers.png-44e9d7dcb3a843022db6fbe193c9a0bf.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

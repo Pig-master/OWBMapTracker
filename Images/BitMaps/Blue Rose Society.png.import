@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bg7cgf8tyy2x7"
+path="res://.godot/imported/Blue Rose Society.png-014e868a18ffe984704aa912dfddd912.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Blue Rose Society.png"
+dest_files=["res://.godot/imported/Blue Rose Society.png-014e868a18ffe984704aa912dfddd912.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

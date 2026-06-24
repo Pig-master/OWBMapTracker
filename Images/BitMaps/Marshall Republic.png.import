@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://b8qa5f4oa7hd0"
+path="res://.godot/imported/Marshall Republic.png-7883f4c0c60683c5d827e577935a34e2.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Marshall Republic.png"
+dest_files=["res://.godot/imported/Marshall Republic.png-7883f4c0c60683c5d827e577935a34e2.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dst013alxlwda"
+path="res://.godot/imported/Scorpion's Bite.png-e1f2ad37c1fe77cebaad1379fffd49f4.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Scorpion's Bite.png"
+dest_files=["res://.godot/imported/Scorpion's Bite.png-e1f2ad37c1fe77cebaad1379fffd49f4.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

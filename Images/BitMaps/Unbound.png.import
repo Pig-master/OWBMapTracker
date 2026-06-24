@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bmo1je06tv56d"
+path="res://.godot/imported/Unbound.png-8b67a1df8ef00214dbf431d9f39c6922.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Unbound.png"
+dest_files=["res://.godot/imported/Unbound.png-8b67a1df8ef00214dbf431d9f39c6922.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

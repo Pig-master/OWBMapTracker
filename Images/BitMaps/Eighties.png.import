@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dib8gra1lpuh3"
+path="res://.godot/imported/Eighties.png-1b6459550430d86079c361aaeefc4f3b.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Eighties.png"
+dest_files=["res://.godot/imported/Eighties.png-1b6459550430d86079c361aaeefc4f3b.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

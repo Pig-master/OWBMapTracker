@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://m2k5r7y2ahs2"
+path="res://.godot/imported/Rusty Hooks.png-3622c0750ce0f565588ebd61c888fb69.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Rusty Hooks.png"
+dest_files=["res://.godot/imported/Rusty Hooks.png-3622c0750ce0f565588ebd61c888fb69.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

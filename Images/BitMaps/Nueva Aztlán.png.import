@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://234uvqjjqoy6"
+path="res://.godot/imported/Nueva Aztlán.png-9d2f48611ef522cfb420b1e749d66c0b.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Nueva Aztlán.png"
+dest_files=["res://.godot/imported/Nueva Aztlán.png-9d2f48611ef522cfb420b1e749d66c0b.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

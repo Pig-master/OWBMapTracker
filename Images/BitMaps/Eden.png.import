@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cbptcdhyp0sd5"
+path="res://.godot/imported/Eden.png-bc5608955465acb05f453374e3ad82ba.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Eden.png"
+dest_files=["res://.godot/imported/Eden.png-bc5608955465acb05f453374e3ad82ba.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

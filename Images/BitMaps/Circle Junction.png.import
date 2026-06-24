@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cxbe6xxbbfkrn"
+path="res://.godot/imported/Circle Junction.png-5f672a33a33dc1a774305f4335597e42.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Circle Junction.png"
+dest_files=["res://.godot/imported/Circle Junction.png-5f672a33a33dc1a774305f4335597e42.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

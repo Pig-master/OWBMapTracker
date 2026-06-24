@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bysgmdmlyr145"
+path="res://.godot/imported/Mirelurk Tribe.png-2550199b6e07ddcfe108a39b7089f2ce.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Mirelurk Tribe.png"
+dest_files=["res://.godot/imported/Mirelurk Tribe.png-2550199b6e07ddcfe108a39b7089f2ce.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

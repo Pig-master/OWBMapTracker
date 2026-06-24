@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://m65mroosi5np"
+path="res://.godot/imported/Protectron Security Hub.png-1a5fcbd1fc6e13e646a240ceb01cd9e2.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Protectron Security Hub.png"
+dest_files=["res://.godot/imported/Protectron Security Hub.png-1a5fcbd1fc6e13e646a240ceb01cd9e2.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

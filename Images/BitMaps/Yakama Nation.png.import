@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bmypiff1g2gi4"
+path="res://.godot/imported/Yakama Nation.png-cf73404f4549f61e8397f3335aea3c87.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Yakama Nation.png"
+dest_files=["res://.godot/imported/Yakama Nation.png-cf73404f4549f61e8397f3335aea3c87.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

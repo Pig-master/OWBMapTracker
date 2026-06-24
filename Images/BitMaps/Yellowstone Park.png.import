@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://wpftlhod6fxl"
+path="res://.godot/imported/Yellowstone Park.png-3a53b18281b32aa00de4ed201bf5d176.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Yellowstone Park.png"
+dest_files=["res://.godot/imported/Yellowstone Park.png-3a53b18281b32aa00de4ed201bf5d176.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dlb8bpkkkvvol"
+path="res://.godot/imported/Sons of Kaga.png-0b510143bd038db70f4cb1a0ee506151.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Sons of Kaga.png"
+dest_files=["res://.godot/imported/Sons of Kaga.png-0b510143bd038db70f4cb1a0ee506151.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

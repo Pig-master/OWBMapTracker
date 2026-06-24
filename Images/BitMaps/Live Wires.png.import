@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://rw4cwd3odnov"
+path="res://.godot/imported/Live Wires.png-256abccf2989b713821bc11cc1e080cf.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Live Wires.png"
+dest_files=["res://.godot/imported/Live Wires.png-256abccf2989b713821bc11cc1e080cf.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

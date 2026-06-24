@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://76cn37ikfkmq"
+path="res://.godot/imported/Lubbock.png-e21702283a7ba2a5af41a6f93edbf148.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Lubbock.png"
+dest_files=["res://.godot/imported/Lubbock.png-e21702283a7ba2a5af41a6f93edbf148.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

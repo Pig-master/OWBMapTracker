@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://hebs38uxdpki"
+path="res://.godot/imported/Summers Federation.png-d960b96e358202594da5e778fce15335.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Summers Federation.png"
+dest_files=["res://.godot/imported/Summers Federation.png-d960b96e358202594da5e778fce15335.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

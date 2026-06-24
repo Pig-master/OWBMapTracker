@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bd17froa3j417"
+path="res://.godot/imported/Dredgers.png-ccde372b4b91dd1be913d66cb65fc314.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Dredgers.png"
+dest_files=["res://.godot/imported/Dredgers.png-ccde372b4b91dd1be913d66cb65fc314.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

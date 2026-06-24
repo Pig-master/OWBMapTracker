@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://fi365w05f4jw"
+path="res://.godot/imported/Baggers.png-9d9586d4ff6a4578d7e453379b23ff2f.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Baggers.png"
+dest_files=["res://.godot/imported/Baggers.png-9d9586d4ff6a4578d7e453379b23ff2f.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

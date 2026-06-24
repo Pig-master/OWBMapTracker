@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://d1kbatvg0psrm"
+path="res://.godot/imported/Los.png-cdaae7f7cb417321189aa1c9640e2dfc.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Los.png"
+dest_files=["res://.godot/imported/Los.png-cdaae7f7cb417321189aa1c9640e2dfc.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

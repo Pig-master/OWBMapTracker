@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bqu1rjj0v8jh2"
+path="res://.godot/imported/Kamlo.png-e55bf71b39862637c6019bf59dd3b385.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Kamlo.png"
+dest_files=["res://.godot/imported/Kamlo.png-e55bf71b39862637c6019bf59dd3b385.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

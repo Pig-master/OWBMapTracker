@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bpd5djqnnfnku"
+path="res://.godot/imported/Mojave Chapter.png-9380060b620d269d84254f02c8546726.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Mojave Chapter.png"
+dest_files=["res://.godot/imported/Mojave Chapter.png-9380060b620d269d84254f02c8546726.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

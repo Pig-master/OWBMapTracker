@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bpa230oli1vtp"
+path="res://.godot/imported/The Blighted Woods.png-e839b172a99ac198e377331731480903.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Blighted Woods.png"
+dest_files=["res://.godot/imported/The Blighted Woods.png-e839b172a99ac198e377331731480903.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

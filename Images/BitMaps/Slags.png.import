@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://hea2xrh5e3bg"
+path="res://.godot/imported/Slags.png-06e4e1bcf06844871b44c2656bfe28c4.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Slags.png"
+dest_files=["res://.godot/imported/Slags.png-06e4e1bcf06844871b44c2656bfe28c4.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

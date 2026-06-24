@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bfwq6mu5mnq27"
+path="res://.godot/imported/The Last Lodge.png-b812331d1d7173cb8d8cae20cdd86ebd.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Last Lodge.png"
+dest_files=["res://.godot/imported/The Last Lodge.png-b812331d1d7173cb8d8cae20cdd86ebd.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

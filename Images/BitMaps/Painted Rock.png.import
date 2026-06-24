@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://3jtysay8k21d"
+path="res://.godot/imported/Painted Rock.png-96dedaea530f75d0e0e80fda81d1f914.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Painted Rock.png"
+dest_files=["res://.godot/imported/Painted Rock.png-96dedaea530f75d0e0e80fda81d1f914.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

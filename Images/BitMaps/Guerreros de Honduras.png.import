@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cf1r0260ghwg5"
+path="res://.godot/imported/Guerreros de Honduras.png-8f82f060a5eaf6bd35f4d437ac46b077.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Guerreros de Honduras.png"
+dest_files=["res://.godot/imported/Guerreros de Honduras.png-8f82f060a5eaf6bd35f4d437ac46b077.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

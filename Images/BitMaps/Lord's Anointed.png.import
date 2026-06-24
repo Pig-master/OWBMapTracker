@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://crxkbn53deo0i"
+path="res://.godot/imported/Lord's Anointed.png-64f170890ce8682e410550c50ee3d355.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Lord's Anointed.png"
+dest_files=["res://.godot/imported/Lord's Anointed.png-64f170890ce8682e410550c50ee3d355.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

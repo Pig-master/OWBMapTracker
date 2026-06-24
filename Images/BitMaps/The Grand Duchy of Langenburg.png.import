@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bldocxkw8gmhs"
+path="res://.godot/imported/The Grand Duchy of Langenburg.png-a2812a2edf63d2f0b9e5166630f92857.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Grand Duchy of Langenburg.png"
+dest_files=["res://.godot/imported/The Grand Duchy of Langenburg.png-a2812a2edf63d2f0b9e5166630f92857.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

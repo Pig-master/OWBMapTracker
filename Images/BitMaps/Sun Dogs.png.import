@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://6mgny0uffv72"
+path="res://.godot/imported/Sun Dogs.png-a35af8073ce66fd6b7acb3619df1e876.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Sun Dogs.png"
+dest_files=["res://.godot/imported/Sun Dogs.png-a35af8073ce66fd6b7acb3619df1e876.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

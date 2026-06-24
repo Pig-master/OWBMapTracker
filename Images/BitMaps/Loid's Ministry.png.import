@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://d2fowy7x0a3xe"
+path="res://.godot/imported/Loid's Ministry.png-7007bc1be0dbbaa09236160e90aad69a.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Loid's Ministry.png"
+dest_files=["res://.godot/imported/Loid's Ministry.png-7007bc1be0dbbaa09236160e90aad69a.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

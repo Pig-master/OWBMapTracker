@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://7r6mji3amjcg"
+path="res://.godot/imported/Eureka.png-5ea4339d350499bad4f89ec492d52da4.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Eureka.png"
+dest_files=["res://.godot/imported/Eureka.png-5ea4339d350499bad4f89ec492d52da4.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://blpdnqra7nhn3"
+path="res://.godot/imported/The Gateway.png-ca6d2bf379cef27b1190c1a6cac1cb1e.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Gateway.png"
+dest_files=["res://.godot/imported/The Gateway.png-ca6d2bf379cef27b1190c1a6cac1cb1e.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

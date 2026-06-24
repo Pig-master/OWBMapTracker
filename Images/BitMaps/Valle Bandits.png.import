@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://biwjhrw4rnuim"
+path="res://.godot/imported/Valle Bandits.png-69763d8ea16bbded1f8b8227dd0daa17.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Valle Bandits.png"
+dest_files=["res://.godot/imported/Valle Bandits.png-69763d8ea16bbded1f8b8227dd0daa17.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://by2n2i78gfq4e"
+path="res://.godot/imported/215th.png-317a6fb6bf059226bbe8ffac5c2234ac.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/215th.png"
+dest_files=["res://.godot/imported/215th.png-317a6fb6bf059226bbe8ffac5c2234ac.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

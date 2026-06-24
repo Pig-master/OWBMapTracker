@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dngalwbnt6yyj"
+path="res://.godot/imported/Troll Warden.png-3ba8185328bae14206b6cd367fa400f9.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Troll Warden.png"
+dest_files=["res://.godot/imported/Troll Warden.png-3ba8185328bae14206b6cd367fa400f9.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

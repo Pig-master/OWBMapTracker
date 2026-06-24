@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://by7rr7do8dq80"
+path="res://.godot/imported/Ciphers.png-1a11cfa783a4c4698ed12321c51bea5a.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Ciphers.png"
+dest_files=["res://.godot/imported/Ciphers.png-1a11cfa783a4c4698ed12321c51bea5a.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

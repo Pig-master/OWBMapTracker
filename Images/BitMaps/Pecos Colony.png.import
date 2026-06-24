@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://caa0qyroti0hf"
+path="res://.godot/imported/Pecos Colony.png-391cf5eb0599e8eac9532fb44f5ce9fe.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Pecos Colony.png"
+dest_files=["res://.godot/imported/Pecos Colony.png-391cf5eb0599e8eac9532fb44f5ce9fe.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

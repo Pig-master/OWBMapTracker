@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bwcamo2lpikem"
+path="res://.godot/imported/Haida Confederation.png-7a83dc2872402bddf0b7873c687959a4.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Haida Confederation.png"
+dest_files=["res://.godot/imported/Haida Confederation.png-7a83dc2872402bddf0b7873c687959a4.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bopnivca1sq3g"
+path="res://.godot/imported/Arborg Junta.png-baa0186e8cc33ca0acee9630000ffbe4.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Arborg Junta.png"
+dest_files=["res://.godot/imported/Arborg Junta.png-baa0186e8cc33ca0acee9630000ffbe4.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

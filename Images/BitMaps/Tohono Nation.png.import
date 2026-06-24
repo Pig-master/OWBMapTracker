@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://daj77cg3wfflx"
+path="res://.godot/imported/Tohono Nation.png-78db0833a1bd7089cce8797e43049c05.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Tohono Nation.png"
+dest_files=["res://.godot/imported/Tohono Nation.png-78db0833a1bd7089cce8797e43049c05.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

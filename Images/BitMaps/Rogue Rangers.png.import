@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://c4bttndfc5ig8"
+path="res://.godot/imported/Rogue Rangers.png-73fc0b89d6309bf5f2404c5b2a96b7d5.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Rogue Rangers.png"
+dest_files=["res://.godot/imported/Rogue Rangers.png-73fc0b89d6309bf5f2404c5b2a96b7d5.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

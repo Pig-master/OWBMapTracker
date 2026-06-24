@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dng0c0x56x42b"
+path="res://.godot/imported/New Reno.png-d05e58690cfb02b02f5161099915d2c9.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/New Reno.png"
+dest_files=["res://.godot/imported/New Reno.png-d05e58690cfb02b02f5161099915d2c9.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

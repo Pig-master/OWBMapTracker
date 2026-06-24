@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://mis8r58qdfc2"
+path="res://.godot/imported/Kingdom of Manitoba.png-c0befe7edf84421d4e9c187b4a6347ea.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Kingdom of Manitoba.png"
+dest_files=["res://.godot/imported/Kingdom of Manitoba.png-c0befe7edf84421d4e9c187b4a6347ea.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

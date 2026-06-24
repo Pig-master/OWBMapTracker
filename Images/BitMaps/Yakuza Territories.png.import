@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://b4y7ygcx5e46"
+path="res://.godot/imported/Yakuza Territories.png-661ab44f04260b91abd93d3397fadfd9.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Yakuza Territories.png"
+dest_files=["res://.godot/imported/Yakuza Territories.png-661ab44f04260b91abd93d3397fadfd9.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

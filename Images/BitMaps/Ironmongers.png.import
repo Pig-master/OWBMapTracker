@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cju7f5yh2fpeh"
+path="res://.godot/imported/Ironmongers.png-a2ebb7caffbc1ab00497482117bfcde2.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Ironmongers.png"
+dest_files=["res://.godot/imported/Ironmongers.png-a2ebb7caffbc1ab00497482117bfcde2.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

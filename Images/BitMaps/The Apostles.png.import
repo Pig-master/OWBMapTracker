@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://b1c3wngtrduh1"
+path="res://.godot/imported/The Apostles.png-a04e65f84ea6675950cc2138f7f8d8c9.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Apostles.png"
+dest_files=["res://.godot/imported/The Apostles.png-a04e65f84ea6675950cc2138f7f8d8c9.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

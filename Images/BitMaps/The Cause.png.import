@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://gt58ht33jhg7"
+path="res://.godot/imported/The Cause.png-fe680e70b329fa40bd30e1dbfcfccf46.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Cause.png"
+dest_files=["res://.godot/imported/The Cause.png-fe680e70b329fa40bd30e1dbfcfccf46.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

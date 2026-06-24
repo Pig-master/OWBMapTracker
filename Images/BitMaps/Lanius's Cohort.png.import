@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cpt4eoq8ve53l"
+path="res://.godot/imported/Lanius's Cohort.png-4366813b0106e663abf9bbc4fe5dd635.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Lanius's Cohort.png"
+dest_files=["res://.godot/imported/Lanius's Cohort.png-4366813b0106e663abf9bbc4fe5dd635.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

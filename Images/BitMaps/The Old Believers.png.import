@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://ckhsjbnex3wcu"
+path="res://.godot/imported/The Old Believers.png-8507e3d60544c0a0e0e0e8beda1dff05.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Old Believers.png"
+dest_files=["res://.godot/imported/The Old Believers.png-8507e3d60544c0a0e0e0e8beda1dff05.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

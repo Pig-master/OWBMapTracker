@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dbg4rv34wkqdr"
+path="res://.godot/imported/Coal Consortium.png-0b383de948ca5e4068941e5deb2ca0e0.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Coal Consortium.png"
+dest_files=["res://.godot/imported/Coal Consortium.png-0b383de948ca5e4068941e5deb2ca0e0.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

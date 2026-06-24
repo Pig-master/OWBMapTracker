@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://chi1gq1evi27w"
+path="res://.godot/imported/State of Moose Jaw.png-f599a92e48a3b803efba9111426129f9.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/State of Moose Jaw.png"
+dest_files=["res://.godot/imported/State of Moose Jaw.png-f599a92e48a3b803efba9111426129f9.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

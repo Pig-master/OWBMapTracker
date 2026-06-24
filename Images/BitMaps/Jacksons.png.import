@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cuwyfnv8qr0qw"
+path="res://.godot/imported/Jacksons.png-50847a62c2a3d1c5573ad55c593d96c3.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Jacksons.png"
+dest_files=["res://.godot/imported/Jacksons.png-50847a62c2a3d1c5573ad55c593d96c3.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://wvs8huf7rsd5"
+path="res://.godot/imported/Tubeheads.png-b287944a8e73ddeda0bda439ace468af.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Tubeheads.png"
+dest_files=["res://.godot/imported/Tubeheads.png-b287944a8e73ddeda0bda439ace468af.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

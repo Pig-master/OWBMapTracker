@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://c875xh0xqnc2f"
+path="res://.godot/imported/Tlalocan.png-6cffa65aee6c432566f310c51a056a6d.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Tlalocan.png"
+dest_files=["res://.godot/imported/Tlalocan.png-6cffa65aee6c432566f310c51a056a6d.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

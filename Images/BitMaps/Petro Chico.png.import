@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://36ck7krx01nf"
+path="res://.godot/imported/Petro Chico.png-9e153cef6949ac3aacad74c987e7fff8.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Petro Chico.png"
+dest_files=["res://.godot/imported/Petro Chico.png-9e153cef6949ac3aacad74c987e7fff8.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

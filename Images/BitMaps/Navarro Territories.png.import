@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cpii8ajosyht4"
+path="res://.godot/imported/Navarro Territories.png-b94dd12de133182298cc43509863774b.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Navarro Territories.png"
+dest_files=["res://.godot/imported/Navarro Territories.png-b94dd12de133182298cc43509863774b.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

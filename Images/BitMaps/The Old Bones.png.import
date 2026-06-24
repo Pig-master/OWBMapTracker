@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://5kq0k0qhk8mw"
+path="res://.godot/imported/The Old Bones.png-4d0f485c1a81e9a3bcc24e19e4941fe5.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Old Bones.png"
+dest_files=["res://.godot/imported/The Old Bones.png-4d0f485c1a81e9a3bcc24e19e4941fe5.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

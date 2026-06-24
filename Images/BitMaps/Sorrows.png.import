@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://byvinfd3lcnvy"
+path="res://.godot/imported/Sorrows.png-75836e4cdc001dcc95af3f0e63e7b0cb.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Sorrows.png"
+dest_files=["res://.godot/imported/Sorrows.png-75836e4cdc001dcc95af3f0e63e7b0cb.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

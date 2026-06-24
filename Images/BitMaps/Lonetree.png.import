@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dihh8x152vlvn"
+path="res://.godot/imported/Lonetree.png-291c4b3cf78e2ffc0cfa9f3e75758dfb.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Lonetree.png"
+dest_files=["res://.godot/imported/Lonetree.png-291c4b3cf78e2ffc0cfa9f3e75758dfb.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

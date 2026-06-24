@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://euwjass2i5t5"
+path="res://.godot/imported/Republic of Three Rivers.png-25836ea1ab2131a344c41ef8b5f0e92e.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Republic of Three Rivers.png"
+dest_files=["res://.godot/imported/Republic of Three Rivers.png-25836ea1ab2131a344c41ef8b5f0e92e.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

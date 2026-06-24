@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://d3d5wv6cdwtk6"
+path="res://.godot/imported/New Canaan.png-d5132c5e1c3efd7030fefe112286c0c2.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/New Canaan.png"
+dest_files=["res://.godot/imported/New Canaan.png-d5132c5e1c3efd7030fefe112286c0c2.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

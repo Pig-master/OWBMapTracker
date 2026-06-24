@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://drcvsscismkh2"
+path="res://.godot/imported/The Flawed Parish.png-c13abc937c917a610ddd0801c2146dfc.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Flawed Parish.png"
+dest_files=["res://.godot/imported/The Flawed Parish.png-c13abc937c917a610ddd0801c2146dfc.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

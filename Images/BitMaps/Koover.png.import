@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://w25hohqdks8t"
+path="res://.godot/imported/Koover.png-d9f2bc7584fc1c34a10ecee783ab2544.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Koover.png"
+dest_files=["res://.godot/imported/Koover.png-d9f2bc7584fc1c34a10ecee783ab2544.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

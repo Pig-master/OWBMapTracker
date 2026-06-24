@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dvfcofuw0fnw5"
+path="res://.godot/imported/Lost Hills.png-56de90bd1888885a6faf5728d8870b1d.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Lost Hills.png"
+dest_files=["res://.godot/imported/Lost Hills.png-56de90bd1888885a6faf5728d8870b1d.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

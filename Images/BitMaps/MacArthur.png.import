@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://b8iy0lowlkdfg"
+path="res://.godot/imported/MacArthur.png-cdae3dddc79db9d106d82e112f280450.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/MacArthur.png"
+dest_files=["res://.godot/imported/MacArthur.png-cdae3dddc79db9d106d82e112f280450.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

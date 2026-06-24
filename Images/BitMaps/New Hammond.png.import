@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dxgfeoaqu3qps"
+path="res://.godot/imported/New Hammond.png-b71ff13524dc6113cd7d30efd8227de6.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/New Hammond.png"
+dest_files=["res://.godot/imported/New Hammond.png-b71ff13524dc6113cd7d30efd8227de6.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

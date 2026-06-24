@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dlynxjqo7deeo"
+path="res://.godot/imported/Scrappers Compact.png-2345802b1fa531d795762c5008847c70.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Scrappers Compact.png"
+dest_files=["res://.godot/imported/Scrappers Compact.png-2345802b1fa531d795762c5008847c70.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

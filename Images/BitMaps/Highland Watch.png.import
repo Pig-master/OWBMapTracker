@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cqbve5olagfj3"
+path="res://.godot/imported/Highland Watch.png-272df257d9a9f48e9d6b98fe39b91ba4.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Highland Watch.png"
+dest_files=["res://.godot/imported/Highland Watch.png-272df257d9a9f48e9d6b98fe39b91ba4.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

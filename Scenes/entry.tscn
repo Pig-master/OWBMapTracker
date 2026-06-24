@@ -1,0 +1,24 @@
+[gd_scene format=3 uid="uid://di34rf4hh00im"]
+
+[ext_resource type="Script" uid="uid://hqjhokcydvh1" path="res://Scripts/entry.gd" id="1_xsdkm"]
+
+[node name="Entry" type="HBoxContainer" unique_id=1414228994]
+size_flags_vertical = 0
+script = ExtResource("1_xsdkm")
+
+[node name="Path" type="LineEdit" parent="." unique_id=436671161]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 36
+placeholder_text = "Path"
+alignment = 1
+
+[node name="Notes" type="LineEdit" parent="." unique_id=1508121599]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 36
+placeholder_text = "Notes"
+alignment = 1
+
+[connection signal="text_changed" from="Path" to="." method="_on_path_text_changed"]
+[connection signal="text_changed" from="Notes" to="." method="_on_notes_text_changed"]

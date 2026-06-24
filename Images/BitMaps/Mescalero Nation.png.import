@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cx0a4b3n2x6iw"
+path="res://.godot/imported/Mescalero Nation.png-53fdbc73e3ece82cc80c783947bd82a7.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Mescalero Nation.png"
+dest_files=["res://.godot/imported/Mescalero Nation.png-53fdbc73e3ece82cc80c783947bd82a7.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

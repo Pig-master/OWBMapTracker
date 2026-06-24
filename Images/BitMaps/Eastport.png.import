@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://n3i8w7545llo"
+path="res://.godot/imported/Eastport.png-3e9b089247dc372e66f2cf70d4024c56.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Eastport.png"
+dest_files=["res://.godot/imported/Eastport.png-3e9b089247dc372e66f2cf70d4024c56.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

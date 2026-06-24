@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://d0xytpr2mtn4n"
+path="res://.godot/imported/Passkeepers.png-d7fdfe74a1f954c050ef4c6d3417f657.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Passkeepers.png"
+dest_files=["res://.godot/imported/Passkeepers.png-d7fdfe74a1f954c050ef4c6d3417f657.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

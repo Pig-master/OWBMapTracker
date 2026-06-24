@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cyselinyjp4nt"
+path="res://.godot/imported/Washington Brotherhood.png-5f498309d63a1c6e8a6e9e81995f05a4.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Washington Brotherhood.png"
+dest_files=["res://.godot/imported/Washington Brotherhood.png-5f498309d63a1c6e8a6e9e81995f05a4.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cxvwfka3i3jjk"
+path="res://.godot/imported/Niitsitapi.png-e4b64b4295f072cb9684d40e3b075a85.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Niitsitapi.png"
+dest_files=["res://.godot/imported/Niitsitapi.png-e4b64b4295f072cb9684d40e3b075a85.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

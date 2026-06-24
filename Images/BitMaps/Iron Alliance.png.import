@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bfnfx3gfv1e7g"
+path="res://.godot/imported/Iron Alliance.png-0d9c26e9a6aff14013f71cb75f78cf44.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Iron Alliance.png"
+dest_files=["res://.godot/imported/Iron Alliance.png-0d9c26e9a6aff14013f71cb75f78cf44.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

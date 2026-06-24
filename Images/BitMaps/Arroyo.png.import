@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dcwucafe01qc2"
+path="res://.godot/imported/Arroyo.png-e58bb62d3fd180b7653b49b89336805b.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Arroyo.png"
+dest_files=["res://.godot/imported/Arroyo.png-e58bb62d3fd180b7653b49b89336805b.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

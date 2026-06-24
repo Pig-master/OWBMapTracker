@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bhklsu1atismy"
+path="res://.godot/imported/Choctaw Nation.png-168e2a915f433f04cf36b7ef0bb62f90.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Choctaw Nation.png"
+dest_files=["res://.godot/imported/Choctaw Nation.png-168e2a915f433f04cf36b7ef0bb62f90.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

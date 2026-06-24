@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://diqp7idrmsys2"
+path="res://.godot/imported/The Den.png-f3f005243c6a61322ee5fb3163de1bc9.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Den.png"
+dest_files=["res://.godot/imported/The Den.png-f3f005243c6a61322ee5fb3163de1bc9.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

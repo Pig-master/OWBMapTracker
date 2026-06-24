@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bd0cu6m5f6wpg"
+path="res://.godot/imported/Glow's Cradle.png-7318f0a4bfb172b1273afb0927aa5ccd.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Glow's Cradle.png"
+dest_files=["res://.godot/imported/Glow's Cradle.png-7318f0a4bfb172b1273afb0927aa5ccd.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

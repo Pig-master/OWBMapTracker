@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://fapbbqamyj8s"
+path="res://.godot/imported/Timekeepers.png-5026dd686db4a4763725520c4230340c.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Timekeepers.png"
+dest_files=["res://.godot/imported/Timekeepers.png-5026dd686db4a4763725520c4230340c.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

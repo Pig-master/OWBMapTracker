@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://e1uiauguer4t"
+path="res://.godot/imported/Houston Rockets.png-2193e3efdec725efead370b046812143.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Houston Rockets.png"
+dest_files=["res://.godot/imported/Houston Rockets.png-2193e3efdec725efead370b046812143.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

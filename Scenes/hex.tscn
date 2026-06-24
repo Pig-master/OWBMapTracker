@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://nxqm06063qoa"]
+
+[ext_resource type="Script" uid="uid://cddm6uirm6b3a" path="res://Scripts/hex.gd" id="1_tje73"]
+
+[node name="Hex" type="HBoxContainer" unique_id=2123229043]
+script = ExtResource("1_tje73")
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1555278339]
+custom_minimum_size = Vector2(150, 0)
+layout_mode = 2
+
+[node name="HexCode" type="LineEdit" parent="." unique_id=1389990000]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 24
+placeholder_text = "Enter Hex Code Here"
+alignment = 1
+max_length = 6
+emoji_menu_enabled = false
+
+[connection signal="text_changed" from="HexCode" to="." method="_on_hex_code_text_changed"]

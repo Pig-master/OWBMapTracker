@@ -3,7 +3,9 @@ extends CanvasLayer
 var selected_nation:TextureButton
 var green_solid:bool = false
 
-var nations:Dictionary = {
+var to_save:Dictionary = {
+	"green_shades" : ["e5ffe2","d9fad6","cdf4cb","c1efbf","b5eab4","a9e4a8","9ddf9d","91d991","85d485","79cf7a","6cc96e","60c463","54bf57","48b94b","3cb440","30ae34","24a929","18a41d","0c9e12","009906"],
+	"nations": {
 	"215th":{},
 	"Arborg Junta":{},
 	"Archdiocese of Santa Fe":{},
@@ -226,39 +228,41 @@ var nations:Dictionary = {
 	"Painted Rock":{},
 	"Dredgers":{},
 	"Troll Warden":{},
+	}
 }
 
 #map is Crtl+10 screenshot with 1k pixels cut from the left side and 500 pixels cut from the right side
-
-var green_shades:Array[Color] = ["e5ffe2","d9fad6","cdf4cb","c1efbf","b5eab4","a9e4a8","9ddf9d","91d991","85d485","79cf7a","6cc96e","60c463","54bf57","48b94b","3cb440","30ae34","24a929","18a41d","0c9e12","009906"]
 
 func _ready() -> void:
 	for x in $Nations.get_children():
 		var y = x.get_child(0)
 		y.pressed.connect(y._on_texture_button_pressed,CONNECT_APPEND_SOURCE_OBJECT)
 	colour_nations()
+	for x in to_save["green_shades"]:
+		var hex = preload("uid://nxqm06063qoa").instantiate()
+		$SideBar/Settings/VBoxContainer/Colours/VBoxContainer.add_child(hex)
 
 func colour_nations():
 	for x in $Nations.get_children():
 		var y = x.get_child(0)
 		var entries:int = 0
-		for g in nations[y.name]:
+		for g in to_save["nations"][y.name]:
 			entries += 1
 		if green_solid == false:
 			if entries <= 19 and entries != 0:
-				y.self_modulate = Color(green_shades[entries])
+				y.self_modulate = Color(to_save["green_shades"][entries-1])
 			elif entries == 0:
 				y.self_modulate = Color.WHITE
 			else:
-				y.self_modulate = Color(green_shades[19])
+				y.self_modulate = Color(to_save["green_shades"][19])
 		else:
 				if entries >= 1:
-					y.self_modulate = Color("79cf7a")
+					@warning_ignore("integer_division") y.self_modulate = to_save["green_shades"][int(len(to_save["green_shades"])/2)-1]
 				else:
 					y.self_modulate = Color.WHITE
 
 func _on_save_pressed() -> void:
-	var json_string = JSON.stringify(nations)
+	var json_string = JSON.stringify(to_save)
 	var file := FileAccess.open("user://save.json", FileAccess.WRITE)
 	file.store_line(json_string)
 	file.close()
@@ -273,8 +277,10 @@ func _on_load_pressed() -> void:
 		var parse_result := json.parse(file_content)
 		if parse_result == OK:
 			var loaded_data = json.data
-			nations = loaded_data
+			to_save = loaded_data
 	colour_nations()
+	for x in $SideBar/Settings/VBoxContainer/Colours/VBoxContainer.get_children():
+		x.on_load()
 
 func _on_empty_pressed() -> void:
 	$Menu.visible = false

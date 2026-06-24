@@ -3275,18 +3275,31 @@ anchor_top = 0.87700003
 anchor_right = 1.0
 anchor_bottom = 1.0
 offset_left = 2629.952
-offset_top = 1381.704
+offset_top = 214.70398
 offset_right = 2981.3281
-offset_bottom = 1666.0
+offset_bottom = 583.0
 theme_override_constants/separation = 16
 
 [node name="Settings" type="FoldableContainer" parent="SideBar" unique_id=1340936595]
 layout_mode = 2
 theme_override_font_sizes/font_size = 48
+folded = true
 title = "Settings"
 title_alignment = 1
 
 [node name="VBoxContainer" type="VBoxContainer" parent="SideBar/Settings" unique_id=1353206335]
+visible = false
+layout_mode = 2
+
+[node name="Colours" type="FoldableContainer" parent="SideBar/Settings/VBoxContainer" unique_id=1826629187]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+folded = true
+title = "Colour Settings"
+title_alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="SideBar/Settings/VBoxContainer/Colours" unique_id=51178138]
+visible = false
 layout_mode = 2
 
 [node name="Gradient" type="CheckButton" parent="SideBar/Settings/VBoxContainer" unique_id=2102541785]

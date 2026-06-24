@@ -9,6 +9,7 @@ script = ExtResource("1_xsdkm")
 [node name="Path" type="LineEdit" parent="." unique_id=436671161]
 layout_mode = 2
 size_flags_horizontal = 3
+focus_neighbor_right = NodePath("../Notes")
 theme_override_font_sizes/font_size = 36
 placeholder_text = "Path"
 alignment = 1
@@ -16,6 +17,7 @@ alignment = 1
 [node name="Notes" type="LineEdit" parent="." unique_id=1508121599]
 layout_mode = 2
 size_flags_horizontal = 3
+focus_neighbor_left = NodePath("../Path")
 theme_override_font_sizes/font_size = 36
 placeholder_text = "Notes"
 alignment = 1

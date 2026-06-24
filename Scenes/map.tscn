@@ -3244,7 +3244,7 @@ layout_mode = 2
 layout_mode = 2
 theme_override_font_sizes/font_size = 50
 disabled = true
-text = "▲"
+text = "+"
 
 [node name="Label2" type="Label" parent="Menu/Base/Main/Base/HBoxContainer" unique_id=595022092]
 layout_mode = 2
@@ -3255,7 +3255,7 @@ text = "0"
 layout_mode = 2
 theme_override_font_sizes/font_size = 50
 disabled = true
-text = "▼"
+text = "-"
 
 [node name="ScrollContainer" type="ScrollContainer" parent="Menu/Base" unique_id=1437165347]
 custom_minimum_size = Vector2(0, 752)

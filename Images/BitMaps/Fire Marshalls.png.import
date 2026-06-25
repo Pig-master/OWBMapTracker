@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://br5fwcwd1fx34"
+path="res://.godot/imported/Fire Marshalls.png-57a9437e6d5f95e71919522e3b24069d.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Fire Marshalls.png"
+dest_files=["res://.godot/imported/Fire Marshalls.png-57a9437e6d5f95e71919522e3b24069d.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

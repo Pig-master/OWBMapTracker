@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://d3kcc8xj4b02m"
+path="res://.godot/imported/Lorentz Force.png-c58c5be2c4ee684ced37fc0175799ed2.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Lorentz Force.png"
+dest_files=["res://.godot/imported/Lorentz Force.png-c58c5be2c4ee684ced37fc0175799ed2.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

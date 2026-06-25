@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://drporawpscmqr"
+path="res://.godot/imported/Philly Raiders.png-67ebe02ee6aa248d002ea6d8b0391912.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Philly Raiders.png"
+dest_files=["res://.godot/imported/Philly Raiders.png-67ebe02ee6aa248d002ea6d8b0391912.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

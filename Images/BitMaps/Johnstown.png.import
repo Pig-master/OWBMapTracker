@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bacmapcq4f385"
+path="res://.godot/imported/Johnstown.png-8464232d3aa072160014d6e4bca4ab25.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Johnstown.png"
+dest_files=["res://.godot/imported/Johnstown.png-8464232d3aa072160014d6e4bca4ab25.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

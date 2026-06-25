@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dlia0ribincrj"
+path="res://.godot/imported/Lyons' Chapter.png-64dec3cb2cc46b1815326a3c0c5bb03f.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Lyons' Chapter.png"
+dest_files=["res://.godot/imported/Lyons' Chapter.png-64dec3cb2cc46b1815326a3c0c5bb03f.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

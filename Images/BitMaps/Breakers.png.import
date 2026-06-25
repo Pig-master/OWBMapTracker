@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://0d64yxnmn0c1"
+path="res://.godot/imported/Breakers.png-6c4859cd1b5233fbfc146cb8b854dcc6.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Breakers.png"
+dest_files=["res://.godot/imported/Breakers.png-6c4859cd1b5233fbfc146cb8b854dcc6.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

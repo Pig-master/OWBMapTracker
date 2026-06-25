@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://tmnpnnpmp706"
+path="res://.godot/imported/AAFB Automated Security.png-47d66e1e42853dbfcd702787f55f8b23.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/AAFB Automated Security.png"
+dest_files=["res://.godot/imported/AAFB Automated Security.png-47d66e1e42853dbfcd702787f55f8b23.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

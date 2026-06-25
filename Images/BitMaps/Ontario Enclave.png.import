@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dll63qaawm316"
+path="res://.godot/imported/Ontario Enclave.png-8dcdd5c0efbdea7e7571258a828c6020.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Ontario Enclave.png"
+dest_files=["res://.godot/imported/Ontario Enclave.png-8dcdd5c0efbdea7e7571258a828c6020.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

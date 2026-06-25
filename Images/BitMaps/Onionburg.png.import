@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cinijtsq6my7e"
+path="res://.godot/imported/Onionburg.png-1ddb27c8747df1722efc482addaac84c.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Onionburg.png"
+dest_files=["res://.godot/imported/Onionburg.png-1ddb27c8747df1722efc482addaac84c.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

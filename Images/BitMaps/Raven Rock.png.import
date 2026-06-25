@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cm12erltd5ujk"
+path="res://.godot/imported/Raven Rock.png-37c91387e328ceadc385bc5bfb2673e6.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Raven Rock.png"
+dest_files=["res://.godot/imported/Raven Rock.png-37c91387e328ceadc385bc5bfb2673e6.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

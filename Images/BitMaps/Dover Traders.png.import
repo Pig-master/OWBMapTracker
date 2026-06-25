@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://d0iq74x8gjg2s"
+path="res://.godot/imported/Dover Traders.png-e26f990cd38d1e819bf717a028b185d0.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Dover Traders.png"
+dest_files=["res://.godot/imported/Dover Traders.png-e26f990cd38d1e819bf717a028b185d0.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

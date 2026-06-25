@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://b2goa5g712r2w"
+path="res://.godot/imported/DC Settlements.png-5bc6ce779c64c499d6f3ee3707124e6e.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/DC Settlements.png"
+dest_files=["res://.godot/imported/DC Settlements.png-5bc6ce779c64c499d6f3ee3707124e6e.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

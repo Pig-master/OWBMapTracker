@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dw284qiijuxcy"
+path="res://.godot/imported/Confectionary Collective.png-93bf0e2ff36ce6f724f4c4cb16e0468d.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Confectionary Collective.png"
+dest_files=["res://.godot/imported/Confectionary Collective.png-93bf0e2ff36ce6f724f4c4cb16e0468d.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

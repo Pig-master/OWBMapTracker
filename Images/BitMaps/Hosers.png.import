@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://d2s0w5qjwjyr7"
+path="res://.godot/imported/Hosers.png-ee9f928b5954d9cdfd0a639ff9e123b0.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Hosers.png"
+dest_files=["res://.godot/imported/Hosers.png-ee9f928b5954d9cdfd0a639ff9e123b0.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

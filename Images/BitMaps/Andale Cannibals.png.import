@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://iwkviw24ky0k"
+path="res://.godot/imported/Andale Cannibals.png-56aeec68a7724b1db2942e8f53f51f4c.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Andale Cannibals.png"
+dest_files=["res://.godot/imported/Andale Cannibals.png-56aeec68a7724b1db2942e8f53f51f4c.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

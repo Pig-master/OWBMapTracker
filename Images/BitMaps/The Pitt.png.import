@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cdvlknf02akee"
+path="res://.godot/imported/The Pitt.png-4abd2003d9e194fda5bdd9f8082a272b.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/The Pitt.png"
+dest_files=["res://.godot/imported/The Pitt.png-4abd2003d9e194fda5bdd9f8082a272b.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

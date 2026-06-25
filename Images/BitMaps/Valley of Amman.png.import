@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://b7trcneryno4g"
+path="res://.godot/imported/Valley of Amman.png-8c2ada11829c59ad38b111c32af324d7.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Valley of Amman.png"
+dest_files=["res://.godot/imported/Valley of Amman.png-8c2ada11829c59ad38b111c32af324d7.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

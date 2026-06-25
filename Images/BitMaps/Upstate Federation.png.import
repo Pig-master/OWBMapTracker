@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bbsomndowtx26"
+path="res://.godot/imported/Upstate Federation.png-2dddce9037633421add524a5b4c64d0e.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Upstate Federation.png"
+dest_files=["res://.godot/imported/Upstate Federation.png-2dddce9037633421add524a5b4c64d0e.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

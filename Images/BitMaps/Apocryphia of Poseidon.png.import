@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://duyhpi8xrwt4u"
+path="res://.godot/imported/Apocryphia of Poseidon.png-01dcce2e67fdb0cfa4dc21d855aa9781.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Apocryphia of Poseidon.png"
+dest_files=["res://.godot/imported/Apocryphia of Poseidon.png-01dcce2e67fdb0cfa4dc21d855aa9781.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

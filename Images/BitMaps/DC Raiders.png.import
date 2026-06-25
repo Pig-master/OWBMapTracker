@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bjnrgow2svbid"
+path="res://.godot/imported/DC Raiders.png-51513760044036efe2656fee85592321.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/DC Raiders.png"
+dest_files=["res://.godot/imported/DC Raiders.png-51513760044036efe2656fee85592321.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

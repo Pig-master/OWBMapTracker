@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://hwymowat63em"
+path="res://.godot/imported/Known Folk.png-9eb70859521e2e5a8b2d956d86a06064.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Known Folk.png"
+dest_files=["res://.godot/imported/Known Folk.png-9eb70859521e2e5a8b2d956d86a06064.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bbj2gk7m8t515"
+path="res://.godot/imported/Green Mountain.png-06a9417a4ba73e32fb7266cc6bb784a6.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Green Mountain.png"
+dest_files=["res://.godot/imported/Green Mountain.png-06a9417a4ba73e32fb7266cc6bb784a6.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

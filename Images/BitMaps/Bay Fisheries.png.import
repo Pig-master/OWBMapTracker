@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://c4tjwhm21fime"
+path="res://.godot/imported/Bay Fisheries.png-37662e2e64e02f8984b6afbbee71827e.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Bay Fisheries.png"
+dest_files=["res://.godot/imported/Bay Fisheries.png-37662e2e64e02f8984b6afbbee71827e.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

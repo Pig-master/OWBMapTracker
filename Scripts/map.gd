@@ -228,6 +228,47 @@ var to_save:Dictionary = {
 	"Painted Rock":{},
 	"Dredgers":{},
 	"Troll Warden":{},
+	"Hope Port":{},
+	"Ronto":{},
+	"Ontario Enclave":{},
+	"Windsor Wreckers":{},
+	"Hosers":{},
+	"Buffalo Health Service":{},
+	"Upstate Federation":{},
+	"Breakers":{},
+	"Valley of Amman":{},
+	"New New Castle":{},
+	"Gelassenheit":{},
+	"Confectionary Collective":{},
+	"Philly Raiders":{},
+	"Harrisburg Bandits":{},
+	"Johnstown":{},
+	"Trog Country":{},
+	"The Pitt":{},
+	"Bay Fisheries":{},
+	"AAFB Automated Security":{},
+	"Dover Traders":{},
+	"DC Settlements":{},
+	"Raven Rock":{},
+	"Church of Rocky":{},
+	"Lyons' Chapter":{},
+	"Rivet City":{},
+	"Talon Corporation":{},
+	"Lorentz Force":{},
+	"Onionburg":{},
+	"Cult of Cobalt":{},
+	"Monongahela":{},
+	"Green Mountain":{},
+	"DC Raiders":{},
+	"Andale Cannibals":{},
+	"Fire Marshalls":{},
+	"AtomBaptists":{},
+	"Apocryphia of Poseidon":{},
+	"Known Folk":{},
+	"Garden of Eden":{},
+	},
+	"submods":{
+		"East Coast Rebirth":false
 	}
 }
 
@@ -281,6 +322,7 @@ func _on_load_pressed() -> void:
 	colour_nations()
 	for x in $SideBar/Settings/VBoxContainer/Colours/VBoxContainer.get_children():
 		x.on_load()
+	check_submods()
 
 func _on_empty_pressed() -> void:
 	$Menu.visible = false
@@ -313,3 +355,20 @@ func _input(_event: InputEvent) -> void:
 		elif $Camera2D.zoom == Vector2(1,1):
 			$Camera2D.global_position = Vector2(2075.0,1158.0)
 			$Camera2D.zoom = Vector2(0.28,0.28)
+
+func check_submods():
+	if to_save["submods"]["East Coast Rebirth"] == true:
+		to_save["submods"]["East Coast Rebirth"] = false
+		ECR()
+
+func ECR():
+	if to_save["submods"]["East Coast Rebirth"] == true:
+		$"SideBar/Settings/VBoxContainer/Submods/VBoxContainer/East Coast Rebirth/East Coast Rebirth".button_pressed = false
+		to_save["submods"]["East Coast Rebirth"] = false
+		for x in get_tree().get_nodes_in_group("East Coast Rebirth"):
+			x.visible = false
+	elif to_save["submods"]["East Coast Rebirth"] == false:
+		$"SideBar/Settings/VBoxContainer/Submods/VBoxContainer/East Coast Rebirth/East Coast Rebirth".button_pressed = true
+		to_save["submods"]["East Coast Rebirth"] = true
+		for x in get_tree().get_nodes_in_group("East Coast Rebirth"):
+			x.visible = true

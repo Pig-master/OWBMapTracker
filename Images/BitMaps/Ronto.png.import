@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://x4vhlqorgyjb"
+path="res://.godot/imported/Ronto.png-169d7b12c1ea60e3ba58ccc4428adc99.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Ronto.png"
+dest_files=["res://.godot/imported/Ronto.png-169d7b12c1ea60e3ba58ccc4428adc99.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

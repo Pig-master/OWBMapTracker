@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://imvkjek68tyx"
+path="res://.godot/imported/Talon Corporation.png-ec2e2bb766ff78c19da34830f22fcc8c.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Talon Corporation.png"
+dest_files=["res://.godot/imported/Talon Corporation.png-ec2e2bb766ff78c19da34830f22fcc8c.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

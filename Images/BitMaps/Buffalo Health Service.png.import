@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://8tg1oclmmgs4"
+path="res://.godot/imported/Buffalo Health Service.png-f8a521cb0375252f6ee7729dffc461cb.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Buffalo Health Service.png"
+dest_files=["res://.godot/imported/Buffalo Health Service.png-f8a521cb0375252f6ee7729dffc461cb.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

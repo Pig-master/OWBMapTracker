@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dvo2qwsnugj3u"
+path="res://.godot/imported/Rivet City.png-0daca092dcc72976bdb044f72b75a288.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Rivet City.png"
+dest_files=["res://.godot/imported/Rivet City.png-0daca092dcc72976bdb044f72b75a288.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

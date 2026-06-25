@@ -5,48 +5,48 @@
 [ext_resource type="Script" uid="uid://b4prl62kp0t8x" path="res://Scripts/nation.gd" id="3_np2xp"]
 [ext_resource type="Texture2D" uid="uid://dnkoi6u8uo0i5" path="res://Images/Borders.png" id="3_q0mm3"]
 [ext_resource type="Texture2D" uid="uid://ine20x4jywcn" path="res://Images/Nations/215th.png" id="3_w7jjh"]
-[ext_resource type="BitMap" uid="uid://by2n2i78gfq4e" path="res://Images/BitMaps/215th.png" id="4_kpaho"]
+[ext_resource type="BitMap" uid="uid://cobvqug4b4jde" path="res://Images/BitMaps/215th.png" id="4_kpaho"]
 [ext_resource type="Texture2D" uid="uid://id5124q3rv2b" path="res://Images/Nations/Arborg Junta.png" id="5_w7jjh"]
 [ext_resource type="Texture2D" uid="uid://c0e34rlcmqfd3" path="res://Images/Nations/Archdiocese of Santa Fe.png" id="6_6q3n4"]
 [ext_resource type="Texture2D" uid="uid://ckv0lres2p16q" path="res://Images/Nations/Arroyo.png" id="7_4c2oa"]
-[ext_resource type="BitMap" uid="uid://bopnivca1sq3g" path="res://Images/BitMaps/Arborg Junta.png" id="7_f4ii0"]
+[ext_resource type="BitMap" uid="uid://ew7bxk4k5fox" path="res://Images/BitMaps/Arborg Junta.png" id="7_f4ii0"]
 [ext_resource type="Script" uid="uid://c4cenq2igppgq" path="res://Scripts/menu.gd" id="7_w7jjh"]
 [ext_resource type="Texture2D" uid="uid://co4qgd5ys5s7w" path="res://Images/Nations/Assassin City.png" id="8_dlo4w"]
-[ext_resource type="BitMap" uid="uid://7be000xr640r" path="res://Images/BitMaps/Archdiocese of Santa Fe.png" id="9_eopii"]
+[ext_resource type="BitMap" uid="uid://u25aaqcrxxbc" path="res://Images/BitMaps/Archdiocese of Santa Fe.png" id="9_eopii"]
 [ext_resource type="Texture2D" uid="uid://c3025xhjfgrdn" path="res://Images/Nations/Badland Buckaroos.png" id="9_q6lx1"]
 [ext_resource type="Texture2D" uid="uid://ckmb8bbahb1i" path="res://Images/Nations/Baggers.png" id="10_q6lx1"]
 [ext_resource type="Texture2D" uid="uid://dw33nrj0kjfme" path="res://Images/Nations/Battleford.png" id="11_5qtum"]
-[ext_resource type="BitMap" uid="uid://dcwucafe01qc2" path="res://Images/BitMaps/Arroyo.png" id="11_x2rrw"]
+[ext_resource type="BitMap" uid="uid://da08w66jkdvp8" path="res://Images/BitMaps/Arroyo.png" id="11_x2rrw"]
 [ext_resource type="Texture2D" uid="uid://b2bm1ka50sc42" path="res://Images/Nations/Baron's Eyrie.png" id="12_ie368"]
-[ext_resource type="BitMap" uid="uid://d0iei8ytpmajo" path="res://Images/BitMaps/Assassin City.png" id="13_i2ps1"]
+[ext_resource type="BitMap" uid="uid://bn8ewj5ardo8p" path="res://Images/BitMaps/Assassin City.png" id="13_i2ps1"]
 [ext_resource type="Texture2D" uid="uid://yj48rpqthkoh" path="res://Images/Nations/Baudelio Ranchers.png" id="13_x5dfk"]
 [ext_resource type="Texture2D" uid="uid://cvkpg1i22fix6" path="res://Images/Nations/Bayou Motors.png" id="14_fls3e"]
-[ext_resource type="BitMap" uid="uid://csr32q2tghubw" path="res://Images/BitMaps/Badland Buckaroos.png" id="15_inipc"]
+[ext_resource type="BitMap" uid="uid://0j5faln0dvvn" path="res://Images/BitMaps/Badland Buckaroos.png" id="15_inipc"]
 [ext_resource type="Texture2D" uid="uid://csvbyjtmf30o2" path="res://Images/Nations/Beltran-Levya.png" id="15_k63oc"]
 [ext_resource type="Texture2D" uid="uid://sd4r08ef16y" path="res://Images/Nations/Big Grass.png" id="16_j4oe2"]
-[ext_resource type="BitMap" uid="uid://fi365w05f4jw" path="res://Images/BitMaps/Baggers.png" id="17_j6stj"]
+[ext_resource type="BitMap" uid="uid://521c37468wht" path="res://Images/BitMaps/Baggers.png" id="17_j6stj"]
 [ext_resource type="Texture2D" uid="uid://qh4snvmntk7e" path="res://Images/Nations/Binary Counts.png" id="17_riaky"]
 [ext_resource type="Texture2D" uid="uid://ddckffeypflxt" path="res://Images/Nations/Bismarck.png" id="18_vtkp8"]
-[ext_resource type="BitMap" uid="uid://ds6tl43v4x832" path="res://Images/BitMaps/Battleford.png" id="19_jah6u"]
+[ext_resource type="BitMap" uid="uid://cxx8c1tn527kh" path="res://Images/BitMaps/Battleford.png" id="19_jah6u"]
 [ext_resource type="Texture2D" uid="uid://dsljklu7pqibx" path="res://Images/Nations/Black Canyon.png" id="19_rg57b"]
 [ext_resource type="Texture2D" uid="uid://dcda4m7v0x37e" path="res://Images/Nations/Blue Rose Society.png" id="20_macow"]
-[ext_resource type="BitMap" uid="uid://ca702kuvqoit5" path="res://Images/BitMaps/Baron's Eyrie.png" id="21_r3eny"]
+[ext_resource type="BitMap" uid="uid://wcvbib5oejbb" path="res://Images/BitMaps/Baron's Eyrie.png" id="21_r3eny"]
 [ext_resource type="Texture2D" uid="uid://dk7w7b84d7tp0" path="res://Images/Nations/Bone Dancers.png" id="21_uus22"]
 [ext_resource type="Texture2D" uid="uid://bex2bn1fpswte" path="res://Images/Nations/Broken Coast.png" id="22_tuwt4"]
-[ext_resource type="BitMap" uid="uid://cukq0v4gnf6x1" path="res://Images/BitMaps/Baudelio Ranchers.png" id="23_agwr8"]
+[ext_resource type="BitMap" uid="uid://qmqd7foik11" path="res://Images/BitMaps/Baudelio Ranchers.png" id="23_agwr8"]
 [ext_resource type="Texture2D" uid="uid://dumi3r6r5c1hg" path="res://Images/Nations/Caesar's Legion.png" id="23_tuwt4"]
 [ext_resource type="Texture2D" uid="uid://dn0md445i4jtn" path="res://Images/Nations/Carbon.png" id="24_1ye5v"]
 [ext_resource type="Texture2D" uid="uid://bavvxqnd5s8kd" path="res://Images/Nations/Carcass Walkers.png" id="25_8cxpi"]
-[ext_resource type="BitMap" uid="uid://b1kgt007rdxcp" path="res://Images/BitMaps/Bayou Motors.png" id="25_ltv0b"]
+[ext_resource type="BitMap" uid="uid://buf1koccx1uhk" path="res://Images/BitMaps/Bayou Motors.png" id="25_ltv0b"]
 [ext_resource type="Texture2D" uid="uid://01ht6ba4bkjt" path="res://Images/Nations/Chemult Station.png" id="26_wpvg5"]
-[ext_resource type="BitMap" uid="uid://ckvs3jy1dqquc" path="res://Images/BitMaps/Beltran-Levya.png" id="27_3iupj"]
+[ext_resource type="BitMap" uid="uid://dplrt4bn0u7qj" path="res://Images/BitMaps/Beltran-Levya.png" id="27_3iupj"]
 [ext_resource type="Texture2D" uid="uid://b6wabqo3sbrxj" path="res://Images/Nations/Cherokee Nation.png" id="27_078fj"]
 [ext_resource type="Texture2D" uid="uid://cuot2ri1bl21o" path="res://Images/Nations/Chichen Itza.png" id="28_unquq"]
 [ext_resource type="Texture2D" uid="uid://d288wy3bhm8md" path="res://Images/Nations/Chickasaw-Muscogee Coalition.png" id="29_pptwf"]
-[ext_resource type="BitMap" uid="uid://jon4vw16dbkl" path="res://Images/BitMaps/Big Grass.png" id="29_vymcg"]
+[ext_resource type="BitMap" uid="uid://c2elwsbb4o6pv" path="res://Images/BitMaps/Big Grass.png" id="29_vymcg"]
 [ext_resource type="Texture2D" uid="uid://cxsi1q44qaxki" path="res://Images/Nations/Choctaw Nation.png" id="30_ak4ow"]
 [ext_resource type="Texture2D" uid="uid://w67t4lwwi5p5" path="res://Images/Nations/Church of the Silo.png" id="31_ajvq6"]
-[ext_resource type="BitMap" uid="uid://dqe3ansc3wg42" path="res://Images/BitMaps/Binary Counts.png" id="31_xwlu1"]
+[ext_resource type="BitMap" uid="uid://cilpegl2wpobg" path="res://Images/BitMaps/Binary Counts.png" id="31_xwlu1"]
 [ext_resource type="Texture2D" uid="uid://dudkoo2amwye2" path="res://Images/Nations/Ciphers.png" id="32_cwq17"]
 [ext_resource type="Texture2D" uid="uid://e6ihqjos2on7" path="res://Images/Nations/Circle Junction.png" id="33_a0h6a"]
 [ext_resource type="Texture2D" uid="uid://blgs2yi7l7pw8" path="res://Images/Nations/Claim Jumpers.png" id="34_wcnou"]
@@ -240,6 +240,45 @@
 [ext_resource type="Texture2D" uid="uid://cvnaog6v7jq1g" path="res://Images/Nations/Hangdogs.png" id="222_660u4"]
 [ext_resource type="Texture2D" uid="uid://beldm6b8ah14x" path="res://Images/Nations/Painted Rock.png" id="223_ygy50"]
 [ext_resource type="Texture2D" uid="uid://dmgp8v4dxyfkv" path="res://Images/Nations/Iron Confederacy.png" id="224_6cn16"]
+[ext_resource type="Texture2D" uid="uid://ceby4k3fn5ogt" path="res://Images/Nations/Hope Port.png" id="239_i2ps1"]
+[ext_resource type="Texture2D" uid="uid://bok443olt0m84" path="res://Images/Nations/Ronto.png" id="240_bblnm"]
+[ext_resource type="Texture2D" uid="uid://i1ukbsixc5bb" path="res://Images/East Coast Rebirth Borders.png" id="240_x2rrw"]
+[ext_resource type="Texture2D" uid="uid://bkcdw18jlrl03" path="res://Images/Nations/Ontario Enclave.png" id="241_qxh2i"]
+[ext_resource type="Texture2D" uid="uid://brn7qk7tbypox" path="res://Images/Nations/Windsor Wreckers.png" id="242_5rx1t"]
+[ext_resource type="Texture2D" uid="uid://btpnwm382vdxs" path="res://Images/Nations/Hosers.png" id="243_3egcc"]
+[ext_resource type="Texture2D" uid="uid://dhkovdxx55a28" path="res://Images/Nations/Buffalo Health Service.png" id="244_mx5j1"]
+[ext_resource type="Texture2D" uid="uid://c1fpxjviq3wdw" path="res://Images/Nations/Upstate Federation.png" id="245_rknrm"]
+[ext_resource type="Texture2D" uid="uid://d3q1oqnlce3pd" path="res://Images/Nations/Breakers.png" id="246_aq6un"]
+[ext_resource type="Texture2D" uid="uid://bj3tpcvqr46n8" path="res://Images/Nations/Valley of Amman.png" id="247_eeqn2"]
+[ext_resource type="Texture2D" uid="uid://bx0rkvee6e17n" path="res://Images/Nations/New New Castle.png" id="248_7hlni"]
+[ext_resource type="Texture2D" uid="uid://bx2sa1i01x3k6" path="res://Images/Nations/Gelassenheit.png" id="249_hra4m"]
+[ext_resource type="Texture2D" uid="uid://bndxn0uax5wrk" path="res://Images/Nations/Confectionary Collective.png" id="250_nsmub"]
+[ext_resource type="Texture2D" uid="uid://dfyee5o641ati" path="res://Images/Nations/Philly Raiders.png" id="251_il22r"]
+[ext_resource type="Texture2D" uid="uid://d24pwcf76740g" path="res://Images/Nations/Harrisburg Bandits.png" id="252_2ixqe"]
+[ext_resource type="Texture2D" uid="uid://dwrypo0d674dh" path="res://Images/Nations/Johnstown.png" id="253_p8a3i"]
+[ext_resource type="Texture2D" uid="uid://wsr5naf3u412" path="res://Images/Nations/Trog Country.png" id="254_hcjej"]
+[ext_resource type="Texture2D" uid="uid://b4bs477m87b60" path="res://Images/Nations/The Pitt.png" id="255_55toc"]
+[ext_resource type="Texture2D" uid="uid://bpas1kegauj1c" path="res://Images/Nations/Bay Fisheries.png" id="256_fs57f"]
+[ext_resource type="Texture2D" uid="uid://cdmc7v1uxhnph" path="res://Images/Nations/AAFB Automated Security.png" id="257_jmfat"]
+[ext_resource type="Texture2D" uid="uid://bggqo3btyq5ff" path="res://Images/Nations/Dover Traders.png" id="258_mmpq3"]
+[ext_resource type="Texture2D" uid="uid://c115oyifvnam5" path="res://Images/Nations/DC Settlements.png" id="259_2mk0g"]
+[ext_resource type="Texture2D" uid="uid://c28frxm8t2b08" path="res://Images/Nations/Raven Rock.png" id="260_pxtle"]
+[ext_resource type="Texture2D" uid="uid://cle5rvds0fyko" path="res://Images/Nations/Church of Rocky.png" id="261_x0gcp"]
+[ext_resource type="Texture2D" uid="uid://dyfgww5wjop84" path="res://Images/Nations/Lyons' Chapter.png" id="262_mhc0j"]
+[ext_resource type="Texture2D" uid="uid://ba4adhvl03t6e" path="res://Images/Nations/Rivet City.png" id="263_vfnmg"]
+[ext_resource type="Texture2D" uid="uid://dm30d6avy6by1" path="res://Images/Nations/Talon Corporation.png" id="264_xerio"]
+[ext_resource type="Texture2D" uid="uid://bdfiseq7ecid2" path="res://Images/Nations/Lorentz Force.png" id="265_3cwb5"]
+[ext_resource type="Texture2D" uid="uid://dvqegewngkluv" path="res://Images/Nations/Onionburg.png" id="266_e4g2j"]
+[ext_resource type="Texture2D" uid="uid://chba47r3hejc5" path="res://Images/Nations/Cult of Cobalt.png" id="267_75vmh"]
+[ext_resource type="Texture2D" uid="uid://dkg0kfgnegd1q" path="res://Images/Nations/Monongahela.png" id="268_bpwpr"]
+[ext_resource type="Texture2D" uid="uid://ccn6g65qdqe1w" path="res://Images/Nations/Green Mountain.png" id="269_223rq"]
+[ext_resource type="Texture2D" uid="uid://bkodokqfycksi" path="res://Images/Nations/DC Raiders.png" id="270_lkk21"]
+[ext_resource type="Texture2D" uid="uid://ckfj34xpyr42l" path="res://Images/Nations/Andale Cannibals.png" id="271_asirm"]
+[ext_resource type="Texture2D" uid="uid://dwliwcvlciuqf" path="res://Images/Nations/Fire Marshalls.png" id="272_43plx"]
+[ext_resource type="Texture2D" uid="uid://cqvbt2r41xjjj" path="res://Images/Nations/AtomBaptists.png" id="273_8nutg"]
+[ext_resource type="Texture2D" uid="uid://ca34ywhk8d653" path="res://Images/Nations/Apocryphia of Poseidon.png" id="274_p0qvf"]
+[ext_resource type="Texture2D" uid="uid://cw1x34hxrkpon" path="res://Images/Nations/Known Folk.png" id="275_oxmsk"]
+[ext_resource type="Texture2D" uid="uid://qrcikqg81w75" path="res://Images/Nations/Garden of Eden.png" id="276_sfulq"]
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_eopii"]
 
@@ -3192,6 +3231,538 @@ layout_mode = 2
 texture_normal = ExtResource("224_6cn16")
 script = ExtResource("3_np2xp")
 
+[node name="Hope Port" type="MarginContainer" parent="Nations" unique_id=2012594889 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2766.0
+offset_top = 644.0
+offset_right = 2858.0
+offset_bottom = 728.0
+mouse_filter = 2
+
+[node name="Hope Port" type="TextureButton" parent="Nations/Hope Port" unique_id=823971154]
+layout_mode = 2
+texture_normal = ExtResource("239_i2ps1")
+script = ExtResource("3_np2xp")
+
+[node name="Ronto" type="MarginContainer" parent="Nations" unique_id=637837417 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2714.0
+offset_top = 671.0
+offset_right = 2810.0
+offset_bottom = 763.0
+mouse_filter = 2
+
+[node name="Ronto" type="TextureButton" parent="Nations/Ronto" unique_id=2069866624]
+layout_mode = 2
+texture_normal = ExtResource("240_bblnm")
+script = ExtResource("3_np2xp")
+
+[node name="Ontario Enclave" type="MarginContainer" parent="Nations" unique_id=1073932637 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2675.0
+offset_top = 647.0
+offset_right = 2751.0
+offset_bottom = 721.0
+mouse_filter = 2
+
+[node name="Ontario Enclave" type="TextureButton" parent="Nations/Ontario Enclave" unique_id=403586704]
+layout_mode = 2
+texture_normal = ExtResource("241_qxh2i")
+script = ExtResource("3_np2xp")
+
+[node name="Windsor Wreckers" type="MarginContainer" parent="Nations" unique_id=1569044829 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2612.0
+offset_top = 708.0
+offset_right = 2719.0
+offset_bottom = 834.0
+mouse_filter = 2
+
+[node name="Windsor Wreckers" type="TextureButton" parent="Nations/Windsor Wreckers" unique_id=1024332651]
+layout_mode = 2
+texture_normal = ExtResource("242_5rx1t")
+script = ExtResource("3_np2xp")
+
+[node name="Hosers" type="MarginContainer" parent="Nations" unique_id=335744796 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2691.0
+offset_top = 751.0
+offset_right = 2804.0
+offset_bottom = 802.0
+mouse_filter = 2
+
+[node name="Hosers" type="TextureButton" parent="Nations/Hosers" unique_id=1682522115]
+layout_mode = 2
+texture_normal = ExtResource("243_3egcc")
+script = ExtResource("3_np2xp")
+
+[node name="Buffalo Health Service" type="MarginContainer" parent="Nations" unique_id=15490355 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2802.0
+offset_top = 758.0
+offset_right = 2895.0
+offset_bottom = 809.0
+mouse_filter = 2
+
+[node name="Buffalo Health Service" type="TextureButton" parent="Nations/Buffalo Health Service" unique_id=658640313]
+layout_mode = 2
+texture_normal = ExtResource("244_mx5j1")
+script = ExtResource("3_np2xp")
+
+[node name="Upstate Federation" type="MarginContainer" parent="Nations" unique_id=1428284832 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2885.0
+offset_top = 747.0
+offset_right = 3025.0
+offset_bottom = 847.0
+mouse_filter = 2
+
+[node name="Upstate Federation" type="TextureButton" parent="Nations/Upstate Federation" unique_id=799813187]
+layout_mode = 2
+texture_normal = ExtResource("245_rknrm")
+script = ExtResource("3_np2xp")
+
+[node name="Breakers" type="MarginContainer" parent="Nations" unique_id=2036141006 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2717.0
+offset_top = 799.0
+offset_right = 2843.0
+offset_bottom = 872.0
+mouse_filter = 2
+
+[node name="Breakers" type="TextureButton" parent="Nations/Breakers" unique_id=1975932359]
+layout_mode = 2
+texture_normal = ExtResource("246_aq6un")
+script = ExtResource("3_np2xp")
+
+[node name="Valley of Amman" type="MarginContainer" parent="Nations" unique_id=838468685 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2801.0
+offset_top = 796.0
+offset_right = 2901.0
+offset_bottom = 854.0
+mouse_filter = 2
+
+[node name="Valley of Amman" type="TextureButton" parent="Nations/Valley of Amman" unique_id=976103676]
+layout_mode = 2
+texture_normal = ExtResource("247_eeqn2")
+script = ExtResource("3_np2xp")
+
+[node name="New New Castle" type="MarginContainer" parent="Nations" unique_id=529237744 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2700.0
+offset_top = 851.0
+offset_right = 2786.0
+offset_bottom = 931.0
+mouse_filter = 2
+
+[node name="New New Castle" type="TextureButton" parent="Nations/New New Castle" unique_id=1444823479]
+layout_mode = 2
+texture_normal = ExtResource("248_7hlni")
+script = ExtResource("3_np2xp")
+
+[node name="Gelassenheit" type="MarginContainer" parent="Nations" unique_id=529274707 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2771.0
+offset_top = 843.0
+offset_right = 2880.0
+offset_bottom = 915.0
+mouse_filter = 2
+
+[node name="Gelassenheit" type="TextureButton" parent="Nations/Gelassenheit" unique_id=460453421]
+layout_mode = 2
+texture_normal = ExtResource("249_hra4m")
+script = ExtResource("3_np2xp")
+
+[node name="Confectionary Collective" type="MarginContainer" parent="Nations" unique_id=944025968 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2870.0
+offset_top = 825.0
+offset_right = 2960.0
+offset_bottom = 906.0
+mouse_filter = 2
+
+[node name="Confectionary Collective" type="TextureButton" parent="Nations/Confectionary Collective" unique_id=447717191]
+layout_mode = 2
+texture_normal = ExtResource("250_nsmub")
+script = ExtResource("3_np2xp")
+
+[node name="Philly Raiders" type="MarginContainer" parent="Nations" unique_id=1233278514 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2906.0
+offset_top = 838.0
+offset_right = 3014.0
+offset_bottom = 965.0
+mouse_filter = 2
+
+[node name="Philly Raiders" type="TextureButton" parent="Nations/Philly Raiders" unique_id=308165429]
+layout_mode = 2
+texture_normal = ExtResource("251_il22r")
+script = ExtResource("3_np2xp")
+
+[node name="Harrisburg Bandits" type="MarginContainer" parent="Nations" unique_id=1967301353 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2842.0
+offset_top = 886.0
+offset_right = 2914.0
+offset_bottom = 946.0
+mouse_filter = 2
+
+[node name="Harrisburg Bandits" type="TextureButton" parent="Nations/Harrisburg Bandits" unique_id=1723961733]
+layout_mode = 2
+texture_normal = ExtResource("252_2ixqe")
+script = ExtResource("3_np2xp")
+
+[node name="Johnstown" type="MarginContainer" parent="Nations" unique_id=341517995 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2784.0
+offset_top = 906.0
+offset_right = 2857.0
+offset_bottom = 951.0
+mouse_filter = 2
+
+[node name="Johnstown" type="TextureButton" parent="Nations/Johnstown" unique_id=1179664654]
+layout_mode = 2
+texture_normal = ExtResource("253_p8a3i")
+script = ExtResource("3_np2xp")
+
+[node name="Trog Country" type="MarginContainer" parent="Nations" unique_id=1322395682 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2722.0
+offset_top = 890.0
+offset_right = 2756.0
+offset_bottom = 976.0
+mouse_filter = 2
+
+[node name="Trog Country" type="TextureButton" parent="Nations/Trog Country" unique_id=1828837216]
+layout_mode = 2
+texture_normal = ExtResource("254_hcjej")
+script = ExtResource("3_np2xp")
+
+[node name="The Pitt" type="MarginContainer" parent="Nations" unique_id=1922213541 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2737.0
+offset_top = 893.0
+offset_right = 2797.0
+offset_bottom = 966.0
+mouse_filter = 2
+
+[node name="The Pitt" type="TextureButton" parent="Nations/The Pitt" unique_id=310503875]
+layout_mode = 2
+texture_normal = ExtResource("255_55toc")
+script = ExtResource("3_np2xp")
+
+[node name="Bay Fisheries" type="MarginContainer" parent="Nations" unique_id=1508149812 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2925.0
+offset_top = 953.0
+offset_right = 2984.0
+offset_bottom = 1024.0
+mouse_filter = 2
+
+[node name="Bay Fisheries" type="TextureButton" parent="Nations/Bay Fisheries" unique_id=1065134079]
+layout_mode = 2
+texture_normal = ExtResource("256_fs57f")
+script = ExtResource("3_np2xp")
+
+[node name="AAFB Automated Security" type="MarginContainer" parent="Nations" unique_id=1373380079 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2940.0
+offset_top = 1023.0
+offset_right = 2978.0
+offset_bottom = 1053.0
+mouse_filter = 2
+
+[node name="AAFB Automated Security" type="TextureButton" parent="Nations/AAFB Automated Security" unique_id=161539141]
+layout_mode = 2
+texture_normal = ExtResource("257_jmfat")
+script = ExtResource("3_np2xp")
+
+[node name="Dover Traders" type="MarginContainer" parent="Nations" unique_id=1464663924 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2954.0
+offset_top = 1014.0
+offset_right = 2999.0
+offset_bottom = 1114.0
+mouse_filter = 2
+
+[node name="Dover Traders" type="TextureButton" parent="Nations/Dover Traders" unique_id=2106386310]
+layout_mode = 2
+texture_normal = ExtResource("258_mmpq3")
+script = ExtResource("3_np2xp")
+
+[node name="DC Settlements" type="MarginContainer" parent="Nations" unique_id=1860561347 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2825.0
+offset_top = 928.0
+offset_right = 2945.0
+offset_bottom = 1038.0
+mouse_filter = 2
+
+[node name="DC Settlements" type="TextureButton" parent="Nations/DC Settlements" unique_id=954726242]
+layout_mode = 2
+texture_normal = ExtResource("259_2mk0g")
+script = ExtResource("3_np2xp")
+
+[node name="Raven Rock" type="MarginContainer" parent="Nations" unique_id=411523036 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2793.0
+offset_top = 940.0
+offset_right = 2850.0
+offset_bottom = 996.0
+mouse_filter = 2
+
+[node name="Raven Rock" type="TextureButton" parent="Nations/Raven Rock" unique_id=370442658]
+layout_mode = 2
+texture_normal = ExtResource("260_pxtle")
+script = ExtResource("3_np2xp")
+
+[node name="Church of Rocky" type="MarginContainer" parent="Nations" unique_id=796914098 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2710.0
+offset_top = 942.0
+offset_right = 2800.0
+offset_bottom = 998.0
+mouse_filter = 2
+
+[node name="Church of Rocky" type="TextureButton" parent="Nations/Church of Rocky" unique_id=973282470]
+layout_mode = 2
+texture_normal = ExtResource("261_x0gcp")
+script = ExtResource("3_np2xp")
+
+[node name="Lyons\' Chapter" type="MarginContainer" parent="Nations" unique_id=660691294 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2841.0
+offset_top = 993.0
+offset_right = 2933.0
+offset_bottom = 1059.0
+mouse_filter = 2
+
+[node name="Lyons\' Chapter" type="TextureButton" parent="Nations/Lyons\' Chapter" unique_id=989129705]
+layout_mode = 2
+texture_normal = ExtResource("262_mhc0j")
+script = ExtResource("3_np2xp")
+
+[node name="Rivet City" type="MarginContainer" parent="Nations" unique_id=596694314 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2896.0
+offset_top = 1009.0
+offset_right = 2935.0
+offset_bottom = 1063.0
+mouse_filter = 2
+
+[node name="Rivet City" type="TextureButton" parent="Nations/Rivet City" unique_id=262660546]
+layout_mode = 2
+texture_normal = ExtResource("263_vfnmg")
+script = ExtResource("3_np2xp")
+
+[node name="Talon Corporation" type="MarginContainer" parent="Nations" unique_id=521695789 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2782.0
+offset_top = 987.0
+offset_right = 2839.0
+offset_bottom = 1041.0
+mouse_filter = 2
+
+[node name="Talon Corporation" type="TextureButton" parent="Nations/Talon Corporation" unique_id=2126444431]
+layout_mode = 2
+texture_normal = ExtResource("264_xerio")
+script = ExtResource("3_np2xp")
+
+[node name="Lorentz Force" type="MarginContainer" parent="Nations" unique_id=1147581253 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2732.0
+offset_top = 975.0
+offset_right = 2797.0
+offset_bottom = 1025.0
+mouse_filter = 2
+
+[node name="Lorentz Force" type="TextureButton" parent="Nations/Lorentz Force" unique_id=1590635075]
+layout_mode = 2
+texture_normal = ExtResource("265_3cwb5")
+script = ExtResource("3_np2xp")
+
+[node name="Onionburg" type="MarginContainer" parent="Nations" unique_id=1623667689 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2677.0
+offset_top = 989.0
+offset_right = 2735.0
+offset_bottom = 1046.0
+mouse_filter = 2
+
+[node name="Onionburg" type="TextureButton" parent="Nations/Onionburg" unique_id=590179143]
+layout_mode = 2
+texture_normal = ExtResource("266_e4g2j")
+script = ExtResource("3_np2xp")
+
+[node name="Cult of Cobalt" type="MarginContainer" parent="Nations" unique_id=139406582 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2703.0
+offset_top = 1011.0
+offset_right = 2753.0
+offset_bottom = 1063.0
+mouse_filter = 2
+
+[node name="Cult of Cobalt" type="TextureButton" parent="Nations/Cult of Cobalt" unique_id=1697856202]
+layout_mode = 2
+texture_normal = ExtResource("267_75vmh")
+script = ExtResource("3_np2xp")
+
+[node name="Monongahela" type="MarginContainer" parent="Nations" unique_id=257041764 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2745.0
+offset_top = 1020.0
+offset_right = 2790.0
+offset_bottom = 1066.0
+mouse_filter = 2
+
+[node name="Monongahela" type="TextureButton" parent="Nations/Monongahela" unique_id=1412252422]
+layout_mode = 2
+texture_normal = ExtResource("268_bpwpr")
+script = ExtResource("3_np2xp")
+
+[node name="Green Mountain" type="MarginContainer" parent="Nations" unique_id=790624926 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2715.0
+offset_top = 1039.0
+offset_right = 2760.0
+offset_bottom = 1112.0
+mouse_filter = 2
+
+[node name="Green Mountain" type="TextureButton" parent="Nations/Green Mountain" unique_id=1298000280]
+layout_mode = 2
+texture_normal = ExtResource("269_223rq")
+script = ExtResource("3_np2xp")
+
+[node name="DC Raiders" type="MarginContainer" parent="Nations" unique_id=47240102 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2759.0
+offset_top = 1030.0
+offset_right = 2843.0
+offset_bottom = 1099.0
+mouse_filter = 2
+
+[node name="DC Raiders" type="TextureButton" parent="Nations/DC Raiders" unique_id=1025059872]
+layout_mode = 2
+texture_normal = ExtResource("270_lkk21")
+script = ExtResource("3_np2xp")
+
+[node name="Andale Cannibals" type="MarginContainer" parent="Nations" unique_id=574462863 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2829.0
+offset_top = 1046.0
+offset_right = 2940.0
+offset_bottom = 1127.0
+mouse_filter = 2
+
+[node name="Andale Cannibals" type="TextureButton" parent="Nations/Andale Cannibals" unique_id=49937621]
+layout_mode = 2
+texture_normal = ExtResource("271_asirm")
+script = ExtResource("3_np2xp")
+
+[node name="Fire Marshalls" type="MarginContainer" parent="Nations" unique_id=1868888276 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2738.0
+offset_top = 1086.0
+offset_right = 2836.0
+offset_bottom = 1140.0
+mouse_filter = 2
+
+[node name="Fire Marshalls" type="TextureButton" parent="Nations/Fire Marshalls" unique_id=941269888]
+layout_mode = 2
+texture_normal = ExtResource("272_43plx")
+script = ExtResource("3_np2xp")
+
+[node name="AtomBaptists" type="MarginContainer" parent="Nations" unique_id=745616583 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2826.0
+offset_top = 1116.0
+offset_right = 2873.0
+offset_bottom = 1161.0
+mouse_filter = 2
+
+[node name="AtomBaptists" type="TextureButton" parent="Nations/AtomBaptists" unique_id=59142774]
+layout_mode = 2
+texture_normal = ExtResource("273_8nutg")
+script = ExtResource("3_np2xp")
+
+[node name="Apocryphia of Poseidon" type="MarginContainer" parent="Nations" unique_id=1383952908 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2822.0
+offset_top = 1088.0
+offset_right = 2924.0
+offset_bottom = 1162.0
+mouse_filter = 2
+
+[node name="Apocryphia of Poseidon" type="TextureButton" parent="Nations/Apocryphia of Poseidon" unique_id=750130274]
+layout_mode = 2
+texture_normal = ExtResource("274_p0qvf")
+script = ExtResource("3_np2xp")
+
+[node name="Known Folk" type="MarginContainer" parent="Nations" unique_id=1853597885 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2912.0
+offset_top = 1130.0
+offset_right = 2957.0
+offset_bottom = 1183.0
+mouse_filter = 2
+
+[node name="Known Folk" type="TextureButton" parent="Nations/Known Folk" unique_id=225278908]
+layout_mode = 2
+texture_normal = ExtResource("275_oxmsk")
+script = ExtResource("3_np2xp")
+
+[node name="Garden of Eden" type="MarginContainer" parent="Nations" unique_id=2053173956 groups=["East Coast Rebirth"]]
+visible = false
+layout_mode = 0
+offset_left = 2885.0
+offset_top = 1157.0
+offset_right = 2926.0
+offset_bottom = 1196.0
+mouse_filter = 2
+
+[node name="Garden of Eden" type="TextureButton" parent="Nations/Garden of Eden" unique_id=2135752457]
+layout_mode = 2
+texture_normal = ExtResource("276_sfulq")
+script = ExtResource("3_np2xp")
+
 [node name="Borders" type="MarginContainer" parent="." unique_id=1984200759]
 offset_right = 4132.0
 offset_bottom = 2304.0
@@ -3201,6 +3772,20 @@ mouse_filter = 2
 layout_mode = 2
 mouse_filter = 2
 texture = ExtResource("3_q0mm3")
+
+[node name="East Coast Rebirth Borders" type="MarginContainer" parent="." unique_id=657915299 groups=["East Coast Rebirth"]]
+visible = false
+offset_left = 2611.0
+offset_top = 643.0
+offset_right = 6743.0
+offset_bottom = 2947.0
+mouse_filter = 2
+
+[node name="Borders" type="TextureRect" parent="East Coast Rebirth Borders" unique_id=1623354449]
+layout_mode = 2
+mouse_filter = 2
+texture = ExtResource("240_x2rrw")
+stretch_mode = 2
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1691633582]
 position = Vector2(2075, 1158)
@@ -3283,12 +3868,32 @@ theme_override_constants/separation = 16
 [node name="Settings" type="FoldableContainer" parent="SideBar" unique_id=1340936595]
 layout_mode = 2
 theme_override_font_sizes/font_size = 48
-folded = true
 title = "Settings"
 title_alignment = 1
 
 [node name="VBoxContainer" type="VBoxContainer" parent="SideBar/Settings" unique_id=1353206335]
+layout_mode = 2
+
+[node name="Submods" type="FoldableContainer" parent="SideBar/Settings/VBoxContainer" unique_id=1348423259]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+folded = true
+title = "Submods"
+title_alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="SideBar/Settings/VBoxContainer/Submods" unique_id=2052216099]
 visible = false
+layout_mode = 2
+
+[node name="East Coast Rebirth" type="HBoxContainer" parent="SideBar/Settings/VBoxContainer/Submods/VBoxContainer" unique_id=894606947]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="SideBar/Settings/VBoxContainer/Submods/VBoxContainer/East Coast Rebirth" unique_id=1508648235]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+text = "East Coast Rebirth"
+
+[node name="East Coast Rebirth" type="CheckButton" parent="SideBar/Settings/VBoxContainer/Submods/VBoxContainer/East Coast Rebirth" unique_id=1144841817]
 layout_mode = 2
 
 [node name="Colours" type="FoldableContainer" parent="SideBar/Settings/VBoxContainer" unique_id=1826629187]
@@ -3332,6 +3937,7 @@ text = "Export to PNG"
 [connection signal="pressed" from="Filter/Empty" to="." method="_on_empty_pressed"]
 [connection signal="pressed" from="Menu/Base/Main/Base/HBoxContainer/Button" to="Menu" method="increase_log"]
 [connection signal="pressed" from="Menu/Base/Main/Base/HBoxContainer/Button2" to="Menu" method="decrease_log"]
+[connection signal="pressed" from="SideBar/Settings/VBoxContainer/Submods/VBoxContainer/East Coast Rebirth/East Coast Rebirth" to="." method="ECR"]
 [connection signal="toggled" from="SideBar/Settings/VBoxContainer/Gradient" to="." method="_on_gradient_toggled"]
 [connection signal="toggled" from="SideBar/Settings/VBoxContainer/Display Type" to="." method="_on_display_type_toggled"]
 [connection signal="pressed" from="SideBar/Save" to="." method="_on_save_pressed"]

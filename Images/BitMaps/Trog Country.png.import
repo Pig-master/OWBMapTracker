@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://sa4c7lotnr22"
+path="res://.godot/imported/Trog Country.png-f3e26aa6830b8248508f2f34db9d30ae.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Trog Country.png"
+dest_files=["res://.godot/imported/Trog Country.png-f3e26aa6830b8248508f2f34db9d30ae.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

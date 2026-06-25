@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://ceucdaqmjgqdw"
+path="res://.godot/imported/New New Castle.png-fe2c08e1a13714cf6fab3e683f79039b.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/New New Castle.png"
+dest_files=["res://.godot/imported/New New Castle.png-fe2c08e1a13714cf6fab3e683f79039b.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

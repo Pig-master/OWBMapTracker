@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://c1l3bmw8goorw"
+path="res://.godot/imported/Church of Rocky.png-60697f33782d411ac5b2fc75ada48bf9.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Church of Rocky.png"
+dest_files=["res://.godot/imported/Church of Rocky.png-60697f33782d411ac5b2fc75ada48bf9.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

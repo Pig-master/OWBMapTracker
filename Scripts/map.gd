@@ -340,7 +340,9 @@ func _on_png_pressed() -> void:
 	$SideBar.visible = false
 	$Menu.visible = false
 	await get_tree().create_timer(0.1).timeout
-	get_viewport().get_texture().get_image().save_png("user://image.png")
+	var path:String = OS.get_system_dir(OS.SYSTEM_DIR_DOWNLOADS) + "/map.png"
+	get_viewport().get_texture().get_image().save_png(path)
+	
 	$SideBar.visible = true
 
 func _on_gradient_toggled(toggled_on: bool) -> void:

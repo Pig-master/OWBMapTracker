@@ -4,49 +4,35 @@
 [ext_resource type="Texture2D" uid="uid://c7bhxlxun17dm" path="res://Images/blank map.png" id="2_myvm1"]
 [ext_resource type="Script" uid="uid://b4prl62kp0t8x" path="res://Scripts/nation.gd" id="3_np2xp"]
 [ext_resource type="Texture2D" uid="uid://dnkoi6u8uo0i5" path="res://Images/Borders.png" id="3_q0mm3"]
-[ext_resource type="Texture2D" uid="uid://ine20x4jywcn" path="res://Images/Nations/215th.png" id="3_w7jjh"]
-[ext_resource type="BitMap" uid="uid://ine20x4jywcn" path="res://Images/BitMaps/215th.png" id="4_kpaho"]
-[ext_resource type="Texture2D" uid="uid://id5124q3rv2b" path="res://Images/Nations/Arborg Junta.png" id="5_w7jjh"]
-[ext_resource type="Texture2D" uid="uid://c0e34rlcmqfd3" path="res://Images/Nations/Archdiocese of Santa Fe.png" id="6_6q3n4"]
-[ext_resource type="Texture2D" uid="uid://ckv0lres2p16q" path="res://Images/Nations/Arroyo.png" id="7_4c2oa"]
-[ext_resource type="BitMap" uid="uid://id5124q3rv2b" path="res://Images/BitMaps/Arborg Junta.png" id="7_f4ii0"]
+[ext_resource type="Texture2D" uid="uid://ine20x4jywcn" path="res://Images/Nations/215th.png" id="4_kpaho"]
+[ext_resource type="Texture2D" uid="uid://id5124q3rv2b" path="res://Images/Nations/Arborg Junta.png" id="7_f4ii0"]
 [ext_resource type="Script" uid="uid://c4cenq2igppgq" path="res://Scripts/menu.gd" id="7_w7jjh"]
-[ext_resource type="Texture2D" uid="uid://co4qgd5ys5s7w" path="res://Images/Nations/Assassin City.png" id="8_dlo4w"]
-[ext_resource type="BitMap" uid="uid://c0e34rlcmqfd3" path="res://Images/BitMaps/Archdiocese of Santa Fe.png" id="9_eopii"]
-[ext_resource type="Texture2D" uid="uid://c3025xhjfgrdn" path="res://Images/Nations/Badland Buckaroos.png" id="9_q6lx1"]
-[ext_resource type="Texture2D" uid="uid://ckmb8bbahb1i" path="res://Images/Nations/Baggers.png" id="10_q6lx1"]
-[ext_resource type="Texture2D" uid="uid://dw33nrj0kjfme" path="res://Images/Nations/Battleford.png" id="11_5qtum"]
-[ext_resource type="BitMap" uid="uid://ckv0lres2p16q" path="res://Images/BitMaps/Arroyo.png" id="11_x2rrw"]
-[ext_resource type="Texture2D" uid="uid://b2bm1ka50sc42" path="res://Images/Nations/Baron's Eyrie.png" id="12_ie368"]
-[ext_resource type="BitMap" uid="uid://co4qgd5ys5s7w" path="res://Images/BitMaps/Assassin City.png" id="13_i2ps1"]
-[ext_resource type="Texture2D" uid="uid://yj48rpqthkoh" path="res://Images/Nations/Baudelio Ranchers.png" id="13_x5dfk"]
-[ext_resource type="Texture2D" uid="uid://cvkpg1i22fix6" path="res://Images/Nations/Bayou Motors.png" id="14_fls3e"]
-[ext_resource type="BitMap" uid="uid://c3025xhjfgrdn" path="res://Images/BitMaps/Badland Buckaroos.png" id="15_inipc"]
-[ext_resource type="Texture2D" uid="uid://csvbyjtmf30o2" path="res://Images/Nations/Beltran-Levya.png" id="15_k63oc"]
-[ext_resource type="Texture2D" uid="uid://sd4r08ef16y" path="res://Images/Nations/Big Grass.png" id="16_j4oe2"]
-[ext_resource type="BitMap" uid="uid://ckmb8bbahb1i" path="res://Images/BitMaps/Baggers.png" id="17_j6stj"]
-[ext_resource type="Texture2D" uid="uid://qh4snvmntk7e" path="res://Images/Nations/Binary Counts.png" id="17_riaky"]
+[ext_resource type="Texture2D" uid="uid://c0e34rlcmqfd3" path="res://Images/Nations/Archdiocese of Santa Fe.png" id="9_eopii"]
+[ext_resource type="Texture2D" uid="uid://ckv0lres2p16q" path="res://Images/Nations/Arroyo.png" id="11_x2rrw"]
+[ext_resource type="Texture2D" uid="uid://co4qgd5ys5s7w" path="res://Images/Nations/Assassin City.png" id="13_i2ps1"]
+[ext_resource type="Texture2D" uid="uid://c3025xhjfgrdn" path="res://Images/Nations/Badland Buckaroos.png" id="15_inipc"]
+[ext_resource type="Texture2D" uid="uid://ckmb8bbahb1i" path="res://Images/Nations/Baggers.png" id="17_j6stj"]
 [ext_resource type="Texture2D" uid="uid://ddckffeypflxt" path="res://Images/Nations/Bismarck.png" id="18_vtkp8"]
-[ext_resource type="BitMap" uid="uid://dw33nrj0kjfme" path="res://Images/BitMaps/Battleford.png" id="19_jah6u"]
+[ext_resource type="Texture2D" uid="uid://dw33nrj0kjfme" path="res://Images/Nations/Battleford.png" id="19_jah6u"]
 [ext_resource type="Texture2D" uid="uid://dsljklu7pqibx" path="res://Images/Nations/Black Canyon.png" id="19_rg57b"]
 [ext_resource type="Texture2D" uid="uid://dcda4m7v0x37e" path="res://Images/Nations/Blue Rose Society.png" id="20_macow"]
-[ext_resource type="BitMap" uid="uid://b2bm1ka50sc42" path="res://Images/BitMaps/Baron's Eyrie.png" id="21_r3eny"]
+[ext_resource type="Texture2D" uid="uid://b2bm1ka50sc42" path="res://Images/Nations/Baron's Eyrie.png" id="21_r3eny"]
 [ext_resource type="Texture2D" uid="uid://dk7w7b84d7tp0" path="res://Images/Nations/Bone Dancers.png" id="21_uus22"]
 [ext_resource type="Texture2D" uid="uid://bex2bn1fpswte" path="res://Images/Nations/Broken Coast.png" id="22_tuwt4"]
-[ext_resource type="BitMap" uid="uid://yj48rpqthkoh" path="res://Images/BitMaps/Baudelio Ranchers.png" id="23_agwr8"]
+[ext_resource type="Texture2D" uid="uid://yj48rpqthkoh" path="res://Images/Nations/Baudelio Ranchers.png" id="23_agwr8"]
 [ext_resource type="Texture2D" uid="uid://dumi3r6r5c1hg" path="res://Images/Nations/Caesar's Legion.png" id="23_tuwt4"]
 [ext_resource type="Texture2D" uid="uid://dn0md445i4jtn" path="res://Images/Nations/Carbon.png" id="24_1ye5v"]
 [ext_resource type="Texture2D" uid="uid://bavvxqnd5s8kd" path="res://Images/Nations/Carcass Walkers.png" id="25_8cxpi"]
-[ext_resource type="BitMap" uid="uid://cvkpg1i22fix6" path="res://Images/BitMaps/Bayou Motors.png" id="25_ltv0b"]
+[ext_resource type="Texture2D" uid="uid://cvkpg1i22fix6" path="res://Images/Nations/Bayou Motors.png" id="25_ltv0b"]
 [ext_resource type="Texture2D" uid="uid://01ht6ba4bkjt" path="res://Images/Nations/Chemult Station.png" id="26_wpvg5"]
-[ext_resource type="BitMap" uid="uid://csvbyjtmf30o2" path="res://Images/BitMaps/Beltran-Levya.png" id="27_3iupj"]
+[ext_resource type="Texture2D" uid="uid://csvbyjtmf30o2" path="res://Images/Nations/Beltran-Levya.png" id="27_3iupj"]
 [ext_resource type="Texture2D" uid="uid://b6wabqo3sbrxj" path="res://Images/Nations/Cherokee Nation.png" id="27_078fj"]
 [ext_resource type="Texture2D" uid="uid://cuot2ri1bl21o" path="res://Images/Nations/Chichen Itza.png" id="28_unquq"]
 [ext_resource type="Texture2D" uid="uid://d288wy3bhm8md" path="res://Images/Nations/Chickasaw-Muscogee Coalition.png" id="29_pptwf"]
-[ext_resource type="BitMap" uid="uid://sd4r08ef16y" path="res://Images/BitMaps/Big Grass.png" id="29_vymcg"]
+[ext_resource type="Texture2D" uid="uid://sd4r08ef16y" path="res://Images/Nations/Big Grass.png" id="29_vymcg"]
 [ext_resource type="Texture2D" uid="uid://cxsi1q44qaxki" path="res://Images/Nations/Choctaw Nation.png" id="30_ak4ow"]
 [ext_resource type="Texture2D" uid="uid://w67t4lwwi5p5" path="res://Images/Nations/Church of the Silo.png" id="31_ajvq6"]
-[ext_resource type="BitMap" uid="uid://qh4snvmntk7e" path="res://Images/BitMaps/Binary Counts.png" id="31_xwlu1"]
+[ext_resource type="Texture2D" uid="uid://qh4snvmntk7e" path="res://Images/Nations/Binary Counts.png" id="31_xwlu1"]
 [ext_resource type="Texture2D" uid="uid://dudkoo2amwye2" path="res://Images/Nations/Ciphers.png" id="32_cwq17"]
 [ext_resource type="Texture2D" uid="uid://e6ihqjos2on7" path="res://Images/Nations/Circle Junction.png" id="33_a0h6a"]
 [ext_resource type="Texture2D" uid="uid://blgs2yi7l7pw8" path="res://Images/Nations/Claim Jumpers.png" id="34_wcnou"]
@@ -363,8 +349,7 @@ mouse_filter = 2
 
 [node name="215th" type="TextureButton" parent="Nations/215th" unique_id=844692136]
 layout_mode = 2
-texture_normal = ExtResource("3_w7jjh")
-texture_click_mask = ExtResource("4_kpaho")
+texture_normal = ExtResource("4_kpaho")
 script = ExtResource("3_np2xp")
 
 [node name="Arborg Junta" type="MarginContainer" parent="Nations" unique_id=170750891]
@@ -377,8 +362,7 @@ mouse_filter = 2
 
 [node name="Arborg Junta" type="TextureButton" parent="Nations/Arborg Junta" unique_id=1817443277]
 layout_mode = 2
-texture_normal = ExtResource("5_w7jjh")
-texture_click_mask = ExtResource("7_f4ii0")
+texture_normal = ExtResource("7_f4ii0")
 script = ExtResource("3_np2xp")
 
 [node name="Archdiocese of Santa Fe" type="MarginContainer" parent="Nations" unique_id=1605779654]
@@ -391,8 +375,7 @@ mouse_filter = 2
 
 [node name="Archdiocese of Santa Fe" type="TextureButton" parent="Nations/Archdiocese of Santa Fe" unique_id=1755143977]
 layout_mode = 2
-texture_normal = ExtResource("6_6q3n4")
-texture_click_mask = ExtResource("9_eopii")
+texture_normal = ExtResource("9_eopii")
 script = ExtResource("3_np2xp")
 
 [node name="Arroyo" type="MarginContainer" parent="Nations" unique_id=298835761]
@@ -405,8 +388,7 @@ mouse_filter = 2
 
 [node name="Arroyo" type="TextureButton" parent="Nations/Arroyo" unique_id=573623944]
 layout_mode = 2
-texture_normal = ExtResource("7_4c2oa")
-texture_click_mask = ExtResource("11_x2rrw")
+texture_normal = ExtResource("11_x2rrw")
 script = ExtResource("3_np2xp")
 
 [node name="Assassin City" type="MarginContainer" parent="Nations" unique_id=359692897]
@@ -419,8 +401,7 @@ mouse_filter = 2
 
 [node name="Assassin City" type="TextureButton" parent="Nations/Assassin City" unique_id=1481217757]
 layout_mode = 2
-texture_normal = ExtResource("8_dlo4w")
-texture_click_mask = ExtResource("13_i2ps1")
+texture_normal = ExtResource("13_i2ps1")
 script = ExtResource("3_np2xp")
 
 [node name="Badland Buckaroos" type="MarginContainer" parent="Nations" unique_id=282901077]
@@ -433,8 +414,7 @@ mouse_filter = 2
 
 [node name="Badland Buckaroos" type="TextureButton" parent="Nations/Badland Buckaroos" unique_id=908693724]
 layout_mode = 2
-texture_normal = ExtResource("9_q6lx1")
-texture_click_mask = ExtResource("15_inipc")
+texture_normal = ExtResource("15_inipc")
 script = ExtResource("3_np2xp")
 
 [node name="Baggers" type="MarginContainer" parent="Nations" unique_id=1358882496]
@@ -447,8 +427,7 @@ mouse_filter = 2
 
 [node name="Baggers" type="TextureButton" parent="Nations/Baggers" unique_id=1323693199]
 layout_mode = 2
-texture_normal = ExtResource("10_q6lx1")
-texture_click_mask = ExtResource("17_j6stj")
+texture_normal = ExtResource("17_j6stj")
 script = ExtResource("3_np2xp")
 
 [node name="Battleford" type="MarginContainer" parent="Nations" unique_id=172349011]
@@ -461,8 +440,7 @@ mouse_filter = 2
 
 [node name="Battleford" type="TextureButton" parent="Nations/Battleford" unique_id=2101581519]
 layout_mode = 2
-texture_normal = ExtResource("11_5qtum")
-texture_click_mask = ExtResource("19_jah6u")
+texture_normal = ExtResource("19_jah6u")
 script = ExtResource("3_np2xp")
 
 [node name="Baron\'s Eyrie" type="MarginContainer" parent="Nations" unique_id=1022810659]
@@ -475,8 +453,7 @@ mouse_filter = 2
 
 [node name="Baron\'s Eyrie" type="TextureButton" parent="Nations/Baron\'s Eyrie" unique_id=611612316]
 layout_mode = 2
-texture_normal = ExtResource("12_ie368")
-texture_click_mask = ExtResource("21_r3eny")
+texture_normal = ExtResource("21_r3eny")
 script = ExtResource("3_np2xp")
 
 [node name="Baudelio Ranchers" type="MarginContainer" parent="Nations" unique_id=1215873160]
@@ -489,8 +466,7 @@ mouse_filter = 2
 
 [node name="Baudelio Ranchers" type="TextureButton" parent="Nations/Baudelio Ranchers" unique_id=343706736]
 layout_mode = 2
-texture_normal = ExtResource("13_x5dfk")
-texture_click_mask = ExtResource("23_agwr8")
+texture_normal = ExtResource("23_agwr8")
 script = ExtResource("3_np2xp")
 
 [node name="Bayou Motors" type="MarginContainer" parent="Nations" unique_id=788044340]
@@ -503,8 +479,7 @@ mouse_filter = 2
 
 [node name="Bayou Motors" type="TextureButton" parent="Nations/Bayou Motors" unique_id=1549571695]
 layout_mode = 2
-texture_normal = ExtResource("14_fls3e")
-texture_click_mask = ExtResource("25_ltv0b")
+texture_normal = ExtResource("25_ltv0b")
 script = ExtResource("3_np2xp")
 
 [node name="Beltran-Levya" type="MarginContainer" parent="Nations" unique_id=445734296]
@@ -517,8 +492,7 @@ mouse_filter = 2
 
 [node name="Beltran-Levya" type="TextureButton" parent="Nations/Beltran-Levya" unique_id=1888223526]
 layout_mode = 2
-texture_normal = ExtResource("15_k63oc")
-texture_click_mask = ExtResource("27_3iupj")
+texture_normal = ExtResource("27_3iupj")
 script = ExtResource("3_np2xp")
 
 [node name="Big Grass" type="MarginContainer" parent="Nations" unique_id=1562149851]
@@ -531,8 +505,7 @@ mouse_filter = 2
 
 [node name="Big Grass" type="TextureButton" parent="Nations/Big Grass" unique_id=21434083]
 layout_mode = 2
-texture_normal = ExtResource("16_j4oe2")
-texture_click_mask = ExtResource("29_vymcg")
+texture_normal = ExtResource("29_vymcg")
 script = ExtResource("3_np2xp")
 
 [node name="Binary Counts" type="MarginContainer" parent="Nations" unique_id=175424879]
@@ -545,8 +518,7 @@ mouse_filter = 2
 
 [node name="Binary Counts" type="TextureButton" parent="Nations/Binary Counts" unique_id=1020891699]
 layout_mode = 2
-texture_normal = ExtResource("17_riaky")
-texture_click_mask = ExtResource("31_xwlu1")
+texture_normal = ExtResource("31_xwlu1")
 script = ExtResource("3_np2xp")
 
 [node name="Bismarck" type="MarginContainer" parent="Nations" unique_id=842074816]

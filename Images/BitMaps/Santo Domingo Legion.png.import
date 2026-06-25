@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cn6120lsy0cvo"
+path="res://.godot/imported/Santo Domingo Legion.png-82dd6220f7100bc9591ee8f12a73864b.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Santo Domingo Legion.png"
+dest_files=["res://.godot/imported/Santo Domingo Legion.png-82dd6220f7100bc9591ee8f12a73864b.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

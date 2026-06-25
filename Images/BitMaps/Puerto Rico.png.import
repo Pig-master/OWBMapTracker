@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bpu5ykn27e8x1"
+path="res://.godot/imported/Puerto Rico.png-ad67dd808abaf2cc95082ee4ca0931b1.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Puerto Rico.png"
+dest_files=["res://.godot/imported/Puerto Rico.png-ad67dd808abaf2cc95082ee4ca0931b1.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

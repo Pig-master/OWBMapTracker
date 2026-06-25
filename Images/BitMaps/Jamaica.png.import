@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dj22qeqh7n6wv"
+path="res://.godot/imported/Jamaica.png-1293908eb4d784b6af57f5a00de4f9a7.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Jamaica.png"
+dest_files=["res://.godot/imported/Jamaica.png-1293908eb4d784b6af57f5a00de4f9a7.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -266,9 +266,18 @@ var to_save:Dictionary = {
 	"Apocryphia of Poseidon":{},
 	"Known Folk":{},
 	"Garden of Eden":{},
+	"Bahamas":{},
+	"Santo Domingo Legion":{},
+	"Hati":{},
+	"Dominican Republic":{},
+	"Puerto Rico":{},
+	"West Indian Federation":{},
+	"Dominion of Jamaica":{},
+	"Jamaica":{},
 	},
 	"submods":{
-		"East Coast Rebirth":false
+		"East Coast Rebirth":false,
+		"Across the Caribbean":false
 	}
 }
 
@@ -360,6 +369,9 @@ func check_submods():
 	if to_save["submods"]["East Coast Rebirth"] == true:
 		to_save["submods"]["East Coast Rebirth"] = false
 		ECR()
+	if to_save["submods"]["Across the Caribbean"] == true:
+		to_save["submods"]["Across the Caribbean"] = false
+		AoC()
 
 func ECR():
 	if to_save["submods"]["East Coast Rebirth"] == true:
@@ -371,4 +383,16 @@ func ECR():
 		$"SideBar/Settings/VBoxContainer/Submods/VBoxContainer/East Coast Rebirth/East Coast Rebirth".button_pressed = true
 		to_save["submods"]["East Coast Rebirth"] = true
 		for x in get_tree().get_nodes_in_group("East Coast Rebirth"):
+			x.visible = true
+
+func AoC() -> void:
+	if to_save["submods"]["Across the Caribbean"] == true:
+		$"SideBar/Settings/VBoxContainer/Submods/VBoxContainer/Across the Caribbean/Across the Caribbean".button_pressed = false
+		to_save["submods"]["Across the Caribbean"] = false
+		for x in get_tree().get_nodes_in_group("Across the Caribbean"):
+			x.visible = false
+	elif to_save["submods"]["Across the Caribbean"] == false:
+		$"SideBar/Settings/VBoxContainer/Submods/VBoxContainer/Across the Caribbean/Across the Caribbean".button_pressed = true
+		to_save["submods"]["Across the Caribbean"] = true
+		for x in get_tree().get_nodes_in_group("Across the Caribbean"):
 			x.visible = true

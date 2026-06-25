@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://rlj8un617ycr"
+path="res://.godot/imported/Bahamas.png-c7be9fb0e15975f19f36466191ee64a2.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Bahamas.png"
+dest_files=["res://.godot/imported/Bahamas.png-c7be9fb0e15975f19f36466191ee64a2.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

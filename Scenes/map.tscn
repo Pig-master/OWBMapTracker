@@ -5,48 +5,48 @@
 [ext_resource type="Script" uid="uid://b4prl62kp0t8x" path="res://Scripts/nation.gd" id="3_np2xp"]
 [ext_resource type="Texture2D" uid="uid://dnkoi6u8uo0i5" path="res://Images/Borders.png" id="3_q0mm3"]
 [ext_resource type="Texture2D" uid="uid://ine20x4jywcn" path="res://Images/Nations/215th.png" id="3_w7jjh"]
-[ext_resource type="BitMap" uid="uid://cobvqug4b4jde" path="res://Images/BitMaps/215th.png" id="4_kpaho"]
+[ext_resource type="BitMap" uid="uid://ine20x4jywcn" path="res://Images/BitMaps/215th.png" id="4_kpaho"]
 [ext_resource type="Texture2D" uid="uid://id5124q3rv2b" path="res://Images/Nations/Arborg Junta.png" id="5_w7jjh"]
 [ext_resource type="Texture2D" uid="uid://c0e34rlcmqfd3" path="res://Images/Nations/Archdiocese of Santa Fe.png" id="6_6q3n4"]
 [ext_resource type="Texture2D" uid="uid://ckv0lres2p16q" path="res://Images/Nations/Arroyo.png" id="7_4c2oa"]
-[ext_resource type="BitMap" uid="uid://ew7bxk4k5fox" path="res://Images/BitMaps/Arborg Junta.png" id="7_f4ii0"]
+[ext_resource type="BitMap" uid="uid://id5124q3rv2b" path="res://Images/BitMaps/Arborg Junta.png" id="7_f4ii0"]
 [ext_resource type="Script" uid="uid://c4cenq2igppgq" path="res://Scripts/menu.gd" id="7_w7jjh"]
 [ext_resource type="Texture2D" uid="uid://co4qgd5ys5s7w" path="res://Images/Nations/Assassin City.png" id="8_dlo4w"]
-[ext_resource type="BitMap" uid="uid://u25aaqcrxxbc" path="res://Images/BitMaps/Archdiocese of Santa Fe.png" id="9_eopii"]
+[ext_resource type="BitMap" uid="uid://c0e34rlcmqfd3" path="res://Images/BitMaps/Archdiocese of Santa Fe.png" id="9_eopii"]
 [ext_resource type="Texture2D" uid="uid://c3025xhjfgrdn" path="res://Images/Nations/Badland Buckaroos.png" id="9_q6lx1"]
 [ext_resource type="Texture2D" uid="uid://ckmb8bbahb1i" path="res://Images/Nations/Baggers.png" id="10_q6lx1"]
 [ext_resource type="Texture2D" uid="uid://dw33nrj0kjfme" path="res://Images/Nations/Battleford.png" id="11_5qtum"]
-[ext_resource type="BitMap" uid="uid://da08w66jkdvp8" path="res://Images/BitMaps/Arroyo.png" id="11_x2rrw"]
+[ext_resource type="BitMap" uid="uid://ckv0lres2p16q" path="res://Images/BitMaps/Arroyo.png" id="11_x2rrw"]
 [ext_resource type="Texture2D" uid="uid://b2bm1ka50sc42" path="res://Images/Nations/Baron's Eyrie.png" id="12_ie368"]
-[ext_resource type="BitMap" uid="uid://bn8ewj5ardo8p" path="res://Images/BitMaps/Assassin City.png" id="13_i2ps1"]
+[ext_resource type="BitMap" uid="uid://co4qgd5ys5s7w" path="res://Images/BitMaps/Assassin City.png" id="13_i2ps1"]
 [ext_resource type="Texture2D" uid="uid://yj48rpqthkoh" path="res://Images/Nations/Baudelio Ranchers.png" id="13_x5dfk"]
 [ext_resource type="Texture2D" uid="uid://cvkpg1i22fix6" path="res://Images/Nations/Bayou Motors.png" id="14_fls3e"]
-[ext_resource type="BitMap" uid="uid://0j5faln0dvvn" path="res://Images/BitMaps/Badland Buckaroos.png" id="15_inipc"]
+[ext_resource type="BitMap" uid="uid://c3025xhjfgrdn" path="res://Images/BitMaps/Badland Buckaroos.png" id="15_inipc"]
 [ext_resource type="Texture2D" uid="uid://csvbyjtmf30o2" path="res://Images/Nations/Beltran-Levya.png" id="15_k63oc"]
 [ext_resource type="Texture2D" uid="uid://sd4r08ef16y" path="res://Images/Nations/Big Grass.png" id="16_j4oe2"]
-[ext_resource type="BitMap" uid="uid://521c37468wht" path="res://Images/BitMaps/Baggers.png" id="17_j6stj"]
+[ext_resource type="BitMap" uid="uid://ckmb8bbahb1i" path="res://Images/BitMaps/Baggers.png" id="17_j6stj"]
 [ext_resource type="Texture2D" uid="uid://qh4snvmntk7e" path="res://Images/Nations/Binary Counts.png" id="17_riaky"]
 [ext_resource type="Texture2D" uid="uid://ddckffeypflxt" path="res://Images/Nations/Bismarck.png" id="18_vtkp8"]
-[ext_resource type="BitMap" uid="uid://cxx8c1tn527kh" path="res://Images/BitMaps/Battleford.png" id="19_jah6u"]
+[ext_resource type="BitMap" uid="uid://dw33nrj0kjfme" path="res://Images/BitMaps/Battleford.png" id="19_jah6u"]
 [ext_resource type="Texture2D" uid="uid://dsljklu7pqibx" path="res://Images/Nations/Black Canyon.png" id="19_rg57b"]
 [ext_resource type="Texture2D" uid="uid://dcda4m7v0x37e" path="res://Images/Nations/Blue Rose Society.png" id="20_macow"]
-[ext_resource type="BitMap" uid="uid://wcvbib5oejbb" path="res://Images/BitMaps/Baron's Eyrie.png" id="21_r3eny"]
+[ext_resource type="BitMap" uid="uid://b2bm1ka50sc42" path="res://Images/BitMaps/Baron's Eyrie.png" id="21_r3eny"]
 [ext_resource type="Texture2D" uid="uid://dk7w7b84d7tp0" path="res://Images/Nations/Bone Dancers.png" id="21_uus22"]
 [ext_resource type="Texture2D" uid="uid://bex2bn1fpswte" path="res://Images/Nations/Broken Coast.png" id="22_tuwt4"]
-[ext_resource type="BitMap" uid="uid://qmqd7foik11" path="res://Images/BitMaps/Baudelio Ranchers.png" id="23_agwr8"]
+[ext_resource type="BitMap" uid="uid://yj48rpqthkoh" path="res://Images/BitMaps/Baudelio Ranchers.png" id="23_agwr8"]
 [ext_resource type="Texture2D" uid="uid://dumi3r6r5c1hg" path="res://Images/Nations/Caesar's Legion.png" id="23_tuwt4"]
 [ext_resource type="Texture2D" uid="uid://dn0md445i4jtn" path="res://Images/Nations/Carbon.png" id="24_1ye5v"]
 [ext_resource type="Texture2D" uid="uid://bavvxqnd5s8kd" path="res://Images/Nations/Carcass Walkers.png" id="25_8cxpi"]
-[ext_resource type="BitMap" uid="uid://buf1koccx1uhk" path="res://Images/BitMaps/Bayou Motors.png" id="25_ltv0b"]
+[ext_resource type="BitMap" uid="uid://cvkpg1i22fix6" path="res://Images/BitMaps/Bayou Motors.png" id="25_ltv0b"]
 [ext_resource type="Texture2D" uid="uid://01ht6ba4bkjt" path="res://Images/Nations/Chemult Station.png" id="26_wpvg5"]
-[ext_resource type="BitMap" uid="uid://dplrt4bn0u7qj" path="res://Images/BitMaps/Beltran-Levya.png" id="27_3iupj"]
+[ext_resource type="BitMap" uid="uid://csvbyjtmf30o2" path="res://Images/BitMaps/Beltran-Levya.png" id="27_3iupj"]
 [ext_resource type="Texture2D" uid="uid://b6wabqo3sbrxj" path="res://Images/Nations/Cherokee Nation.png" id="27_078fj"]
 [ext_resource type="Texture2D" uid="uid://cuot2ri1bl21o" path="res://Images/Nations/Chichen Itza.png" id="28_unquq"]
 [ext_resource type="Texture2D" uid="uid://d288wy3bhm8md" path="res://Images/Nations/Chickasaw-Muscogee Coalition.png" id="29_pptwf"]
-[ext_resource type="BitMap" uid="uid://c2elwsbb4o6pv" path="res://Images/BitMaps/Big Grass.png" id="29_vymcg"]
+[ext_resource type="BitMap" uid="uid://sd4r08ef16y" path="res://Images/BitMaps/Big Grass.png" id="29_vymcg"]
 [ext_resource type="Texture2D" uid="uid://cxsi1q44qaxki" path="res://Images/Nations/Choctaw Nation.png" id="30_ak4ow"]
 [ext_resource type="Texture2D" uid="uid://w67t4lwwi5p5" path="res://Images/Nations/Church of the Silo.png" id="31_ajvq6"]
-[ext_resource type="BitMap" uid="uid://cilpegl2wpobg" path="res://Images/BitMaps/Binary Counts.png" id="31_xwlu1"]
+[ext_resource type="BitMap" uid="uid://qh4snvmntk7e" path="res://Images/BitMaps/Binary Counts.png" id="31_xwlu1"]
 [ext_resource type="Texture2D" uid="uid://dudkoo2amwye2" path="res://Images/Nations/Ciphers.png" id="32_cwq17"]
 [ext_resource type="Texture2D" uid="uid://e6ihqjos2on7" path="res://Images/Nations/Circle Junction.png" id="33_a0h6a"]
 [ext_resource type="Texture2D" uid="uid://blgs2yi7l7pw8" path="res://Images/Nations/Claim Jumpers.png" id="34_wcnou"]
@@ -279,6 +279,15 @@
 [ext_resource type="Texture2D" uid="uid://ca34ywhk8d653" path="res://Images/Nations/Apocryphia of Poseidon.png" id="274_p0qvf"]
 [ext_resource type="Texture2D" uid="uid://cw1x34hxrkpon" path="res://Images/Nations/Known Folk.png" id="275_oxmsk"]
 [ext_resource type="Texture2D" uid="uid://qrcikqg81w75" path="res://Images/Nations/Garden of Eden.png" id="276_sfulq"]
+[ext_resource type="Texture2D" uid="uid://rlj8un617ycr" path="res://Images/Nations/Bahamas.png" id="277_hra4m"]
+[ext_resource type="Texture2D" uid="uid://cn6120lsy0cvo" path="res://Images/Nations/Santo Domingo Legion.png" id="278_nsmub"]
+[ext_resource type="Texture2D" uid="uid://bpihtydfqau2s" path="res://Images/Nations/Hati.png" id="279_il22r"]
+[ext_resource type="Texture2D" uid="uid://lmi24d4eg2nm" path="res://Images/Nations/Dominican Republic.png" id="280_2ixqe"]
+[ext_resource type="Texture2D" uid="uid://bpu5ykn27e8x1" path="res://Images/Nations/Puerto Rico.png" id="281_p8a3i"]
+[ext_resource type="Texture2D" uid="uid://0wi56k7t8f8t" path="res://Images/Nations/West Indian Federation.png" id="282_hcjej"]
+[ext_resource type="Texture2D" uid="uid://cq7qitnoeeeaj" path="res://Images/Nations/Dominion of Jamaica.png" id="283_55toc"]
+[ext_resource type="Texture2D" uid="uid://dj22qeqh7n6wv" path="res://Images/Nations/Jamaica.png" id="284_fs57f"]
+[ext_resource type="Texture2D" uid="uid://dox16umifurjt" path="res://Images/AoC Boarder.png" id="287_jmfat"]
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_eopii"]
 
@@ -3763,6 +3772,118 @@ layout_mode = 2
 texture_normal = ExtResource("276_sfulq")
 script = ExtResource("3_np2xp")
 
+[node name="Bahamas" type="MarginContainer" parent="Nations" unique_id=1175130770 groups=["Across the Caribbean"]]
+visible = false
+layout_mode = 0
+offset_left = 2815.0
+offset_top = 1676.0
+offset_right = 3036.0
+offset_bottom = 1895.0
+mouse_filter = 2
+
+[node name="Bahamas" type="TextureButton" parent="Nations/Bahamas" unique_id=2041602180]
+layout_mode = 2
+texture_normal = ExtResource("277_hra4m")
+script = ExtResource("3_np2xp")
+
+[node name="Santo Domingo Legion" type="MarginContainer" parent="Nations" unique_id=1944780253 groups=["Across the Caribbean"]]
+visible = false
+layout_mode = 0
+offset_left = 3040.0
+offset_top = 1882.0
+offset_right = 3179.0
+offset_bottom = 1997.0
+mouse_filter = 2
+
+[node name="Santo Domingo Legion" type="TextureButton" parent="Nations/Santo Domingo Legion" unique_id=1003536707]
+layout_mode = 2
+texture_normal = ExtResource("278_nsmub")
+script = ExtResource("3_np2xp")
+
+[node name="Hati" type="MarginContainer" parent="Nations" unique_id=802272517 groups=["Across the Caribbean"]]
+visible = false
+layout_mode = 0
+offset_left = 3034.0
+offset_top = 2039.0
+offset_right = 3202.0
+offset_bottom = 2167.0
+mouse_filter = 2
+
+[node name="Hati" type="TextureButton" parent="Nations/Hati" unique_id=589451664]
+layout_mode = 2
+texture_normal = ExtResource("279_il22r")
+script = ExtResource("3_np2xp")
+
+[node name="Dominican Republic" type="MarginContainer" parent="Nations" unique_id=1097612174 groups=["Across the Caribbean"]]
+visible = false
+layout_mode = 0
+offset_left = 3150.0
+offset_top = 2049.0
+offset_right = 3358.0
+offset_bottom = 2145.0
+mouse_filter = 2
+
+[node name="Dominican Republic" type="TextureButton" parent="Nations/Dominican Republic" unique_id=1100639289]
+layout_mode = 2
+texture_normal = ExtResource("280_2ixqe")
+script = ExtResource("3_np2xp")
+
+[node name="Puerto Rico" type="MarginContainer" parent="Nations" unique_id=948073247 groups=["Across the Caribbean"]]
+visible = false
+layout_mode = 0
+offset_left = 3382.0
+offset_top = 2108.0
+offset_right = 3530.0
+offset_bottom = 2165.0
+mouse_filter = 2
+
+[node name="Puerto Rico" type="TextureButton" parent="Nations/Puerto Rico" unique_id=1552537329]
+layout_mode = 2
+texture_normal = ExtResource("281_p8a3i")
+script = ExtResource("3_np2xp")
+
+[node name="West Indian Federation" type="MarginContainer" parent="Nations" unique_id=595745377 groups=["Across the Caribbean"]]
+visible = false
+layout_mode = 0
+offset_left = 3580.0
+offset_top = 2134.0
+offset_right = 3728.0
+offset_bottom = 2291.0
+mouse_filter = 2
+
+[node name="West Indian Federation" type="TextureButton" parent="Nations/West Indian Federation" unique_id=1190137269]
+layout_mode = 2
+texture_normal = ExtResource("282_hcjej")
+script = ExtResource("3_np2xp")
+
+[node name="Dominion of Jamaica" type="MarginContainer" parent="Nations" unique_id=1303986216 groups=["Across the Caribbean"]]
+visible = false
+layout_mode = 0
+offset_left = 2693.0
+offset_top = 2057.0
+offset_right = 2906.0
+offset_bottom = 2156.0
+mouse_filter = 2
+
+[node name="Dominion of Jamaica" type="TextureButton" parent="Nations/Dominion of Jamaica" unique_id=442189633]
+layout_mode = 2
+texture_normal = ExtResource("283_55toc")
+script = ExtResource("3_np2xp")
+
+[node name="Jamaica" type="MarginContainer" parent="Nations" unique_id=565394790 groups=["Across the Caribbean"]]
+visible = false
+layout_mode = 0
+offset_left = 2879.0
+offset_top = 2128.0
+offset_right = 2948.0
+offset_bottom = 2163.0
+mouse_filter = 2
+
+[node name="Jamaica" type="TextureButton" parent="Nations/Jamaica" unique_id=1105385782]
+layout_mode = 2
+texture_normal = ExtResource("284_fs57f")
+script = ExtResource("3_np2xp")
+
 [node name="Borders" type="MarginContainer" parent="." unique_id=1984200759]
 offset_right = 4132.0
 offset_bottom = 2304.0
@@ -3785,6 +3906,20 @@ mouse_filter = 2
 layout_mode = 2
 mouse_filter = 2
 texture = ExtResource("240_x2rrw")
+stretch_mode = 2
+
+[node name="Across the Caribbean Borders" type="MarginContainer" parent="." unique_id=1465321611 groups=["Across the Caribbean"]]
+visible = false
+offset_left = 2674.0
+offset_top = 1641.0
+offset_right = 3709.0
+offset_bottom = 2304.0
+mouse_filter = 2
+
+[node name="Borders" type="TextureRect" parent="Across the Caribbean Borders" unique_id=1447764098]
+layout_mode = 2
+mouse_filter = 2
+texture = ExtResource("287_jmfat")
 stretch_mode = 2
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1691633582]
@@ -3890,10 +4025,27 @@ layout_mode = 2
 
 [node name="Label" type="Label" parent="SideBar/Settings/VBoxContainer/Submods/VBoxContainer/East Coast Rebirth" unique_id=1508648235]
 layout_mode = 2
+size_flags_horizontal = 3
 theme_override_font_sizes/font_size = 32
 text = "East Coast Rebirth"
+horizontal_alignment = 1
+vertical_alignment = 1
 
 [node name="East Coast Rebirth" type="CheckButton" parent="SideBar/Settings/VBoxContainer/Submods/VBoxContainer/East Coast Rebirth" unique_id=1144841817]
+layout_mode = 2
+
+[node name="Across the Caribbean" type="HBoxContainer" parent="SideBar/Settings/VBoxContainer/Submods/VBoxContainer" unique_id=483557189]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="SideBar/Settings/VBoxContainer/Submods/VBoxContainer/Across the Caribbean" unique_id=593913575]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 32
+text = "AoC"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Across the Caribbean" type="CheckButton" parent="SideBar/Settings/VBoxContainer/Submods/VBoxContainer/Across the Caribbean" unique_id=1812864375]
 layout_mode = 2
 
 [node name="Colours" type="FoldableContainer" parent="SideBar/Settings/VBoxContainer" unique_id=1826629187]
@@ -3938,6 +4090,7 @@ text = "Export to PNG"
 [connection signal="pressed" from="Menu/Base/Main/Base/HBoxContainer/Button" to="Menu" method="increase_log"]
 [connection signal="pressed" from="Menu/Base/Main/Base/HBoxContainer/Button2" to="Menu" method="decrease_log"]
 [connection signal="pressed" from="SideBar/Settings/VBoxContainer/Submods/VBoxContainer/East Coast Rebirth/East Coast Rebirth" to="." method="ECR"]
+[connection signal="pressed" from="SideBar/Settings/VBoxContainer/Submods/VBoxContainer/Across the Caribbean/Across the Caribbean" to="." method="AoC"]
 [connection signal="toggled" from="SideBar/Settings/VBoxContainer/Gradient" to="." method="_on_gradient_toggled"]
 [connection signal="toggled" from="SideBar/Settings/VBoxContainer/Display Type" to="." method="_on_display_type_toggled"]
 [connection signal="pressed" from="SideBar/Save" to="." method="_on_save_pressed"]

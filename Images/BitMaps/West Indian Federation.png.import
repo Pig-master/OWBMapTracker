@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://0wi56k7t8f8t"
+path="res://.godot/imported/West Indian Federation.png-d1b9bde8dd0d0e5dac6d871fbbbb7d54.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/West Indian Federation.png"
+dest_files=["res://.godot/imported/West Indian Federation.png-d1b9bde8dd0d0e5dac6d871fbbbb7d54.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://bpihtydfqau2s"
+path="res://.godot/imported/Hati.png-497d0e1f2bb65c84e862839bdb5aff0c.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Hati.png"
+dest_files=["res://.godot/imported/Hati.png-497d0e1f2bb65c84e862839bdb5aff0c.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://lmi24d4eg2nm"
+path="res://.godot/imported/Dominican Republic.png-8a59ad4f86d45478eba5bf06be12bc8f.res"
+
+[deps]
+
+source_file="res://Images/BitMaps/Dominican Republic.png"
+dest_files=["res://.godot/imported/Dominican Republic.png-8a59ad4f86d45478eba5bf06be12bc8f.res"]
+
+[params]
+
+create_from=0
+threshold=0.5
